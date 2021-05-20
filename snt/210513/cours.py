@@ -53,4 +53,14 @@ print(res[-8:])
 print('\n=== Comprehensive list')
 print('redo the above with a Comprehensive list')
 
+res2 = [s for s in dir(__builtins__) if s.islower() and not s.startswith('__')]
+
+
+if res == res2:
+    print('Bravo !\n')
+else:
+    print('\n:(')
+
+
+
 
