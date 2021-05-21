@@ -40,6 +40,10 @@ print('\n=== Control structures ===')
 print('Todo: put in a list ll all __builtins__ python methods, use '
       's.islower and s.startswith')
 
+x = 'Li'
+x = 'Romuald'
+nom = x.upper() if len(x) >= 4 else x
+
 print(l)
 # [22, 3.14, 'world']
 res = []
@@ -62,5 +66,8 @@ else:
     print('\n:(')
 
 
+age = 18
+majeur = True if age >= 18 else False
+# True
 
 
