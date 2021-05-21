@@ -70,4 +70,8 @@ age = 18
 majeur = True if age >= 18 else False
 # True
 
+for s in ll: 
+    ...:     print(s.upper()) 
+    ...:     print(f'  {getattr(ll, s).__doc__}') 
+
 
