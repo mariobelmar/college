@@ -70,8 +70,30 @@ age = 18
 majeur = True if age >= 18 else False
 # True
 
-for s in ll: 
-    ...:     print(s.upper()) 
-    ...:     print(f'  {getattr(ll, s).__doc__}') 
+# for s in ll:
+#     print(s.upper())
+#     print(f'  {getattr(ll, s).__doc__}')
+# 
 
+famille = [('papa', 'M'), ('mom', 'F'), ('bro', 'M'), ('me', 'M')]
+
+def getsex(famille):
+    print('boys:')
+    for t in famille:
+        if t[-1] == 'M':
+            print('  ', t[0])
+    print('girls:')
+    for t in famille:
+        if t[-1] == 'F':
+            print('  ', t[0])
+
+
+getsex(famille)
+
+# boys:
+#    papa
+#    bro
+#    me
+# girls:
+#    mom
 
