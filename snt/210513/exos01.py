@@ -59,43 +59,55 @@ affiche un message pour préciser si cette année est bissextile ou non.
 
 data_structure = """
 1. define `ll=[17, 38, 10, 25, 72], puis effectuez les actions suivantes:
-    - triez et affichez la liste ;
-    - ajoutez l’élément 12 à la liste et affichez la liste ;
-    - renversez et affichez la liste;
-    - affichez l’indice de l’élément 17 ;
-    - enlevez l’élément 38 et affichez la liste;
-    - affichez la sous-liste du 2eau 3eélément;
-    - affichez la sous-liste du début au 2eélément;
-    - affichez la sous-liste du 3eélément à la fin
-    - affichez la sous-liste complète de la liste;
-    - aaffichez le dernier élément en utilisant un indiçage négatif.
+    -1triez et affichez la liste ;
+    -2ajoutez l’élément 12 à la liste et affichez la liste ;
+    -3renversez et affichez la liste;
+    -4affichez l’indice de l’élément 17 ;
+    -5enlevez l’élément 38 et affichez la liste;
+    -6affichez la sous-liste du 2eau 3eélément;
+    -7affichez la sous-liste du début au 2eélément;
+    -8affichez la sous-liste du 3eélément à la fin
+    -9affichez la sous-liste complète de la liste;
+    -10affichez le dernier élément en utilisant un indiçage négatif.
 
 Bien remarquer que certaines méthodes de liste ne retournent rien.
 """
 ll = [17, 38, 10, 25, 72]
+# sort
+print('1. sorted:', ll.sort(), ll)
+print('2. :', ll.append(12), ll)
+print('3. :', ll.reverse(), ll)
+print('4. :', ll[4])
+print('5. :',ll.remove(38), ll)
+print('6. :',ll[1:3])
+print('7. :',ll[:2])
+print('8. :',ll[2:])
+print('9. :',ll)
+print('10.:',ll[-1])
 
 comprehensive_list = """
-2. initialisez truc comme une liste vide, etmachincomme une liste de cinq
-   flottants nuls.Affichez ces listes. Utilisez la fonction range() pour
-   afficher :
+2.1  Utilisez la fonction range() pour afficher :
+
     - les entiers de 0 à 3 ;
     - les entiers de 4 à 7 ;
     - les entiers de 2 à 8 par pas de 2.
 
-Définir chose comme une liste des entiers de 0 à 5 et testez l’appartenance des élé-ments 3 et 6 àchose.
+2.2 à partir de ll = [0, 1, 2, 3, 4, 5] construire [0, 2, 4]
 
-3. Utilisez une liste en compréhension pour ajouter 3 à chaque élément d’une
-   liste d’en-tiers de 0 à 5.
+3. Utilisez une liste en compréhension pour ajouter 3 à chaque élément
+d’une liste d’en-tiers de 0 à 5.
 
-4. Utilisez une liste en compréhension pour ajouter 3 à chaque élément d’une
-   liste d’en-tiers de 0 à 5, mais seulement si l’élément est supérieur ou égal
-   à 2.
+4. Utilisez une liste en compréhension pour ajouter 3 à chaque élément
+d’une liste d’en-tiers de 0 à 5, mais seulement si l’élément est
+supérieur ou égal à 2.
 
 5. Utilisez une liste en compréhension pour obtenir la liste
-   ['ad', 'ae',  'bd',  'be',◃'cd',  'ce'] à partir des chaînes"abc"et"de".
+   ['ad', 'ae',  'bd',  'be', 'cd',  'ce'] à partir des
+   chaînes"abc"et"de".
 
 Indication: utilisez deux bouclesforimbriquées.
 """
 # print("== comprehensive_list")
 # print([x for x in range(4)])
+
 
