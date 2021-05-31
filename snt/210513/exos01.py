@@ -126,8 +126,8 @@ for i in 'abc':
         print(i + j)
         alph.append(i + j)
 
-print('2.4', alph)
+print('2.5', alph)
 
 [alph2 + alph3 for alph2 in 'abc' for alph3 in 'de']
 
-print('2.4bis', [alph2 + alph3 for alph2 in 'abc' for alph3 in 'de'])
+print('2.5bis', [alph2 + alph3 for alph2 in 'abc' for alph3 in 'de'])
