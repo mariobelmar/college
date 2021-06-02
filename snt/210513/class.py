@@ -2,10 +2,15 @@ from random import randint
 
 class Voiture:
     def __init__(self, nom='auto'):
+        """
+        This __init__ methos is automaticly called at instance creation
+        """
         self.nom = nom
         self.gaz = 15
+
     def show(self):
-        print(f"I'm a car, my name is {self.nom:12} my tank has {15} litres")
+        print(f"I'm a car, my name is {self.nom:12} my tank has {self.gaz} litres")
+
     def run(self, distance=1):
         # print(f'je roule de {distance} km')
         self.gaz = self.gaz - distance
@@ -16,6 +21,10 @@ cars = [Voiture(f'auto_{i}') for i in range(6)]
 for car in cars:
     car.run(randint(1, 5))
     car.show()
+
+cc = Voiture(nom='Mario')
+
+print(cc.nom, cc.gaz)
 
 #  .... je roule de 1 km, il me reste: 11
 # I'm a car, my name is auto_0       my tank has 11 litres
