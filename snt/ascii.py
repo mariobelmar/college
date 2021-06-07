@@ -15,44 +15,44 @@ for i in range(33, 127):
     # (q 0x71) (r 0x72) (s 0x73) (t 0x74) (u 0x75) (v 0x76) (w 0x77) (x 0x78)
     # (y 0x79) (z 0x7a) ({ 0x7b) (| 0x7c) (} 0x7d) (~ 0x7e)
 
-i, s, l, d = '', 'hello', [22, 3.14, 'world'], {'age': 33, 'name': 'Luis'}
-i = '' 
 
 
-s.count('2')
-s.count('l')
-  #0
-  #2
 
-s.find('2')
-s.find('l')
-  #-1
-  #2
-s..rfind('2')
-s.rfind('l')
-  #-1
-  #3
 
-#s.index('a')
-s.index('h')
-  #value error
-  #0
-  #s[0]
-    #h
 
-s.isalnum()
-i.isalnum()
-  #True
-  #False
 
-s.isalpha()
-i.isalpha()
-  #True
-  #True
 
-t = 'abababebebebe'
-t.split('a')
-  #['a', 'a', 'a', 'e', 'e', 'e', 'e']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
