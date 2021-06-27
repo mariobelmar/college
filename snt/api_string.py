@@ -1,38 +1,6 @@
-'bonjour'.count('2')
-'bonjour'.count('l')
-# 0
-# 2
-
-'bonjour'.find('2')
-'bonjour'.find('l')
-# -1
-# 2
-
-'bonjour'.rfind('2')
-'bonjour'.rfind('l')
-
-s = 'bonjour monsieur h'
-# s = 'bonjour'
-if s.count('h'):
-    print(f'position of h in "{s}":', s.index('h'))
-    # position of h in "bonjour monsieur h": 17
-else:
-    print(f'"h" not present in "{s}"')
-    # "h" not present in "bonjour"
-
-'bonjour'.isalnum()
-'bonjour'.isalnum()
-
-'bonjour'.isalpha()
-'bonjour'.isalpha()
-
-t = '/home/mario/path/to/my/file.txt'
-print(t.split('/'))
-# ['', 'home', 'mario', 'path', 'to', 'my', 'file.txt']
-
-
-# group string API
+print("## grouping string API")
 string_api = """
+# Format case
 s.capitalize
 s.upper
 s.lower
@@ -40,11 +8,10 @@ s.swapcase
 s.title
 s.center
 
+# replace and translate
 s.maketrans
 s.translate
 s.replace
-
-s.encode
 
 s.endswith
 s.startswith
@@ -60,10 +27,13 @@ s.split
 s.rsplit
 s.splitlines
 
+# strip spaces and tabs
 s.strip
 s.rstrip
 s.lstrip
 
+# Work in progress
+s.encode
 s.zfill
 s.casefold
 s.ljust
@@ -74,6 +44,7 @@ s.expandtabs
 s.format
 s.format_map
 
+# is ...
 s.isalnum
 s.isalpha
 s.isascii
@@ -87,3 +58,26 @@ s.isspace
 s.istitle
 s.isupper
 """
+print(string_api)
+
+
+print('\n## s.count, rfind and find')
+s = 'bonjour'
+print(f"how many 'o' in string '{s}' ?:",  s.count('o'))
+# how many 'o' in string 'bonjour' ?: 2
+
+
+print('\n## s.index and s.count')
+s = 'bonjour monsieur h'
+# s = 'bonjour'
+if s.count('h'):
+    print(f'position of h in "{s}":', s.index('h'))
+    # position of h in "bonjour monsieur h": 17
+else:
+    print(f'"h" not present in "{s}"')
+    # "h" not present in "bonjour"
+
+print('\n## s.strip')
+t = '/home/mario/path/to/my/file.txt'
+print(t, '\n',  t.split('/'))
+# ['', 'home', 'mario', 'path', 'to', 'my', 'file.txt']
