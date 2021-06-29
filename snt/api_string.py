@@ -22,10 +22,10 @@ s.rfind
 s.rindex
 s.index
 
-s.join
-s.split
-s.rsplit
-s.splitlines
+s.join   # "/".join(['home', 'mario', 'python']) => 'home/mario/python'
+s.split  #'a/b/c/d'.split('/', 2) =>  ['a', 'b', 'c/d']
+s.rsplit     #'a/b/c/d'.rsplit('/', 2) => ['a/b', 'c', 'd']
+s.splitlines  'ab\ncd\rd'.splitlines() => ['ab', 'cd', 'd']
 
 # strip spaces and tabs
 s.strip
@@ -45,8 +45,8 @@ s.format
 s.format_map
 
 # is ...
-s.isalnum
-s.isalpha
+s.isalnum     # 'abc123A'.isalnum()  => True
+s.isalpha     
 s.isascii
 s.isdecimal
 s.isdigit
