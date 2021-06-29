@@ -13,14 +13,14 @@ s.maketrans
 s.translate
 s.replace
 
-s.endswith
-s.startswith
+s.endswith     # 'alacl'.endswith('a')  => False
+s.startswith   # 'alacl'.startswith('a') => True
 
-s.count
-s.find
-s.rfind
-s.rindex
-s.index
+s.count     # 'alalcl'.count('a') => 2
+s.find      # 'alacl'.find('a') => 0   'alacl'[0] => 'a'
+s.rfind     # 'alacl'.rfind('a') => 2   'alacl'[2] => 'a'
+s.rindex    # 'alacl'.rindex('a') => 2 'alacl'[2] => 'a'
+s.index     # 'alacl'.index('a') => 0   'alacl'[0] => 'a'
 
 s.join   # "/".join(['home', 'mario', 'python']) => 'home/mario/python'
 s.split  #'a/b/c/d'.split('/', 2) =>  ['a', 'b', 'c/d']
