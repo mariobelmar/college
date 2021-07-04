@@ -1,12 +1,12 @@
 print("## grouping string API")
 string_api = """
 # Format case
-s.capitalize
-s.upper
-s.lower
-s.swapcase
-s.title
-s.center
+s.capitalize   #'abcd'.capitalize()  => 'Abcd'
+s.upper        #'abcd'.upper()  => 'ABCD'
+s.lower        #'ABCD'.lower()  => 'abcd'
+s.swapcase     #'ABcd'.swapcase()  => 'abCD'
+s.title        #'a B'.title() => 'A B'
+s.center       #?
 
 # replace and translate
 s.maketrans
@@ -28,9 +28,9 @@ s.rsplit     #'a/b/c/d'.rsplit('/', 2) => ['a/b', 'c', 'd']
 s.splitlines  'ab\ncd\rd'.splitlines() => ['ab', 'cd', 'd']
 
 # strip spaces and tabs
-s.strip
-s.rstrip
-s.lstrip
+s.strip       #'   abz  '.strip() => 'abz'
+s.rstrip      #'   abz  '.rstrip() => '   abz'
+s.lstrip      #'   abz  '.lstrip() => 'abz  '
 
 # Work in progress
 s.encode
