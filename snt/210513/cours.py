@@ -58,6 +58,9 @@ print('\n=== Comprehensive list')
 print('redo the above with a Comprehensive list')
 
 res2 = [s for s in dir(__builtins__) if s.islower() and not s.startswith('__')]
+res3 = [s for s in dir(__builtin__) if not s[0].isupper() and not s.startswith('_')]
+assert res2 == res3
+
 
 
 if res == res2:
