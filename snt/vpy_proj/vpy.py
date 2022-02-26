@@ -12,6 +12,15 @@ from vpython import sphere, color, vector, box, rate
 from vpython import gcurve, graph, arange
 from math import sin, cos
 
+
+grosse_boule = sphere(pos = vector(-5, -5, 0), radius=5, color=color.white)
+moyenne_boule = sphere(pos = vector(-15, 0, 0), radius=3, color=color.white)
+tete = sphere(pos = vector(-5, 5, 0), radius=2, color=color.white)
+nez = sphere(pos = vector(0, 15, -1), radius=0.5, color=color.red)
+grosse_boule.velocity = vector(5, 0, 0)
+moyenne_boule.velocity = vector(-5, 0, 0)
+tete.velocity = vector(5, 0, 0)
+
 """
 ball = sphere(pos=vector(-5, 0, 0), radius=0.5, color=color.cyan)
 wallR = box(pos=vector(6, 0, 0), size=vector(0.2, 12, 12),
@@ -38,14 +47,6 @@ for x in arange(0,30,0.1):
 """
 
 
-grosse_boule = sphere(pos = vector(-5, -5, 0), radius=5, color=color.white)
-moyenne_boule = sphere(pos = vector(-15, 0, 0), radius=3, color=color.white)
-tete = sphere(pos = vector(-5, 5, 0), radius=2, color=color.white)
-nez = sphere(pos = vector(0, 15, -1), radius=0.5, color=color.red)
-
-grosse_boule.velocity = vector(5, 0, 0)
-moyenne_boule.velocity = vector(-5, 0, 0)
-tete.velocity = vector(5, 0, 0)
 
 s="""
 deltat = 0.005
