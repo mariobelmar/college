@@ -1,8 +1,13 @@
-(venv) mario@anime:~/
-(venv) mario@anime:~/ sudo su -
-root@anime:/root/#
-root@anime:/root/# cd /home
-root@anime:/home/# tar -cf mario_20210912.tar /home/mario
-root@anime:/home# rsync -aP mario_20210912.tar mario@192.168.1.53:/volume1/home_mario/
+(venv) mario@anime:~  # backup
+(venv) mario@anime:~ pwd
+/home/mario
+(venv) mario@anime:~ time tar -cvf mario_20210912.tar .
+(venv) mario@anime:~ time rsync -aP mario_20210912.tar mario@192.168.1.53:/volume1/home_mario/
+(venv) mario@anime:~
 
+
+(venv) mario@anime2:~ # back from backup
+(venv) mario@anime2:~ pwd
+/home/mario
+(venv) mario@anime2:~ time rsync -aP  mario@192.168.1.53:/volume1/home_mario/mario_20210912.tar .
 
