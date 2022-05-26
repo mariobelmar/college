@@ -1,14 +1,40 @@
-La contaminacion y como luchar contra ella 
-===========================================
-
-le problème/introduction
-------------------------
-
+La Contamination
+==================
 
 danger/risque
 -------------
 
+
+
+que es ?
+--------
+
+porque ?
+--------
+
+solucion
+--------
+
+1850 1950
+=========
+
+contexte
+---------
+
+type d'energie
+--------------
+
+consequence
+-----------
+
+1950 2020
+=========
+
+danger
+------
+
 Para nosotros
+~~~~~~~~~~~~~~
 
 El contaminacion del aire mata cada ano 48k franceses mientras autros tiennen
 enfermedad del respiracion y del corazon.
@@ -24,43 +50,6 @@ El dioxido de azufre ("soufre") y los oxidos de nitrogeno ("azote") provocan
 lluvias acidas (lluvias, nieves que se volven acida) que acidifien lagos y
 agua.
 
-temporalité
------------
-
-
-cause
------
-
-Pollution
-=========
-
-que es ?
---------
-
-porque ? 
---------
- 
-solucion
---------
-
-1850 1950
-=========
-
-contexte
---------
-
-type d'energie
---------------
-
-consequence
------------
-
-1950 2020
-=========
-
-danger
-------
-
 cause
 -----
 
@@ -70,5 +59,11 @@ cause
 solution energitique
 --------------------
 
-idées 
+idées
 ------
+
+
+
+
+.. :w|!clear; make clean html
+.. :nohlsearch
