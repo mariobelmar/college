@@ -73,11 +73,11 @@ no pueden reproducirse y nosotros
 
 cause
 -----
-.. Le développement de la technologie
-.. Déforestation
-.. Produits chimiques et pesticides utilisés dans l’agriculture
-.. Production de gaz par le bétail
-.. Population 
+Le développement de la technologie
+Déforestation
+Produits chimiques et pesticides utilisés dans l’agriculture
+Production de gaz par le bétail
+Population 
 
 2025 2070
 =========
