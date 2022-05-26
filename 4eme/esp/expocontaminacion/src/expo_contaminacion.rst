@@ -1,6 +1,11 @@
 La Contamination
 ==================
 
+.. figure:: /src/images/ep1-impunite-img-header.jpeg
+   :width: 800px
+
+   Un commentaire de l'image
+
 danger/risque
 -------------
 
