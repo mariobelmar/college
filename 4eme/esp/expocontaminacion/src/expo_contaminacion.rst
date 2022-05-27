@@ -1,14 +1,13 @@
 La Contamination
 ==================
 
-.. figure:: /src/images/ep1-impunite-img-header.jpeg
+.. figure:: /src/images/ep1-impunite-img-header.png
    :width: 800px
 
    Un commentaire de l'image
 
 danger/risque
 -------------
-
 
 
 que es ?
@@ -30,11 +29,14 @@ En el 19 siglo la maquina de vapor ha inventada, hay muchos compania que
 fabrican mas grandes fabricas.Es el comienzo de la revolucion
 industrial.
 
+.. figure:: /src/images/ob_cb0ce1_machine-vapeur.png
+   :width: 500px
+
 consequence
 -----------
 
 A causa de la maquina a vapor y del fabrica en el ciudad (londres) el smog se
-forman, que es ? 
+forman, que es ?
 Es una mezcla( mélange) entre el aire y el contaminacion y C02 del fabricas. A
 causa del smog por ejemplo : en algunos lugares de londres no podria ver frente
 a nosotros.
@@ -55,6 +57,15 @@ contaminacion sobre nuestra salud pueden tienen/tomar diferentes formas.
 Los/Las personas mas fragil, como el ninos y las personas de edad,son mas
 sensible a la contaminacion.
 
+.. figure:: /src/images/IMG_0126.png
+   :width: 500px
+
+   toto
+
+.. figure:: /src/images/o-BEIJING-SMOG-facebook.png
+   :width: 500px
+
+   toto
 
 
 Para los animales
@@ -82,11 +93,16 @@ no pueden reproducirse y nosotros
 
 cause
 -----
-Le développement de la technologie
-Déforestation
-Produits chimiques et pesticides utilisés dans l’agriculture
-Production de gaz par le bétail
-Population 
+
+Aumentacion de la populacion mondial provoca una necessita de objetos siempre
+mas grande, el gas, automoviles
+
+El desarrollo del technologia provoca una necessita de los materiales entonces
+: extraccion de recursos de la planeta
+
+Deforestacion
+
+Objetos quimicos y pesitcidos utilizados en la agricultura
 
 2025 2070
 =========
@@ -105,7 +121,6 @@ barrage
 
 nucléaire
 ~~~~~~~~~
-
 
 idées
 ------
