@@ -53,7 +53,7 @@ html_static_path = ['_static']
 
 # -- Options for LaTeX output --------------------------------
 latex_engine = 'xelatex'
-title = "La contaminacion \\newline\\newline\\large y como luchar contra ella !"
+title = "La contaminacion "  # "\\newline\\newline\\large y como luchar contra ella !"
 latex_documents = [('index', 'contaminacion.tex', title, author, 'howto')]
 latex_elements = {
   'papersize': 'a4paper',  # 'letterpaper' or 'a4paper'

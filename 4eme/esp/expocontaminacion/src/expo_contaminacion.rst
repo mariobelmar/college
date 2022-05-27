@@ -42,6 +42,7 @@ causa del smog por ejemplo : en algunos lugares de londres no podria ver frente
 a nosotros.
 Ademas del "smog", la contaminacion sodida es tambien un problemas de los
 trabajadores.
+
 1950 2020
 =========
 

@@ -18,3 +18,10 @@ help:
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+
+
+setup:
+	# to have latexpdf working
+	sudo apt-get install texlive-xetex texlive-latex-base texlive-extra-utils texlive-fonts-extra
+	@echo   => please install mermaid cli: mmdc
+
