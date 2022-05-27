@@ -50,3 +50,17 @@ html_theme = 'furo'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# -- Options for LaTeX output --------------------------------
+latex_engine = 'xelatex'
+title = "La contaminacion \\newline\\newline\\large y como luchar contra ella !"
+latex_documents = [('index', 'contaminacion.tex', title, author, 'howto')]
+latex_elements = {
+  'papersize': 'a4paper',  # 'letterpaper' or 'a4paper'
+  'pointsize': '10pt',     # global fontsize, possible values are 10pt, 11pt and 12pt
+  'sphinxsetup': 'hmargin={1.5cm,1.5cm}, vmargin={2cm,2cm}',
+  # 'classoptions': ',twocolumn',    # to have two columns
+  # 'tableofcontents': '',           # To remove the TOC
+  }
+latex_theme = 'howto'  # 'manual' to make a book, 'howto' to make an article
+
