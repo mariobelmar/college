@@ -26,11 +26,20 @@ solucion
 contexte y el typo de energia
 -----------------------------
 
-En el 19 siglo la maquina de vapor ha inventada 
+En el 19 siglo la maquina de vapor ha inventada, hay muchos compania que
+fabrican mas grandes fabricas.Es el comienzo de la revolucion
+industrial.
 
 consequence
 -----------
 
+A causa de la maquina a vapor y del fabrica en el ciudad (londres) el smog se
+forman, que es ? 
+Es una mezcla( mélange) entre el aire y el contaminacion y C02 del fabricas. A
+causa del smog por ejemplo : en algunos lugares de londres no podria ver frente
+a nosotros.
+Ademas del "smog", la contaminacion sodida es tambien un problemas de los
+trabajadores.
 1950 2020
 =========
 
