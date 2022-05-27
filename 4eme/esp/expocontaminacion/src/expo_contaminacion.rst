@@ -81,7 +81,8 @@ Para la planeta
 
 El dioxido de azufre ("soufre") y los oxidos de nitrogeno ("azote") provocan
 lluvias acidas (lluvias, nieves que se volven acida) que acidifien lagos y
-agua.
+agua. El deforestacion es tambien un problema, la reduccion de los arboles
+puedo provocar enfermedad respiratorio.
 
 concluision
 ~~~~~~~~~~~
@@ -94,15 +95,27 @@ no pueden reproducirse y nosotros
 cause
 -----
 
+Aumentacion de la populacion mondial
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Aumentacion de la populacion mondial provoca una necessita de objetos siempre
 mas grande, el gas, automoviles
+
+El desarrollo del technologia
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 El desarrollo del technologia provoca una necessita de los materiales entonces
 : extraccion de recursos de la planeta
 
-Deforestacion
+Desforestacion
+~~~~~~~~~~~~~~
+
+Los arboles fabrican y purfican oxigenos pero destruimos los bosques a causa de
+la necessita de construir edificios(para reproduccion de los animales, zonas
+industriales, etc.)
 
 Objetos quimicos y pesitcidos utilizados en la agricultura
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 2025 2070
 =========
