@@ -109,30 +109,34 @@ Los arboles fabrican y purfican oxigenos pero destruimos los bosques a causa de
 la necessita de construir edificios(para reproduccion de los animales, zonas
 industriales, etc.)
 
-Objetos quimicos y pesitcidos utilizados en la agricultura
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 2025 2070
 =========
 
 Solucion energitica
 --------------------
 
-Turbina éolica
-~~~~~~~~~~~~~~
-
-Paneles de suelo
+energia renovable
 ~~~~~~~~~~~~~~~~~
 
-Dique de agua
-~~~~~~~~~~~~~~
+El energia renovable es un energia que se renueva mas rapido que la esperancia
+de la vida de un humano.
+In el media podemos escuchar los politicos decen que los energias renovable son
+el futuro del humanidad. Pero 
 
 Nuclear
 ~~~~~~~
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+hidrocarburo
+~~~~~~~~~~~~
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 Ideas
 ------
 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 
 
