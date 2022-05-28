@@ -11,7 +11,13 @@ La contaminacion
 
 La contamincion es los desechos que nosotros producimos para construir,
 fabricar etc..
-Vien del industrialisacion despues el 19 siglo (revolucion industrial) 
+Vien del industrialisacion despues el 19 siglo (revolucion industrial) y de
+nuestros habitos : comer demasiada carne para algunas personnas, comprar cosas
+sin ver sus origen y como ellos han producido. 
+Debemos tenga cuidado a nuestros consomacion energitica ejemplo, cuando vamos a
+la playa debemos tenga cuidado a no tomar la carro.
+Podemos tambien fabricar un mondo totalmente ecologica que reutilizar nuestros
+basuras o utilizar el planeta de manera responsable.
 
 1850 1950
 =========
