@@ -6,23 +6,17 @@ La Contamination
 
    Un commentaire de l'image
 
-danger/risque
--------------
+La contaminacion
+----------------
 
-
-que es ?
---------
-
-porque ?
---------
-
-solucion
---------
+La contamincion es los desechos que nosotros producimos para construir,
+fabricar etc..
+Vien del industrialisacion despues el 19 siglo (revolucion industrial) 
 
 1850 1950
 =========
 
-contexte y el typo de energia
+Contexto y el typo de energia
 -----------------------------
 
 En el 19 siglo la maquina de vapor ha inventada, hay muchos compania que
@@ -32,8 +26,8 @@ industrial.
 .. figure:: /src/images/ob_cb0ce1_machine-vapeur.png
    :width: 500px
 
-consequence
------------
+Consequencia
+-------------
 
 A causa de la maquina a vapor y del fabrica en el ciudad (londres) el smog se
 forman, que es ?
@@ -46,10 +40,10 @@ trabajadores.
 1950 2020
 =========
 
-danger
-------
+Peligros
+--------
 
-Para nosotros
+Para quien ? 
 ~~~~~~~~~~~~~~
 
 El contaminacion del aire mata cada ano 48k franceses mientras autros tiennen
@@ -58,34 +52,28 @@ contaminacion sobre nuestra salud pueden tienen/tomar diferentes formas.
 Los/Las personas mas fragil, como el ninos y las personas de edad,son mas
 sensible a la contaminacion.
 
-.. figure:: /src/images/IMG_0126.png
-   :width: 500px
-
-   toto
-
 .. figure:: /src/images/o-BEIJING-SMOG-facebook.png
    :width: 500px
 
    toto
 
 
-Para los animales
-~~~~~~~~~~~~~~~~~
-
 En los oceanos el  plasticos matan las tortugas y sello.
 En el suelo, la desforestacion en la selva amazonica, mata pajaros y muchos
 especies porque ellos no tienen habitaciones.
 
 
-Para la planeta
-~~~~~~~~~~~~~~~
+.. figure:: /src/images/IMG_0126.png
+   :width: 500px
+
+   toto
 
 El dioxido de azufre ("soufre") y los oxidos de nitrogeno ("azote") provocan
 lluvias acidas (lluvias, nieves que se volven acida) que acidifien lagos y
 agua. El deforestacion es tambien un problema, la reduccion de los arboles
 puedo provocar enfermedad respiratorio.
 
-concluision
+Concluision
 ~~~~~~~~~~~
 
 Todos los peligros que explicamos pueden son relacionados por exemplo: si
@@ -93,7 +81,7 @@ la contaminacion mata las abejas los arboles, que producen nuestros oxygenes,
 no pueden reproducirse y nosotros
 
 
-cause
+Causa
 -----
 
 Aumentacion de la populacion mondial
@@ -121,22 +109,22 @@ Objetos quimicos y pesitcidos utilizados en la agricultura
 2025 2070
 =========
 
-solution energitique
+Solucion energitica
 --------------------
 
-éolienne
-~~~~~~~~
+Turbina éolica
+~~~~~~~~~~~~~~
 
-panneaux sollaire
+Paneles de suelo
 ~~~~~~~~~~~~~~~~~
 
-barrage
+Dique de agua
+~~~~~~~~~~~~~~
+
+Nuclear
 ~~~~~~~
 
-nucléaire
-~~~~~~~~~
-
-idées
+Ideas
 ------
 
 
