@@ -23,5 +23,5 @@ help:
 setup:
 	# to have latexpdf working
 	sudo apt-get install texlive-xetex texlive-latex-base texlive-extra-utils texlive-fonts-extra
-	@echo   => please install mermaid cli: mmdc
+	@echo '=> please install mermaid cli: mmdc'
 
