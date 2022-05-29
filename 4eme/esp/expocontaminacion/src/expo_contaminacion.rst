@@ -45,7 +45,7 @@ fabricas producen mucho CO2. Es el comienzo de la revolucion industrial.
    La máquina de vapor
 
 Consequencias
-------------
+--------------
 - El "smog" una mezcla (mélange) entre el aire y la contaminacion del C02 producido por
   las fabricas y las maquinas a vapor se forma en las ciudades (e.g. Londres)
 
