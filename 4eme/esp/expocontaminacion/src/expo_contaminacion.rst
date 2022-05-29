@@ -4,8 +4,6 @@ La Contamination
 .. figure:: /src/images/ep1-impunite-img-header.png
    :width: 800px
 
-   Un commentaire de l'image
-
 La contaminacion
 ----------------
 La contamincion son los desechos que producimos para construir, fabricar etc..  Vienne
@@ -13,16 +11,28 @@ de la industrialisacion despues el 19 siglo (revolucion industrial) y de nuestro
 habitos : comer demasiada carne, comprar cosas sin ver sus origen y como han cido
 producidas. 
 
-Debemos tener cuidado a nuestra consomacion energetica, por ejemplo, cuando vamos a la
-playa debemos tenner cuidado a no tomar el carro.  Podemos tambien fabricar un mondo
-totalmente ecologico que reutiliza las basuras o utilizar el planeta de manera
-responsable.
+La contamincion es los desechos que nosotros producimos para construir,
+fabricar etc..
+
+Vien del industrialisacion despues el 19 siglo (revolucion industrial) y de
+nuestros habitos : comer demasiada carne para algunas personnas, comprar cosas
+sin ver sus origen y como ellos han producido. 
+
+Debemos tenga cuidado a nuestros consomacion energitica ejemplo, cuando vamos a
+la playa debemos tenga cuidado a no tomar la carro.
+
+Podemos tambien fabricar un mondo totalmente ecologica que reutilizar nuestros
+basuras o utilizar el planeta de manera responsable.
 
 1850 1950
 =========
 
 Contexto y el typo de energia
 -----------------------------
+Antes del 19 siglo utilizan (1800) el madera, que es la causa de la
+desforestacion en esse éra. Despues ce utilizo el carbon mas eficiente con la
+maquina a vapor.
+
 En el siglo 19 la maquina de vapor fue inventada, muchas 
 fabricas producen mucho CO2. Es el comienzo de la revolucion industrial.
 
@@ -62,11 +72,8 @@ sensibles a la contaminacion.
 - La desforestacion en la selva amazonica, mata pajaros y muchas especes
   porque no tienen habitaciones.
 
-
 .. figure:: /src/images/IMG_0126.png
    :width: 500px
-
-   toto
 
 El dioxido de azufre ("soufre") :math:`SO_2` y los oxidos de nitrogeno :math:`NO_2`
 provocan lluvias acidas (lluvias, nieves que se volven acida) que acidifican lagos y el
@@ -97,13 +104,20 @@ La aumentacion de la populacion mondial produce la necessita de siempre mas prod
 
 El desarrollo del technologia
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-El desarrollo de la technologia provoca una necessita de materias primas
+El desarrollo de la technologia provoca una necessita de materias primas.
 
-Desforestacion
-~~~~~~~~~~~~~~
+Desforestacion y agricultur
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Los arboles fabrican y purfican oxigenos pero destruimos los bosques a causa de
 la necessita de construir edificios (para reproduccion de los animales, zonas
-industriales, etc.)
+industriales, etc.). 80% de que se cultiva en frances es por los animales que
+produce enormamente de carbones : ovejas 
+
+Mondialisacion
+~~~~~~~~~~~~~~
+El modelo de la mondialisacion es : hacer vender algo a alguien, el algo
+no venga del pais de alguien pero de, por ejemplo, de india. Y en india, indios
+achetar vinos de frances. El ruta de los objetos producir mas carbones 
 
 2025 2070
 =========
@@ -116,17 +130,41 @@ energia renovable
 El energia renovable es un energia que se renueva mas rapido que la esperancia
 de la vida de un humano.
 
-En los medias escuchamos a los politicos decir que las energias renovable son
-el futuro del humanidad. Pero
 
-Nuclear
-~~~~~~~
+.. figure:: /src/images/meta-chart.png
+   :width: 500px
 
-hidrocarburo
-~~~~~~~~~~~~
+En la television los politicos dicen que los energias renovable son
+el futuro del humanidad que son las unicas energia (propre).
+
+Pero si reemplazamos el energia a aceite por un energia renovable los
+materiales utilizados para construir los paneles solares, turbina eolica va a
+producir mas carbones y pedir mas recursos que las centrales termicas porque un
+paneles solares y un turbina eolica producen demasiado poco energia.
+
+- 80km/h éolienne = 3ml pétrole
+
+Un kilowatt que produce el turbina eolica costa 4 centavo mas su batterias que
+multiplicar su costo por 4 entonces 15 centavos sin olvidar que el turbina
+construirse a partir del aceite y carbon.  
+
+- kw pétrole = 0,3 cemtime = 50 * moins cher que éolien
+
+Sin los maquines ejemplo en la antiguedad utilizabamos esclaves entonces ahora
+cada persona consume 22000kw/h por ano entonces 200 esclaves por cada personas.
 
 Ideas
 ------
+En el enternet podemos ver projectos de un ciudad ecologica que utilizada el
+sistema circular:
+
+- hay un projecto de un ciudad debajo del oceano que se inspira del animales
+  marineros y autufisante
+
+- si no podemos frabricar un ciudad totalemente 100% ecologia podemos reducir
+  nuestros desechos mas carriles para bicicletas, menos supermercado mas
+  mercado con los productor y menos plasticos y mas ojetos reciclables.
 
 .. :w|!clear; make clean html
 .. :nohlsearch
+
