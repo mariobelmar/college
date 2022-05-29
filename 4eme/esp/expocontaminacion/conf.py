@@ -59,7 +59,8 @@ latex_elements = {
   'papersize': 'a4paper',  # 'letterpaper' or 'a4paper'
   'pointsize': '10pt',     # global fontsize, possible values are 10pt, 11pt and 12pt
   'sphinxsetup': 'hmargin={1.5cm,1.5cm}, vmargin={2cm,2cm}',
-  # 'classoptions': ',twocolumn',    # to have two columns
+  'preamble': '\setcounter{tocdepth}{2}',
+  'classoptions': ',twocolumn',    # to have two columns
   # 'tableofcontents': '',           # To remove the TOC
   }
 latex_theme = 'howto'  # 'manual' to make a book, 'howto' to make an article

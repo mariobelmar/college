@@ -1,24 +1,27 @@
-La Contamination
+La Contaminacion
 ==================
+Vamos a ver la contaminacion desde la revolucion industrial.
 
 .. figure:: /src/images/ep1-impunite-img-header.png
-   :width: 800px
+   :width: 600px
 
-La contaminacion
+Definicion
 ----------------
 La contamincion son los desechos que producimos para construir, fabricar etc..  Vienne
 de la industrialisacion despues el 19 siglo (revolucion industrial) y de nuestros
 habitos : comer demasiada carne, comprar cosas sin ver sus origen y como han cido
-producidas. 
+producidas.
 
-La contamincion es los desechos que nosotros producimos para construir,
+La contamincion son los desechos que nosotros producimos para construir,
 fabricar etc..
 
+Origen
+-------
 Vien del industrialisacion despues el 19 siglo (revolucion industrial) y de
 nuestros habitos : comer demasiada carne para algunas personnas, comprar cosas
-sin ver sus origen y como ellos han producido. 
+sin ver sus origen y como ellos han producido.
 
-Debemos tenga cuidado a nuestros consomacion energitica ejemplo, cuando vamos a
+Debemos tener cuidado a nuestros consomacion energitica ejemplo, cuando vamos a
 la playa debemos tenga cuidado a no tomar la carro.
 
 Podemos tambien fabricar un mondo totalmente ecologica que reutilizar nuestros
@@ -27,19 +30,21 @@ basuras o utilizar el planeta de manera responsable.
 1850 1950
 =========
 
-Contexto y el typo de energia
+Contexto y el typo de energía
 -----------------------------
 Antes del 19 siglo utilizan (1800) el madera, que es la causa de la
 desforestacion en esse éra. Despues ce utilizo el carbon mas eficiente con la
 maquina a vapor.
 
-En el siglo 19 la maquina de vapor fue inventada, muchas 
+En el siglo 19 la maquina de vapor fue inventada, muchas
 fabricas producen mucho CO2. Es el comienzo de la revolucion industrial.
 
 .. figure:: /src/images/ob_cb0ce1_machine-vapeur.png
    :width: 500px
 
-Consequencia
+   La máquina de vapor
+
+Consequencias
 ------------
 - El "smog" una mezcla (mélange) entre el aire y la contaminacion del C02 producido por
   las fabricas y las maquinas a vapor se forma en las ciudades (e.g. Londres)
@@ -55,7 +60,7 @@ Consequencia
 Peligros
 --------
 
-Para quien ? 
+Para quién ?
 ~~~~~~~~~~~~~~
 
 La contaminacion del aire mata cada ano 48k Franceses mientras autros tiennen
@@ -82,18 +87,17 @@ agua.
 La deforestacion es un problema major, solo los bosques pueden quitar el :math:`CO_2`
 del aire.
 
-Concluision
-~~~~~~~~~~~
+Peligros relacionados
+~~~~~~~~~~~~~~~~~~~~~
 Todos los peligros que explicamos son relacionados.
 
-Por exemplo: si la contaminacion mata las abejas los arboles, que producen nuestros
-oxygenes, no pueden reproducirse y nosotros tambien.
+Por exemplo: Si la contaminacion mata las abejas, los arboles no puenden reproducirse,
+los arboles producen nuestros oxygenes y consumen :math:`CO_2`.
 
+Causas
+------
 
-Causa
------
-
-Aumentacion de la populacion mondial
+Aumentación de la populación mondial
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 La aumentacion de la populacion mondial produce la necessita de siempre mas productos:
 
@@ -102,39 +106,41 @@ La aumentacion de la populacion mondial produce la necessita de siempre mas prod
 - automoviles
 - comida
 
-El desarrollo del technologia
+Mondialisación
+~~~~~~~~~~~~~~
+El modelo de la mondialisacion es : hacer vender algo a alguien, el algo
+no venga del pais de alguien pero de, por ejemplo, de india. Y en india, indios
+achetar vinos de frances. El ruta de los objetos producir mas carbones
+
+El desarrollo del technología
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 El desarrollo de la technologia provoca una necessita de materias primas.
 
-Desforestacion y agricultur
+Desforestación y agricultura
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Los arboles fabrican y purfican oxigenos pero destruimos los bosques a causa de
 la necessita de construir edificios (para reproduccion de los animales, zonas
 industriales, etc.). 80% de que se cultiva en frances es por los animales que
-produce enormamente de carbones : ovejas 
-
-Mondialisacion
-~~~~~~~~~~~~~~
-El modelo de la mondialisacion es : hacer vender algo a alguien, el algo
-no venga del pais de alguien pero de, por ejemplo, de india. Y en india, indios
-achetar vinos de frances. El ruta de los objetos producir mas carbones 
+produce enormamente de carbones : ovejas
 
 2025 2070
 =========
 
-Solucion energitica
+Solucion energética
 --------------------
 
-energia renovable
+energía renovable
 ~~~~~~~~~~~~~~~~~
 El energia renovable es un energia que se renueva mas rapido que la esperancia
 de la vida de un humano.
 
-
 .. figure:: /src/images/meta-chart.png
    :width: 500px
 
-En la television los politicos dicen que los energias renovable son
+   Sources: Un monde sans fin, miracle énergétique et dérive climatique
+   Christophe Blain et Jean-Marc Jancovici
+
+En la television los politicos dicen que las energias renovable son
 el futuro del humanidad que son las unicas energia (propre).
 
 Pero si reemplazamos el energia a aceite por un energia renovable los
@@ -146,12 +152,31 @@ paneles solares y un turbina eolica producen demasiado poco energia.
 
 Un kilowatt que produce el turbina eolica costa 4 centavo mas su batterias que
 multiplicar su costo por 4 entonces 15 centavos sin olvidar que el turbina
-construirse a partir del aceite y carbon.  
+construirse a partir del aceite y carbon.
 
 - kw pétrole = 0,3 cemtime = 50 * moins cher que éolien
 
 Sin los maquines ejemplo en la antiguedad utilizabamos esclaves entonces ahora
 cada persona consume 22000kw/h por ano entonces 200 esclaves por cada personas.
+
+Energía Nuclear
+~~~~~~~~~~~~~~~
+- Los problemas:
+
+  - Recidos nucleares
+  - Explosion y contaminacion
+  - ce necessita mucho tiempo par construir una nueva central (~15 anos)
+
+- Las benficios
+
+  - Produce mas energia quel aceite
+  - Las Centrales de cuarta generación reutilisan los recidos
+
+- El futuro
+
+  - Los Small Modular Reactors (SMRs) podrian producir Centrales
+    miniaturas muy rapidamente et mucho mas seguras
+
 
 Ideas
 ------
