@@ -220,7 +220,8 @@ la playa debemos tenga cuidado a no tomar la carro.
 Podemos tambien fabricar un mondo totalmente ecologica que reutilizar nuestros
 basuras o utilizar el planeta de manera responsable.
 
-
 .. :w|!clear; make clean html
 .. :nohlsearch
-
+.. .. class:: substep
+.. :data-scale: 0.1
+.. :data-rotate-z: 90

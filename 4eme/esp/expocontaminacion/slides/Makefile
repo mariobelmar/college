@@ -3,12 +3,7 @@ html:
 	hovercraft -sN contaminacion_slides.rst _build
 	@echo firefox _build/index.html
 
-hovercraft_tips:
-	mkdir -p _build/tips
-	hovercraft -sN hovercraft_tips.rst _build/tips
-	@echo firefox _build/tips/index.html
-
-zip_html:
+zip_html: clean html
 	cp -fr _build contaminacion_mario_2022
 	zip -r contaminacion_mario_2022.zip contaminacion_mario_2022
 	@echo HTML slides are on contaminacion_mario_2022.zip
