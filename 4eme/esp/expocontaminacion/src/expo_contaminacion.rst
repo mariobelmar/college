@@ -7,13 +7,11 @@ Vamos a ver la contaminacion desde la revolucion industrial.
 
 Definicion
 ----------------
-La contamincion son los desechos que producimos para construir, fabricar etc..  Vienne
-de la industrialisacion despues el 19 siglo (revolucion industrial) y de nuestros
+La contamincion son los desechos que producimos para construir, fabricar etc..
+
+Vienne de la industrialisacion despues el 19 siglo (revolucion industrial) y de nuestros
 habitos : comer demasiada carne, comprar cosas sin ver sus origen y como han cido
 producidas.
-
-La contamincion son los desechos que nosotros producimos para construir,
-fabricar etc..
 
 Origen
 -------
