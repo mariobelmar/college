@@ -5,20 +5,16 @@ Vamos a ver la contaminacion desde la revolucion industrial.
 .. figure:: /src/images/ep1-impunite-img-header.png
    :width: 600px
 
-Definicion
-----------------
+Definicion y Origen
+-------------------
 La contamincion son los desechos que producimos para construir, fabricar etc..
 
 Vienne de la industrialisacion despues el 19 siglo (revolucion industrial) y de nuestros
 habitos : comer demasiada carne, comprar cosas sin ver sus origen y como han cido
 producidas.
 
-Origen
--------
-Vien del industrialisacion despues el 19 siglo (revolucion industrial) y de
-nuestros habitos : comer demasiada carne para algunas personnas, comprar cosas
-sin ver sus origen y como ellos han producido.
-
+Solucion
+---------
 Debemos tener cuidado a nuestros consomacion energitica ejemplo, cuando vamos a
 la playa debemos tenga cuidado a no tomar la carro.
 
