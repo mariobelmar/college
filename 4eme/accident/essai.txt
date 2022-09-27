@@ -1,0 +1,9 @@
+URL
+https://formation.ent.iledefrance.fr/auth/login
+
+Custom headers
+origin: https://formation.ent.iledefrance.fr
+referer: https://formation.ent.iledefrance.fr/auth/login?callback=https%3A%2F%2Fformation.ent.iledefrance.fr%2F
+
+POST DATA1
+email=<USERNAME>&password=<MAIL>&callBack=https%253A%252F%252Fformation.ent.iledefrance.fr%252F&details=
