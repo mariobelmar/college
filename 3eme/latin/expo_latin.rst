@@ -78,6 +78,27 @@ prétoriennes) de 500 soldats (fantassins)
 
 \* Une d'entre elles furent installées à Lyon et l'autre à Carthage.
 
-L'organistion des cohortes urbaines est la meme que celles des cohortes prétoriennes (1
-prefet de prétoire, 6 tribuns, et 54 centurion).
+L'organistion des cohortes urbaines est la meme que celles des cohortes prétoriennes (c'est à dire : 1 prefet de prétoire, 6 tribuns, et 54 centurion).
+
+
+.. mermaid::
+  
+  flowchart LR 
+
+  A(cohortes urbaine\n -- urbanici --)
+  A --> B(police nocturne)
+  A --> C(ronde pour prévenir les incendies)
+  A --> D(gendarmerie municipale)
+  A --> F(pompiers militarisés)
+  G(pas d'armement,\n outils de pompiers)
+  subgraph fonction 
+    B
+    C
+    D
+  end
+  subgraph nature
+    F -.-> G
+  end 
+
+
 
