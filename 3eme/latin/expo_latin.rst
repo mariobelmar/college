@@ -32,4 +32,17 @@ comme dit dans le
 
 prétoriens (garde impériale)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. mermaid:: 
+
+  flowchart
+  
+  pretorien((Garde \n impériale))
+  Tactic --> Strategie
+  Strategie ==> pretorien
+  subgraph garnison
+    A --> C
+    Rome -.-> Armée(User superbe\n Armée)
+  end
+
  
