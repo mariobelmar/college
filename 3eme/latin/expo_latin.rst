@@ -12,7 +12,7 @@ Réorganistion majeur
   - salaire
   - retraite
   - crée un impot pour une caisse "aerium militare"
-  - divisa en trois :
+  - divisa en trois l'armée romaine :
   
     - garnison
     - marine
@@ -101,4 +101,32 @@ L'organistion des cohortes urbaines est la meme que celles des cohortes prétori
   end 
 
 
+Autre
+~~~~~
 
+- Auguste créa aussi un corp spécial qui lui servait de garde du corp qui faisait environ 200 hommes.
+
+- Idée qui fut repris par Trajan qui forma les cavaliers gardes du corp, les equites singulares Augusti(1000)
+
+- éclaireurs 300 (speculatores)
+
+- primipilares qui étaient de vieux centurions servant de consillers au prince 
+
+Ils étaient tous stationnés dans des camps souvent situés à Rome, on les compte donc parmi la garnison
+
+Total
+~~~~~
+
+Les effectifs de la garnison ferait un peu moins de 15 milles soldats meme si ce chiffre, comme nous l'avons vu avec les cohortes prétoriennes, changeait souvent.
+
+L'armée des frontières
+======================
+
+Principales forces 
+~~~~~~~~~~~~~~~~~~~
+
+La principale force de l'armée romaine est la légion mais ce que les historiens oublient
+souvent est le role joué  par les unités auxiliaires aussi nommé forces supplétives.
+
+Légion
+~~~~~~
