@@ -26,6 +26,10 @@ def winner(human, ordi):
 
 
 def show(human, ordi):
+    """
+    use me with:
+    print(f"{show('pa', 'sc')}: {winner('pa', 'sc')}")
+    """
     msg = f'human a joué {human}, ordi a joué {ordi}'
     return msg
 
@@ -35,16 +39,7 @@ def show2_0(human, ordi):
 
 
 if __name__ == '__main__':
-    print(f"{show('pa', 'sc')}: {winner('pa', 'sc')}")
-    print('')
-
-    print(show2_0('pa', 'sc'))
-    print(show2_0('pa', 'st'))
-    print(show2_0('pa', 'sc'))
-    print(show2_0('st', 'sc'))
-    print(show2_0('st', 'st'))
-    print(show2_0('st', 'sc'))
-    print(show2_0('sc', 'sc'))
-    print(show2_0('sc', 'st'))
-    print(show2_0('sc', 'sc'))
-
+    values = ['pa', 'st', 'sc']
+    for o in values:
+        for h in values:
+            print(show2_0(o, h))
