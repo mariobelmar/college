@@ -19,19 +19,32 @@ def winner(human, ordi):
     if human == 'st':
         if ordi == 'sc':
             return hw
-        if ordi == 'pa':
-            return ow
+        if ordi == 'pa': return ow
         if ordi == 'st':
             return ega
     return human, ordi
 
+
+def show(human, ordi):
+    msg = f'human a joué {human}, ordi a joué {ordi}'
+    return msg
+
+
+def show2_0(human, ordi):
+    return f"{winner(human, ordi):15}: human a joué {human}, ordi joué {ordi}"
+
+
 if __name__ == '__main__':
-    print(winner('pa', 'pa'))
-    print(winner('pa', 'sc'))
-    print(winner('pa', 'st'))
-    print(winner('sc', 'pa'))
-    print(winner('sc', 'sc'))
-    print(winner('sc', 'st'))
-    print(winner('st', 'pa'))
-    print(winner('st', 'sc'))
-    print(winner('st', 'st'))
+    print(f"{show('pa', 'sc')}: {winner('pa', 'sc')}")
+    print('')
+
+    print(show2_0('pa', 'sc'))
+    print(show2_0('pa', 'st'))
+    print(show2_0('pa', 'sc'))
+    print(show2_0('st', 'sc'))
+    print(show2_0('st', 'st'))
+    print(show2_0('st', 'sc'))
+    print(show2_0('sc', 'sc'))
+    print(show2_0('sc', 'st'))
+    print(show2_0('sc', 'sc'))
+
