@@ -1,6 +1,5 @@
 Todo
 =====
-- add auto code auto check with a Makefile
 - type function attributes
 
   - def show2_0(human: str, ordi: str) -> str:
@@ -13,4 +12,5 @@ Todo
 
 Done
 ====
+- add auto code auto check with a Makefile
 - loop on the combinatoric 

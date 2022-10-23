@@ -1,28 +1,28 @@
-def winner(human, ordi):
-    ow = "ordi win"
-    ega = "egality"
-    hw = "human win"
-    if human == 'pa':
-        if ordi == 'sc':
-            return ow
-        if ordi =='pa':
-            return ega
-        if ordi == 'st':
-            return hw
-    if human == 'sc':
-        if ordi == 'sc':
-            return ega
-        if ordi == 'pa':
-            return ow
-        if ordi == 'st':
-            return hw
-    if human == 'st':
-        if ordi == 'sc':
-            return hw
-        if ordi == 'pa': return ow
-        if ordi == 'st':
-            return ega
-    return human, ordi
+# def winner(human, ordi):
+#     ow = "ordi win"
+#     ega = "egality"
+#     hw = "human win"
+#     if human == 'pa':
+#         if ordi == 'sc':
+#             return ow
+#         if ordi =='pa':
+#             return ega
+#         if ordi == 'st':
+#             return hw
+#     if human == 'sc':
+#         if ordi == 'sc':
+#             return ega
+#         if ordi == 'pa':
+#             return ow
+#         if ordi == 'st':
+#             return hw
+#     if human == 'st':
+#         if ordi == 'sc':
+#             return hw
+#         if ordi == 'pa': return ow
+#         if ordi == 'st':
+#             return ega
+#     return human, ordi
 
 
 def show(human, ordi):
