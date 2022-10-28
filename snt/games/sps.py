@@ -1,6 +1,9 @@
+from random import choice
+
 GAMES_RULES = (("st", "pa", "pa"),
                ("pa", "sc", "sc"),
                ("sc", "st", "st"))
+
 
 def winner(human, ordi) -> str:
     """
@@ -25,18 +28,16 @@ def winner(human, ordi) -> str:
 
 
 def show(human, ordi):
-    w_choice, w_name = winner(human, ordi)
     if human == ordi :
-        return 'exequo'
-    return f"Le gagnant est {w_name} il a jouéé {w_choice}, ordi joué {ordi}"
+        return f"exequo, les deux ont joué la meme chose: {human}"
 
-
-
-
+    w_choice, w_name = winner(human, ordi)
+    l_name = 'ordi' if  w_name == 'human' else 'human'
+    l_choice = human if l_name == 'human'  else ordi
+    msg =  f"Le gagnant est {w_name} il a jouéé {w_choice}, {l_name} a joué {l_choice}"
+    return msg
 
 if __name__ == '__main__':
-    values = ['pa', 'st', 'sc']
-    for o in values:
-        for h in values:
-            print(show(o, h))
-
+    human = input('what is your choice ? ')
+    ordi = choice(['sc', 'st', 'pa'])
+    print(show(human, ordi))
