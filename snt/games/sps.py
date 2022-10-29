@@ -7,7 +7,7 @@ GAMES_RULES = (("st", "pa", "pa"),
                ("sc", "st", "st"))
 
 
-def winner(human, ordi) -> str:
+def winner(human, ordi) -> tuple[str, str]:
     """
     >>> winner('pa', 'sc')
     'sc'
@@ -16,18 +16,17 @@ def winner(human, ordi) -> str:
     'sc', 'Human'
     >>>
     """
-    # return 'sc', 'Human'
-    egal = 'egality'
     for v_ordi, v_human, w_choice in GAMES_RULES:
         if human == ordi:
-            return egal, None
-        if human == v_human and ordi == v_ordi:
+            return 'egality', None
+        elif human == v_human and ordi == v_ordi:
             w_name = 'human' if w_choice == human else 'ordi'
             return w_choice, w_name
-        if human == v_ordi and ordi == v_human:
+        elif human == v_ordi and ordi == v_human:
             w_name = 'human' if w_choice == human else 'ordi'
             return w_choice, w_name
-
+        else:
+            return None, None
 
 def show(human, ordi):
     if human == ordi:
@@ -44,5 +43,8 @@ def show(human, ordi):
 if __name__ == '__main__':
     question= "st: pierre, pa: feuille, sc: sciseaux"
     human = input(f'what is your choice [{question}] ? ')
+
+    # on control que human est bien dans la list ("sc", "st", "st")
+
     ordi = choice(['sc', 'st', 'pa'])
     print(show(human, ordi))
