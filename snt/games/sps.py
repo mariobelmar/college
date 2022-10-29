@@ -41,7 +41,7 @@ def show(human, ordi):
 
 
 if __name__ == '__main__':
-    question= "st: pierre, pa: feuille, sc: sciseaux"
+    question= "st: pierre, pa: feuille, sc: ciseaux"
     human = input(f'what is your choice [{question}] ? ')
 
     # on control que human est bien dans la list ("sc", "st", "st")
