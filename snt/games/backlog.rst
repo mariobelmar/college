@@ -1,5 +1,6 @@
 Todo
 =====
+- if input is bad should ask again not traceback
 - tell on input what to type, deal with false input
 - type function attributes
 
