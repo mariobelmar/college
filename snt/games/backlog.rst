@@ -1,7 +1,5 @@
 Todo
 =====
-- replace 2 letters sc, st, pa by names
-- improve input question
 - tell on input what to type, deal with false input
 - type function attributes
 
@@ -12,6 +10,8 @@ Todo
 
 Done
 ====
+- improve input question
+- replace 2 letters sc, st, pa by names
 - make check should return empty list
 - Makefile job to use flake8
 - add an input for humans and random.choose for ordi

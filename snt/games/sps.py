@@ -42,6 +42,7 @@ def show(human, ordi):
 
 
 if __name__ == '__main__':
-    human = input('what is your choice ? ')
+    question= "st: pierre, pa: feuille, sc: sciseaux"
+    human = input(f'what is your choice [{question}] ? ')
     ordi = choice(['sc', 'st', 'pa'])
     print(show(human, ordi))
