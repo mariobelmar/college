@@ -1,5 +1,5 @@
 from random import choice
-# from ipdb import set_trace
+from ipdb import set_trace
 
 GET_NAME = dict(pa='papier', st='pierre', sc='ciseaux')
 
@@ -23,14 +23,14 @@ def winner(human: str, ordi: str) -> tuple[str, str]:
     """
     for v_ordi, v_human, w_choice in GAMES_RULES:
         if human == ordi:
-            return 'egality', None
+            return 'egality', ''
         elif human == v_human and ordi == v_ordi:
             w_name = 'human' if w_choice == human else 'ordi'
             return w_choice, w_name
         elif human == v_ordi and ordi == v_human:
             w_name = 'human' if w_choice == human else 'ordi'
             return w_choice, w_name
-
+    return '', ''
 
 def show(human, ordi):
     if human == ordi:
@@ -38,6 +38,7 @@ def show(human, ordi):
     w_choice, w_name = winner(human, ordi)
     l_name = 'ordi' if w_name == 'human' else 'human'
     l_choice = human if l_name == 'human' else ordi
+    set_trace()
     msg = (f"Le gagnant est {w_name} il a jouéé {GET_NAME[w_choice]}, "
            f"{l_name} a joué {GET_NAME[l_choice]}")
     return msg
