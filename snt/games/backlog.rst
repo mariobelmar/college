@@ -1,5 +1,6 @@
 Todo
 =====
+- add mypy check on Makefile
 - type function attributes
 
   - def show2_0(human: str, ordi: str) -> str:
