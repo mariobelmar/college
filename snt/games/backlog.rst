@@ -1,5 +1,6 @@
 Todo
 =====
+- use the very important ``assert``
 - type function attributes
 
   - def show2_0(human: str, ordi: str) -> str:
