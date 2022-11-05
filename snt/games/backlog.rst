@@ -1,6 +1,5 @@
 Todo
 =====
-- add mypy check on Makefile
 - type function attributes
 
   - def show2_0(human: str, ordi: str) -> str:
@@ -10,6 +9,7 @@ Todo
 
 Done
 ====
+- add mypy check on Makefile
 - if input is bad should ask again not traceback
 - tell on input what to type, deal with false input
 - improve input question
