@@ -1,4 +1,5 @@
 from random import choice
+# from ipdb import set_trace
 
 GET_NAME = dict(pa='papier', st='pierre', sc='ciseaux')
 
@@ -9,8 +10,8 @@ GAMES_RULES = (("st", "pa", "pa"),
 
 def winner(human: str, ordi: str) -> tuple[str, str]:
     """
-    From human and ordi values return the winner choice and the 'Human' or 'ordi'
-    depending who the winner is.
+    From human and ordi values return the winner choice and the 'Human' or
+    'ordi' depending who the winner is.
 
     e.g.
     >>> winner('pa', 'sc')
@@ -54,5 +55,5 @@ if __name__ == '__main__':
     question = "st: pierre, pa: feuille, sc: ciseaux"
     human = input(f'what is your choice [{question}] ? ')
     ordi = get_ordi(human, question)
-    print(show(human, ordi))
-
+    out = show(human, ordi)
+    print(out)
