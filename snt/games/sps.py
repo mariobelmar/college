@@ -7,8 +7,12 @@ GAMES_RULES = (("st", "pa", "pa"),
                ("sc", "st", "st"))
 
 
-def winner(human, ordi) -> tuple[str, str]:
+def winner(human: str, ordi: str) -> tuple[str, str]:
     """
+    From human and ordi values return the winner choice and the 'Human' or 'ordi'
+    depending who the winner is.
+
+    e.g.
     >>> winner('pa', 'sc')
     'sc'
     >>>
@@ -38,10 +42,17 @@ def show(human, ordi):
     return msg
 
 
-if __name__ == '__main__':
-    question = "st: pierre, pa: feuille, sc: ciseaux"
-    human = input(f'what is your choice [{question}] ? ')
+def get_ordi(human: str, question: str) -> str:
+    # we control human is in ("sc", "st", "st")
     while human not in GET_NAME.keys():
         human = input(f'what is your choice [{question}] ? ')
     ordi = choice(['sc', 'st', 'pa'])
+    return ordi
+
+
+if __name__ == '__main__':
+    question = "st: pierre, pa: feuille, sc: ciseaux"
+    human = input(f'what is your choice [{question}] ? ')
+    ordi = get_ordi(human, question)
     print(show(human, ordi))
+
