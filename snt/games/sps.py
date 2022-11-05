@@ -25,13 +25,11 @@ def winner(human, ordi) -> tuple[str, str]:
         elif human == v_ordi and ordi == v_human:
             w_name = 'human' if w_choice == human else 'ordi'
             return w_choice, w_name
-        else:
-            return None, None
+
 
 def show(human, ordi):
     if human == ordi:
         return f"exequo, les deux ont joué la meme chose: {GET_NAME[human]}"
-
     w_choice, w_name = winner(human, ordi)
     l_name = 'ordi' if w_name == 'human' else 'human'
     l_choice = human if l_name == 'human' else ordi
@@ -41,10 +39,9 @@ def show(human, ordi):
 
 
 if __name__ == '__main__':
-    question= "st: pierre, pa: feuille, sc: ciseaux"
+    question = "st: pierre, pa: feuille, sc: ciseaux"
     human = input(f'what is your choice [{question}] ? ')
-
-    # on control que human est bien dans la list ("sc", "st", "st")
-
+    while human not in GET_NAME.keys():
+        human = input(f'what is your choice [{question}] ? ')
     ordi = choice(['sc', 'st', 'pa'])
     print(show(human, ordi))
