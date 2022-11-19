@@ -5,8 +5,8 @@ Todo
 
   - def show2_0(human: str, ordi: str) -> str:
 
+- make winner be the one who win 2 points
 - use classes
-- make a 3 round game with (cumulated) score
 
 Done
 ====
