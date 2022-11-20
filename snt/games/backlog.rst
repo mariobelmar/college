@@ -1,14 +1,12 @@
 Todo
 =====
-- use the very important ``assert``
 - make winner be the one who win 2 points
 - use classes
+- use the very important ``assert``
 
 Done
 ====
 - type function attributes
-
-  - def show2_0(human: str, ordi: str) -> str:
 - add mypy check on Makefile
 - if input is bad should ask again not traceback
 - tell on input what to type, deal with false input
