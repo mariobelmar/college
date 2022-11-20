@@ -32,7 +32,8 @@ def winner(human: str, ordi: str) -> tuple[str, str]:
             return w_choice, w_name
     return '', ''
 
-def show(human, ordi):
+
+def show(human: str, ordi: str) -> str:
     if human == ordi:
         return f"exequo, les deux ont joué la meme chose: {GET_NAME[human]}"
     w_choice, w_name = winner(human, ordi)
