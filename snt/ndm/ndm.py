@@ -10,7 +10,7 @@ with open("alice.txt", 'r') as myfile:
     text = myfile.read()
     mots = text.split()
 
-text = text[2000:2400]
+# text = text[2000:2400]
 
 
 doc = nlp(text)
@@ -31,3 +31,4 @@ print(f'Dans Alice opdm il y a:\n'
       f' {len(mots)} mots\n'
       f'et dans un échantillon de 400 mots\n il y a {len(verbe)} verbe'
       f'en voici la liste:  {verbe}')
+
