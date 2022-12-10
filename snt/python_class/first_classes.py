@@ -1,4 +1,4 @@
-print('hello')
+from dataclasses import dataclass
 
 
 class Livre:
@@ -17,9 +17,17 @@ class Ebook(Livre):
         print(f'{self.title} is now uploaded, {self.size_in_k}Kb')
 
 
+@dataclass
+class DLivre:
+    title: str
+
+    def show(self):
+        print(f'title : {self.title}')
+
+
 if __name__ == '__main__':
     e1 = Ebook('Les 3 mousquetaires', 350)
+    dl1 = DLivre('Candide')
+    dl1.show()
     e1.download()
     e1.upload()
-
-
