@@ -1,4 +1,4 @@
-========================================================
+=======================================================
 Rapport de stage au Laboratoire CNRS du musé de l'homme
 ========================================================
 
@@ -29,6 +29,22 @@ Les différents métiers
 - 3 métiers exercés au sein de cette entreprise et décris le niveau de qualification
   type de diplôme nécessaire pour l’exercer ainsi que le nombre d’années d’étude
   nécessaire.
+
+.. list-table::
+   :widths: 100 100
+   :header-rows: 1
+   :stub-columns: 0
+
+   * - Métier
+     - étude
+   * - ex1 chercheur biologique
+     - ex PHD
+   * - ex2 chercheur biologique
+     - ex PHD
+   * - ex3 chercheur biologique
+     - ex PHD
+
+
 
 Description d’un service
 ------------------------
