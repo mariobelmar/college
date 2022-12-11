@@ -1,5 +1,5 @@
 ========================================================
-Rapport de stage au Laboratoire CNRS du musé de l'homme 
+Rapport de stage au Laboratoire CNRS du musé de l'homme
 ========================================================
 
 Introduction
@@ -67,11 +67,34 @@ Justifier le choix du métier décris
 Interview d’un professionnel
 ----------------------------
 
+
+.. list-table::
+   :widths: 200 200
+   :header-rows: 1
+   :stub-columns: 0
+
+   * - Question
+     - Réponse
+   * - En quoi consiste votre travail ?
+     - bla bla
+   * - Avant de commencer à travailler, avez-vous fait des études ? Lesquelles ?
+     - bla bla
+   * - Quel est votre parcours avant de travailler dans cette entreprise ?
+     - bla bla
+   * - Comment s’est déroulé le processus de votre recrutement dans l’entreprise ou la
+       création de votre entreprise ?
+     - bla bla
+   * - Qu’est ce qui vous plaît le plus dans votre travail ?  création de votre
+       entreprise ?
+     - bla bla
+   * - Question 6
+     - Réponse 6
+   * - Question 7
+     - Réponse 7
+   * - Question 8
+     - Réponse 8
+
+
 Pour la rédaction du rapport, tu devras écrire les 8 questions et les 8 réponses.
 
-- En quoi consiste votre travail ?
-- Avant de commencer à travailler, avez-vous fait des études ? Lesquelles ?
-- Quel est votre parcours avant de travailler dans cette entreprise ?
-- Comment s’est déroulé le processus de votre recrutement dans l’entreprise ou la
-  création de votre entreprise ?
-- Qu’est ce qui vous plaît le plus dans votre travail ?
+

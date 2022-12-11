@@ -17,6 +17,8 @@ Premier code Python et Spacy
 Conclusion
 ==========
 
+
+
 .. mermaid::
 
   flowchart LR
