@@ -32,7 +32,10 @@ def get_only_verbs(ltext: str) -> list[str]:
 
 text = get_text_from_file(NOVEL)
 ltext = text[2000:4500]
-verbs = get_only_verbs(ltext)
-print(f'==> all words: {ltext}')
-print(f'==> only verbs: {verbs}')
+verbs = sorted(get_only_verbs(ltext))
+verbs_set = sorted(list(set(verbs)))
+# print(f'==> all words: {ltext}')
+print(f'==> only verbs there are {len(verbs)}: {verbs}')
+print('\n')
+print(f'==> only verbs without repetition there are {len(verbs_set)}: {verbs_set}')
 

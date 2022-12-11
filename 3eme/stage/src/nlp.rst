@@ -4,16 +4,15 @@ Mes travaux de NLP
 Objectif
 --------
 
-Découverte du NLP
-------------------
-
-
+- voir avec Marc
 
 Théories
 --------
 
-Travaux pratiques
------------------
+Découverte du NLP
+------------------
+
+Premier code Python et Spacy  
 
 Conclusion
 ==========
