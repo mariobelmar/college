@@ -11,6 +11,7 @@ Welcome to Rapport de stage's documentation!
    :caption: Contents:
 
    src/stage.rst
+   src/nlp.rst
 
 Indices and tables
 ==================

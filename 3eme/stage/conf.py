@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Rapport de stage'
-copyright = '2022, Mario Belmar Letelier --zhou'
-author = 'Mario Belmar Letelier --zhou'
+project = 'Rapport de stage au laboratoire CNRS du musé de l\'homme'
+copyright = '12/12/22 au 16/12/22'
+author = 'Mario Belmar Letelier -- Zhou'
 
 
 # -- General configuration ---------------------------------------------------

@@ -1,6 +1,6 @@
-=============
-Page de garde
-=============
+========================================================
+Rapport de stage au Laboratoire CNRS du musé de l'homme 
+========================================================
 
 Introduction
 =============
@@ -75,26 +75,3 @@ Pour la rédaction du rapport, tu devras écrire les 8 questions et les 8 répon
 - Comment s’est déroulé le processus de votre recrutement dans l’entreprise ou la
   création de votre entreprise ?
 - Qu’est ce qui vous plaît le plus dans votre travail ?
--
--
--
-
-Mes travaux
-===========
-
-Objectif
---------
-
-Découverte du NLP
-------------------
-
-Théories
---------
-
-Travaux pratiques
------------------
-
-Conclusion
-==========
-
-
