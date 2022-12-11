@@ -1,7 +1,7 @@
 Armée, organisation
 ===================
 
-Unité 
+Unité
 ------
 
 Réorganistion majeur
@@ -13,7 +13,7 @@ Réorganistion majeur
   - retraite
   - crée un impot pour une caisse "aerium militare"
   - divisa en trois l'armée romaine :
-  
+
     - garnison
     - marine
     - armées des frontières
@@ -25,7 +25,7 @@ Réorganistion majeur
   - sorte de congé payé
   - laissa de l'argent au soldat dans son testament
 
-Garnison 
+Garnison
 ---------
 
 Prétoriens (garde impériale)
@@ -39,8 +39,8 @@ numérotés de 1 à 9
   flowchart TD
 
   subgraph cohortes prétorienne\n
-  
-    cohortes1(9 cohortes \n de 500 soldat \n + qqlq cavaliers) 
+
+    cohortes1(9 cohortes \n de 500 soldat \n + qqlq cavaliers)
     cohortes3(+ 3 cohorte x 500)
     cohortes4(+ 4 cohortes x1000 )
     cohortes9(moins 7 cohorte)
@@ -64,15 +64,15 @@ prétoriennes) de 500 soldats (fantassins)
 
 .. mermaid::
 
-  flowchart TD 
-  
+  flowchart TD
+
   subgraph cohortes urbaines \n
    urba1(3 cohortes de 500)
    urba2(+ 2 cohortes  *)
    urba3(3 premieres portées à 7)
    urba4(ramenées à 4 cohortes x 1000 )
    urba5(4 cohortes x 500)
-   urba1 --> urba2 --> urba3 --> urba4 --> urba5 
+   urba1 --> urba2 --> urba3 --> urba4 --> urba5
 
   end
 
@@ -82,8 +82,8 @@ L'organistion des cohortes urbaines est la meme que celles des cohortes prétori
 
 
 .. mermaid::
-  
-  flowchart LR 
+
+  flowchart LR
 
   A(cohortes urbaine\n -- urbanici --)
   A --> B(police nocturne)
@@ -91,15 +91,37 @@ L'organistion des cohortes urbaines est la meme que celles des cohortes prétori
   A --> D(gendarmerie municipale)
   A --> F(pompiers militarisés)
   G(pas d'armement,\n outils de pompiers)
-  subgraph fonction 
+  subgraph fonction
     B
     C
     D
   end
   subgraph nature
     F -.-> G
-  end 
+  end
 
+.. mermaid::
+
+  flowchart LR
+
+  cohortes(cohortes urbaine\n -- urbanici --)
+  police(police nocturne)
+  rondes(ronde pour prévenir les incendies)
+  gendarmerie(gendarmerie municipale)
+  pompier_m(pompiers militarisés)
+  no_armes("pas d'armement,
+            outils de pompiers")
+
+  subgraph fonction
+    police
+    rondes
+    gendarmerie
+  end
+  subgraph nature
+    pompier_m -.-> no_armes
+  end
+
+  cohortes --> police & ronde & gendarmerie & pompier_m
 
 Autre
 ~~~~~
@@ -112,7 +134,7 @@ En dehors des cohortes d'autres unités étaient crées par differents empereurs
 
 - éclaireurs 300 (speculatores)
 
-- primipilares qui étaient de vieux centurions servant de consillers au prince 
+- primipilares qui étaient de vieux centurions servant de consillers au prince
 
 
 Total
@@ -124,7 +146,7 @@ Les effectifs de la garnison ferait un peu moins de 15 000 soldats meme si ce ch
 L'armée des frontières
 ======================
 
-Principales forces 
+Principales forces
 ~~~~~~~~~~~~~~~~~~~
 
 La principale force de l'armée romaine est la légion mais ce que les historiens oublient
