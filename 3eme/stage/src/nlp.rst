@@ -29,7 +29,8 @@ Conclusion
 
   flowchart LR
 
-  cohortes(cohortes urbaine\n -- urbanici --)
+  cohortes("cohortes urbaine
+            -- urbanici --")
   police(police nocturne)
   rondes(ronde pour prévenir les incendies)
   gendarmerie(gendarmerie municipale)
