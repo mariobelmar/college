@@ -41,8 +41,13 @@ Les différents métiers
      - ex PHD
    * - ex2 chercheur biologique
      - ex PHD
-   * - ex3 chercheur biologique
+   * - ex3 chercheur chevelu
      - ex PHD
+
+       - ha ha ah
+       - ha ha ah
+
+       .. image:: /src/images/lama.png
 
 
 
