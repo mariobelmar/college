@@ -1,0 +1,3802 @@
+                                        425
+
+
+
+
+                                   CHAPTER EIGHT
+
+
+
+
+                            NOTES ON THE AARI LANGUAGE*
+
+
+
+                                        by
+
+                                Richard J. Hayward
+INTRODUCTION:
+
+          With the exception of the Dime far to the west, the Aari ([?a:ri])
+
+are the most northern speakers of a Southern Omotic language.       Although
+
+some Aaris do live down in the lowlands, the majority inhabit the plateau
+
+and scarplands of the lofty southwest spur of the Gemu-Gofa highlands
+
+within the administrative territory of the Bako-Gazar warada.       According
+
+to Haberland (p.420. in Jensen 1959), the Aari comprise ten tribes, known
+
+as Bako, Kure, Shangama, Bio, Sido, Argenne, Ubamer, Bargedda, Galila and
+
+Gossa, with a total population of less than 20,000 1 •     Although the   high~
+
+land Aari cultivate some wheat and barley and keep many sheep, their staple
+
+foodstuff is insat, but from the lack of sophistication shown in their
+
+preparation of the latter, Haberland infers that for the Aari an      ~nsut    -
+
+based culture is an adopted     one (ibid.,   421).   Those Aari who inhabit
+
+the scarplands grow maize and sorghum varieties and keep small herds and
+
+flocks.
+
+          Apart from classificatory studies utilising basic vocabulary the
+
+language of the Aari (which is also called [?a:ri])        has remained
+
+completely undescribed.     The present paper is an attempt to begin to fill
+
+this gap by putting on record a tentative analysis of some aspects of the
+                                        426
+
+
+
+ phonetics, phonology, and grammar of the language.      The material on which
+
+ my analysis is based was collected in Addis Ababa during two to three weeks
+
+ of research conducted in the months of July and November 1984.      My sole
+
+ informant and assistant in this research was Ato Aynalem Tsegaye, an
+
+ Aari-speaking      student at Addis Ababa University.   I acknowledge with
+
+ gratitude the conscientious commitment of time and energy that Ato Aynalem
+
+ gave to our research programme.     For their encouragement and practical
+
+ helpfulness, I wish also to acknowledge here my indebtedness to the staff of
+
+ the Addis Ababa University Institute of Language Studies where the research
+
+ took place.
+
+         In view of the altitude and environment range over which the Aari
+
+ are found, and on account of the fact that their homesteads are widely
+
+ separated (ibid., 420), it would not be surprising if their language
+
+ showed some dialectal differences (cf. Fleming 1976b: 310).     My informant
+
+ was of the opinion that the Aari speech of the highlands shows an Ometo
+
+ (Gofa ?) influence and that the "purest" language is that spoken on the
+
+ s c arplands.   I have been very fortunate in having h?d access to the
+
+ valuable manuscript collection of Aari vocabulary, phrases and paradigms
+
+ recorded by Bende r and Tully in 1973-74.    I expre s s here my deep gratitude
+
+ to   Lionel Bende r for making these data available to me.    Comparison of
+
+ this material with my own does inde ed show some variations, and at certain
+
+ points in this study I draw attention t o the se; but my informant and the
+
+ men who worked with Bender and Tully were a ll born close to Jinka, and it
+
+ is quite clear that they speak essentially the same language.      It would be
+
+ very inte resting , however, to see how f ar their variety differs from the
+
+ speech of, say, the Ga lila, much f arthe r to the north.
+
+
+
+
+aaaaasaasu121sa
+                                           427
+
+
+
+Contents:
+
+§1.           Phonology                                429
+§1.1.         Consonants                               429
+
+§1.2.         Vowels                                   433
+§1.3.         Length                                   434
+§1.4.         Phonotactics                             437
+
+§1. 5.    - ---.A ccent                                439
+§2.           Grammar                                  440
+§2.1.         Nouns                                    440
+§2.1.1.       Nominal Inflection                       442
+
+§2.1.2.       The Genitive construction                446
+§2.2.         Pronouns                                 448
+§2.2.1.       Personal Pronouns                        448
+§2.2.2.       Deictic Pronouns                         451
+§2.2.3.       Possessive Pronouns                      452
+§2.2.4.        Interrogative Pronouns                  453
+§2.3.         Determiners                              455
+§2.3.1.       Possessive Determiners                   455
+§2.3.2.       Deictic Determiners                      458
+§2.3.3.        Interrogative Determiners               459
+§2.4.         Adjectives                               459
+§2.S.         Numerals                                 461
+§2.6.          Copular Clauses                         462
+§2. 7.         Verbs                                   464
+§2.7.1.        Verb Stems                              464
+§2. 7. 1.1.    Simple Stems                            465
+§2.7.1.2.      Extended Stems                          465
+§2.7.2.        Verb Inflection                         471
+§2.7.2.1.      Inflectional Categories and Processes   471
+                                       428
+
+
+
+§2.7.2.2.   The Paradigms                                475
+§2.7.2.3.   Interrogative Forms                          478
+§2.7.2.4.   Alternation in the Inflectional Morphology   479
+§2.7.2.5.   Irregular Verbs                              482
+§2.7.3.     Relative Clause Forms                        484
+§2.7.4.     Subordinate Clause Forms                     487
+§2.7.5.     The Converb                                  488
+§2.7.6.     The Infinitive                               488
+§2.8.       Locative Nouns and Postpositions             489
+                                                                                                      ll .t 11! ii tpg !ks·- 1 ·
+      ~                -                       >
+
+      ' --·       •7       ••   -   -   . . . . . . .- - - ... .....   -   ,,...,. • •   ~-·~~. ~Ti                                 \·                     . -;; irt; 1 -~ {(
+
+
+                                                                                                      429
+
+
+
+
+§1.           PHONOLOGY:
+
+§1.1.         CONSONANTS:
+
+              The consonant phonemes of Aari are set out in the following table.
+
+                                             Table 1
+
+                                                                   t                                   c            k         q
+
+                                           b                       d                                    j           g
+
+                                           P'                     d'                       ~·           ~'                                1
+                                           f                      s                                     ~                                 h
+
+                                                                   z                                   z
+                                          m                       n
+
+                                                                  1
+
+                                                                  r
+
+                                          w                                                            y
+
+              The notes which follow relate to the occurrence and the phonetic
+
+realisation of the consonant phonemes.
+
+1.            f        is frequently> though not always, pronounced as a bilabial
+
+              fricative, viz. [~]
+
+2.            The place of articulation for t                                                                 and d is dental> though for                 d'
+
+              it is post-alveolar.
+
+ 3.           The voiceless non-uvular plain stops ( t,                                                                     s,      ~,    k) are aspirated
+
+              fairly strongly in syllable-initial position.                                                                          This feature is an
+
+              especially useful cue for distinguishing t he affricated plain stops
+
+              from their glottalized counterparts.
+
+4.            The affricated glottalized stops                                                                ( s' and        c' )       are ejectives.      d'
+              is an implosive stop with fairly full voicing .                                                                            p'   is a lso implosive,
+
+              but is largely devoiced - entirely so                                                                     when it is word-final, e.g.
+
+                                        fee[cf]ay                                        use"less             [ cf] umi            darkness
+                                        [p]6yka                                          keep .'             ro[p]                 "light
+                                               430
+
+
+
+5~   s    and      s'   are asibilated affricated stops, i.e., [ t~h]                  and
+
+     [t~'] respectively.               The only recorded instances of a voiced
+
+     affricated stop for this series, i.e., [dz),             -        straddle morpheme
+
+     boundaries, and are clearly phoneme sequences, e.g.
+
+     gur[ctz]it             I built a fence        ( /gurd-s-i t/), cf. gurda
+
+     fence
+
+6.   c, J, c-, ,
+     v     -
+                        s    and   z   have a palato-alveolar place of articulation,
+
+     and correspond to IPA              [ f1h] ,   [ ~] ,   [ f1   '] , [ J]   and [ t] respect-
+
+     ively.       Of the five      J    is decidedly rare.         It occurs in loans such
+
+     as   s 'a [ d:t] i      mead and [ ~] :immarka begin.'              Its occurrence in
+
+     ma[~]i bZister and                 gu[~]ka add to!, the native status of
+     which there is no reason to doubt, requires that it be considered
+                        2
+     as a phoneme             [d2] also occurs in certain verb forms, but in all
+
+     except the case of guJ'-              add to, it is probably best seen as the
+
+     surface realisation of a two consonant sequence (see §2.7.1.2.).
+
+7.   q    has a uvular place of articulation 3 .               In terms of the phonological
+
+     pattern of the language it probably "fills the gap" for a
+
+     glottalized stop in the velar series.                   Nevertheless, phonetically
+
+     it is a uvular, and definitely not glottalized in any way.                        Before
+
+     consonants it is generally realised as a plosive, and word-initially
+
+     as either a plosive or an affricate.                   Following a continuant it
+
+     c onnnonly has a fricative pronuncia tion, and inte rvocalically it may
+
+     even be voiced, e.g.
+
+               p'o[q]si.t I t hought /desir ed; ?al[q]sek they t alked;
+
+               [ q] aare - [ qx] aare vew e t monkey; w6se [X] e - w6se [15] e
+               w6s e [q] e it gav e of f a sme H; s6[X]a - s6[H)a - s6[q]a
+
+               horn;    soo[X] - soo(q] saZt
+8.   n    has a wide r ange of preconsonantal pronunciations, e.g.
+i
+                                               431
+
+
+
+              dental:    ?u[n]tin rat; alveolar:            ge(n]zi duik e r;
+                          "
+              palato-alveolar:      yi[r:i]~'ka        laugh/_; velar:    sufl)]gul:l
+
+              flies; uvular:      fa[N)   q~    frog
+
+         However, even morpheme-internally, as in the case of a word like
+
+         ba[m]bara r ed pepper, it would not be reasonable to propose an
+
+         archisegmental analysis of preconsonantal nasals (cf. the analysis
+
+         of Zayse nasals in Ch. Four), since the pronunciation of nasals is
+
+         not always predictable in this position, e.g.
+
+              w6o [ n] sit    I worked     vs.       ?6[m]ssit I loaded
+
+                              pinch!       vs.       ka[m]ka        pick up!
+
+         The corpus contains only one instance of              [I)) not preceding a
+
+         velar, viz. zo[lJ] ?i -       zo[m] ?i animal blood.            In view of the
+
+         related verb forms (e.g. z6[m] ?se he bled, etc.) this velar nasal
+
+         has clearly to be regarded as a surface realisation of m.
+
+    9.   One of the more interesting features of Aari phonology emerges in
+
+         connection with     h.   As a clearly delimitable segment, h             (which is
+
+         pronounced as [ft] ) is rather unconnnon.           [fi]   has been recorded
+
+         intervocalically in words such as:
+
+              wa[fi]a meat; le[fila pumpkin; da[h]isit                    I   chased
+
+         However, many words contain vowels with a distinctly breathy or
+
+         nunnured quality.    The vot.iels in the preceding examples have this
+
+         quality, viz.    w[~n~],      l[§ft~],      d[f!.h!]sit.    Moreover, every word
+
+         in which an intervocalic [fi}         appears, can also be pronounced with-
+
+         out such a segment.      Thus, in the case of the three words cited we
+
+         could have     w[ ~-:] , 1 [ ~~] and        d[ n.j] sit.    It would appear that
+
+         h   is on    the verge of disappearing from the language, though not
+                                                                           4
+         without leaving a trace of itself in the form of breathy phonation
+                                                         432
+
+
+
+         lt is not the case, however, that an [n) (as a possible realisation
+
+of underlying h ) can be substituted in every word where breathy vowels
+
+occur.       Thus, breathy vowels occur in all the word forms deriving from
+
+such verb stems as
+
+         [~:)d- come;             [~)ss- chop; k[§:)z-              t eU;    [~)?s-"
+
+         tear (tr.J;           c'[~:]q-         curs e; w[g:]l-         f ee l, t ouch
+
+In these and many other similar words my informant never pronounced an [fi],
+
+nor would he accept pronunciations containing one.                           It was noted that
+                                                                                                     ..,
+breathy phonation was especially common in vowels in the environment of z
+
+and Y,          e. g.
+
+         g [ ~:]    z-     get drunk;         q [ ~:)    z-    become cold; f [ ! ]   z-   create;
+
+         [~] z-         become sick;       y[   ! ] z-    hate; y [ ! ) r-      become startled;
+
+         y [ ~] d-        sei ze;     y [i] n~i         child
+
+though it is unlikely that too much significance should be attached to
+
+this, since as well as the occurrence of many items containing breathy
+
+phonation in which            y     and   ~     do not appear, there are also many items
+
+containing        y or    z   where there is no breathy phonation.
+
+         Words which do not commence with some other consonant have either
+
+a glottal stop onset or breathy phonation.                        It is of further interest that
+
+if a high tone is assoc iated with the first vowel of a word, and that fir s t
+
+vouel is brea thy, the high tone will be realised as a rise.                          This i .s especiall y
+
+clear in the c a se of long vowels.                 If the first vowel is breathy but has non-
+
+high tone, the actual pitch sounds lower than it would be if it occurred on
+                                               . i on 5 , e.g.
+a non- b rea t h y vowe 1 i n a comparabl e posit
+
+         [a:]fsit             [ _./ - ]                          [? e :]fs it     [--1
+         I    f ound                                             I wept
+
+         [a:] nt              [ _;.-/' ]                         [ ? a;]fi        c--J
+         you                                                     eye
+         [~ :   ]qe           [_-]                               [?a : ]ni        [_-]
+
+         tree                                                    arm
+                                                 433
+
+
+
+               Provided an [ fi]    actually appears, if only in a variant pronunc-
+
+iation of a word, it would seem reasonable to represent that word as having
+
+a / h /phonologically.             But in all other_cjis_es, where the breathy phonation
+
+feature of a vowel appears to be independent (insofar as an alternative
+
+pronunciation with a distinct [fi]              segment is not possible), there seems to
+
+be no alternative but to set up an extra series of breathy vowel phonemes.
+
+Throughout the remainder of this study such vowels will be indicated (by
+
+means of diaresis) everywhere, except when they occur in juxtaposition to
+
+an h,            since in this position such vowels are predictable.        Further
+
+research may provide the key to a more satisfactory analysis.
+
+               1be occurrence of independent breathy vowels in Aari acquires a
+
+further dimension of significance in view of the fact that another South
+
+Omotic language, namely Hamer, exhibits vowel harmony phenomena based on
+
+two sets of vowels (Lydall 1976: 397ff) .              One of the phonetic properties of
+
+Hamer vowels belonging to Lydall's "Category II" is . said to be an advanced
+
+tongue root position, and what I have here called breathy phonation is a
+
+common concomitant of this feature in many languages.                I was unable to
+
+observe any vowel harmony processes at work in the utterances of my
+
+informant, but it would be rash to reject such a possibility until consider-
+
+ably more work has been done.
+
+
+§ 1. 2.        VOWELS:
+
+               The basic vowel system comprises five terms, viz.       i, e, a, o,
+
+and       u.        When single the pronunciation of i       and u are close to those
+
+of Cardinal Vowels 1 and 8 respectively.               Single a   is low, but between
+
+Cardinal Vowels 4 and 5.             Single o    is nearer to a half-open than a half-
+
+close tongue position.             Single   e is half-open and has a very centralised
+
+pronunciation when it occurs either in a closed syllable or word-finally,
+
+even in the environment of "palatal" consonants.              This makes it quite easy
+          "   '   •   •        ~          -   '   •   1   •   •    -             ~   -   · _   -     '    •        '   •   ,   ~   -   ..   _..
+
+
+
+
+                                                                  434
+
+
+
+to mistake it for a lax version of                                a, e.g.
+                          g[u]dr[f] hyaena; ?[!]mb[i] bushbuck, d[~]ng[?lr
+                          elephant; d[2Jq[u]nt[1] stool,;                      q[~]s[e]/[&] hwnan
+
+                          blood; ?[i]s[a]rs[e]/[a] it burned;                                  t[~]Gc[a]/[e]
+                          he cut
+
+In addition to this overlap in the pronunciations of e and                                                    a   it will be
+
+noted in latter sections that many morphemeshavefree variant forms, one
+
+with     a, one with e.
+
+          Whether or not the articulation of the breathy vowels involves
+
+tongue root advancement (with the concomitant invalidation of the Cardinal
+
+Vowel technique for assessing tongue height) is not known, but the longer
+
+duration of the breathy vowels seems to make them more like double non-
+
+breathy vowels with respect to that part of their quality which must depend
+
+on vocal tract shape.                    It should be noted that a breathy congener for the
+
+high back vowel                    u   (or uu )has not been recorded: though our investigations
+
+are as yet of too preliminary a nature to attach much weight to this fact.
+
+
+§1. 3.    LENGTH:
+
+          Intervocalically differential duration has been found for a number
+
+of consonants.                 However, the only recorded cases of most of the geminate
+
+consonants occur in morphologically complex forms, and are obviously the
+
+result of consonant assimilation across morpheme boundaries (see§ 2.7.1.2.
+
+and §2.7.2.4.).                    The consideration of morpheme-internal contrasts suggests
+
+that underlying gemination is far less common.                                    The following single :
+
+geminate contrasts (though the environments of contrast are never quite
+
+identical) are all morpheme-internal.
+
+                          11   ([l~)     : 1 ([l])                      lall-er-se it fl,OIJ)ed; killa
+
+                                                                        new;    c' ela             raw;   ye la   So-and-
+
+                                                                        So;    7 fla ffour
+                                                              435
+
+
+                                                                      ,,.
+             mm ([m:])                   m ( [m])                   zemma morning; tamma ten;
+
+                                                                    daarnl. war;       d' umi darkness
+              ......                         ...
+             SS         ""' h ])
+                       (t·s                  s      ( [t~h])        ?ussa         near; kassimi spear;
+
+                                                                    ?asi teeth
+
+             tt ([t:h])                      t      ([ th])         ko-tta             is hers; fuutta*
+                  n                                     M
+
+
+
+                                                                    cotton; koota brideprice;
+
+                                                                    ?oota aalf
+             ..,..,       ............       ..,                                               ..,,
+             JJ        ([d~z;])              J      n<UJ)           s'ajJi* mead; rnaJ1 blister
+
+             kk ((k:h])                      k ([kh])               wokka         axe; makkan           three;
+
+                                                                    waakl. aattle; nuki nose
+                           ,.-..                                                             ..,.,,. h orn;
+             qq ((q·X])                      q ([X])                qoqqa*         spurfowl; soqa
+                                                                            ,,.
+                                                                    noqa water
+
+
+Asterisked words in the above list are loans, so that the most convincing
+
+cases of geminate consonants are 1 and m,                                     and the voiceless stops t,            s,
+k ~ so far no instances of morpheme-internal geminate                                   c     have been noted.
+
+         Differential duration of vowels is phonemic in many words, though
+
+apparently not in word-final position.                              As in the case of the consonants,
+
+durationally longer vowels are interpreted as double vowels.                                           Once again
+
+the examples cited do not show contrasts in environments that are fully
+
+identical, though it is very probable that exact minimal pairs could be
+
+found.
+
+             ii ([i:])                   i         ( [ !] )         tiile UJCJ.ter-pot; diibi thief;
+
+                                                                    tira liver; s'izi sweat (n.)
+
+             ee        <[s:J)            e ([&]I [a]) deesi grindstone;                        s   I   eedze it
+
+                                                                    shortened;        debi wild animal;
+
+                                                                    bedze it inareased
+
+             aa ([a:])                   a ([i])                    maasse he r eturned ( intr.);
+
+                                                                    ~~~g~e        he sewed;    ?aafi eye;
+                                                436
+
+
+
+
+                                                      mat   a   head;   z~q'Se   he threw down;
+
+                                                      ?af a mouth
+
+             00   ([~:])       0    ([o])             goola beer; tooni human faeces;
+                                                      qoli goats and sheep; soq(J]eqe
+
+                                                      it stank
+
+             uu ([u:])         u ([u])                hCiuri back; guumi mist; burukse
+
+                                                      he boils (tr.);       guni snake;
+                                                         ,,.
+                                                      gur1 empty
+
+
+         Breathy vowels present a problem in the matter of length.                     Only in
+
+the case of the low vowel have I been able to find convincing length contrasts,
+                  ,                         ,
+e.g.              ?.-Y                      ~~y
+
+                  lJho?                     negative jussive formative
+
+                  azki                      aadki
+
+                  he did not run            he did not come
+                  ,
+                  i).SSS                    ~~f se
+
+                  he chopped                he found
+
+
+
+It will be recalled that no instances of high back breathy vowels have been
+
+recorded, but in the case of the other breathy vowels I have not been able
+
+to establish length contrasts.          Impressionistically the high front breathy
+
+vowel seems short, and I have written it with a single vowel letter in all
+
+cases.   The mid vowels commonly sound longer in open syllables, and shorter
+
+in closed syllables.       Word-initially mid breathy vowels again give the
+
+impression of being long.          But I must emphasize that no clear phonological
+
+contrasts have come to light.          Throughout this study this indeterminacy has
+
+been indicated by writing all instances of mid breathy vowels as                       ~(~)   and
+
+9.(Q).
+•                           fZLQ-@Q@§i   ·+!   .
+                                               _,   ,- .,,J3..-.~.
+
+
+
+
+                                                          437
+                                                                      : :. - ~}-:   ..   •. .:.   j    -;-.·   r/>·.~,_.:_.-.z   , - > ;;; ,; ••   me f i   ;"&iii   t?ni
+
+
+
+
+§1. 4.    PHONOTACTI CS:
+
+          In the matter of consonant sequences Aari presents something that is
+
+quite marked as far as the languages of S. Ethiopia are concerned, since it
+
+has sequences of three, and even four, consonants .                                                    However, it appears that
+
+in this language (cp. the statements made concerning Zayse in Chapter Four)
+
+the structure of words can be accounted for in terms of combinations of
+
+syllables conforming to a generalised canonical form (C)V(V/C)(C)(C).                                                                               In
+
+this not-too-precise formulation the notation "V/C" is used to capture the
+
+fact that although syllables of the form (C)VV(C) and (C)VCC(C) occur,                                                                                there
+
+are none having the form (C)VVCC(C).                                 It is also the case that when a syllable
+
+does close with a sequence of two or three consonants, the first of these is
+                 6
+always a sonorant •         It is also the case that wherever a sequence of three
+                                                                \
+consonants occurs syllable-finally, the last consonant is either s                                                                          or       s.
+These phonotactic facts are most simply interpreted in terms of a syllable
+
+structure template which gives recognition to distinct nucleus and coda con-
+
+stituents.     The cooccurrence constraints are incorporated as positive
+
+conditions on the structure of the nucleus and coda, viz.
+
+DIAGRAM 1                  er
+
+                           I
+                      RhY!lle
+
+
+    (Onset)
+
+      !
+                    Nucleus
+
+                        ·x
+                           I
+                           ,_____                     ( X.l
+                                                                                            (Coda)
+                                                                                                      r-------vc)
+[+segment)         [+vocalic]        [+sonorant]                               [+consonantal]                 [-voiL )           +sibilant
+
+          A further condition governing the structure of the nucleus is that
+
+if the righthand (ie. the (+sonorant]) segment is (+vocalic], it will either
+
+be identical to the preceding segment (in which case it will be interpreted
+
+as a double vowel, as in Diagram 2) or it will be [+high], and so interpreted
+
+as a glide, as in Diagram 3.
+                                                    438
+
+
+DIAGRAM 2           Nucleus                          DIAGRAM 3              Nucleus
+
+
+                        ~                                                      ~
+                                                                               x                 x
+
+                       \I
+                        [ ;;ocalic   J                              ( +vocalicJ
+                                                                                                 l
+                                                                                            I ±rounded
+                                                                                            1
+                                                                                            l+vocalic
+                                                                                             +high
+                                                                                                     ...J
+
+
+This means that the language has neither sequences such                       ae, eo, ue, etc.,
+
+nor the sequences iy, uw.
+
+         It is worth repeating the point made earlier (cf. § 1.1., 9.), that
+
+in the only cases where a syllable occurs without an onset consonant the
+
+nucleus contains a breathy vowel.              As the template of Diagram 1 indicates,
+
+onsets are simple; indeed, the only one clear instance of a complex onset
+
+that has been recorded OCCUrS in the Amharic loanword qWailS                        I   a   dried meat•
+
+In rapid speech there is a tendency for unstressed vowels to syncopate when
+
+preceded or followed by r ;           and where a pretonic vowel is                ~ropped,      a
+
+complex onset is created, e.g.
+
+             burukse     it boiled        -+    b[ ur] kse
+
+             birazen the future           +     [   br] azen
+             tira liver       -+    Itr]a
+         The following examples show the syllabif icaticn of some typical Aari
+
+words.
+
+            . wuk. sak jackal; doq. sin. ti diarrhoea; tab.                    za       seven;
+
+             gob.ka jwnp!;         c'up'. [3]e            he squeezed; sud' .ka wrap it!
+
+             la?• ka    peel!;      C I ~~q • [ J] 8 he S!.JOre an Oath; tuf • na Stopper;
+             a?. ser. se    it split;          wos .mi smeU (n. J; qam.         ?f poor
+             person; d@.w.la desert country; p '6y. dab guard, keeper;
+
+             ?oyd I• mi hot; mayk buffalo; '?ang                    male;
+
+             bals bread {:i,nJar(i."J ;        aws. da       he is resting;    m1ks. ka beg!;
+
+             ?ays.se he broke (sthg.J;                    lanqs.se he felt tired;
+             lanqs. ka tire (tr. J !
+•-.. = .. :.Jr.l,.UJ:t@Q!\!.Al!S;i-''j      ...
+          ... - ····-·-·------ · - - -..... -
+                                                    ,.!J;.:.*·+~:-!!
+                                                  · ··---            . . .. :. ... . . ,"=~}!
+                                                              ---·-· • ••              =~~:,:;;;;I
+                                                                                                                "':-._-"<'
+                                                                                                  · : ...,... =:::-=:··;;
+                                                                                                       ;;; ••
+                                                                                                                                     -.                  ,'···f'f'YfCt)f#mt#i#.
+                                                                                                                              - 'Hl' rJi'"'ftilW -,-'""···
+                                                                                                                                                                    . ··~ '"' ..~:
+                                                                              439
+
+
+
+
+               It should not be assumed from the preceding account that all logically
+
+ possible consonant sequences are in fact tolerated, and there are a number
+
+ of morphological alternations witnessed in verbs (see §2.7.1.2. and §2.7.2.4.)
+
+ which suggest that certain sequences created in morpheme combinations are
+
+ avoided by the operation of phonological processes; but how far the sequences
+
+ that are circumvented in this way represent sequences that are cubject to
+
+  fully general negative phonotactic constraints that operate both within and
+
+  across morpheme boundaries i s not clear; though it seems likely that this
+
+  would be the case.
+
+ §1.5.         ACCENT:
+
+               It is clear from words uttered in isolation that there is one, but
+
+ one only, high pitched syllable per word.                                                     This fact suggests that the language
+
+ has an accentual system, rather than a tonal one.                                                                  The function of accent
+
+ location appears to be lexical in nouns, but grammatical in verbs.
+
+               Accent seems usually to occur on the ultimate syllable in trisy llabic
+
+ and     consonant~final                 disyllabic nouns, e.g.
+
+                        ~zim          sickness ; dang6r elephant ; 'luntin rat ; ?isin f ood
+
+                        fatir          maize ; sungula                            fli es ; doqunti                           stool;
+
+                        qundula              hump (cattle); balasa                                              ' two- pronged hoe;
+
+                        noqorti              viscera
+
+ but there are some exceptions to this, e .g .
+
+                       wiik sak           jackal ;            b ark6ta headrest-cum- stool;
+
+                        doqs int i           diarrhoea
+
+ The majority of vowel-final disyllabic nouns also seem to have the accent
+
+ finally, e.g.
+
+                        qan tf            testicles; sis' 1 hair;                                     bezi beehive;
+
+                        ki?i          husband ; duuki                          grave ; moore ne ighbour
+
+ but there are also a good many where it is penultimate, e .g.
+                                       440
+
+
+             ?arf i   moon, month;    leesi   corpse;   s6nqa kiss;
+
+             buudi    chest, heart;   ?aksi   dog
+         In the case of verbs, accentual placement varies according to the
+
+paradigm concerned, and could therefore be regarded as a part exponent of
+
+the category (categories) expressed in that paradigm.      All verbs behave
+
+uniformly in these matters, i.e., there are no lexically governed differences,
+
+e.g.
+
+             ?l.k-ta He has pierced;     ? ik-kl.   He has not pierced;
+
+             ?ik-ay     He wiU not pierce; ?ik kl. ?ikeno Let him pierce!
+
+
+§ 2.     GRAMMAR:
+
+
+
+§2 .1.   NOUNS:
+
+         Leaving aside any morphologically complex nouns, (for which      see
+
+§2.1.1.), there are, with regard to canonical form, two main types of noun:
+
+those ending in vowels, and those ending in consonants.      There is justification
+
+for regarding vowel-final nouns as bipartite in structure, and that the terminal
+
+vowel (TV) is to a certain extent independent of the root, which comprises
+
+everything to its left.     Consonant-final nouns consist solely of a root.
+
+Justification for considering the TVs as an independent, albeit lexically
+
+determined, element relies upon the following facts.      Firsly, in certain
+
+morpho-syntactic configurations the TVs of some nouns may be replaced by
+
+some other formative.     It should be stressed, however, that only a minority
+
+of nouns exhibit such behaviour (the details appear in §2.1.1.).      There is
+
+also the fact that where we find cognate noun : verb pairs, then the TV,
+
+which appears only in the noun, has obviously to be regarded as a distinct
+
+element, e.g.
+                                                     441
+
+
+
+      noun                                      verb - various forms
+
+                       cold{ness)               q~z-ay                it did not get cold
+
+      ses'e            day                      ses'-ta               it became morning
+       ,,.
+      sonqa            k i ss                   s6nq-se               he/she kissed sb
+
+      d'umi            darkness                 d'um-se               it got dark
+
+      gurda            f ence                   gurd-ka               build a fence!
+
+      soose            roasted grain            s6os-ta               he/she roasted grain
+
+      sis'i            saliva                   sis ' -da             he/she spits through
+
+                                                                      the teeth
+
+      t6oni            faece s                  t6on-seqe             he/she defecated
+
+Finally, some further evidence for this view is provided by a few nouns which
+
+show variability with regard to the TV, e.g.
+
+                 qaar~       -qaarfl. vervet monke y; gOs -            gos1 barley;
+
+                 leha - lehi pumpkin; zerga - zergi wheat
+
+       Elsewhere I have argued on comparative grounds that TVs have to be
+
+posited for Proto-North Omotic , and now the fact that such elements also
+
+turn up in Aari, which belongs to South Omotic, required us to recognise
+
+the feature as being of Proto-Omotic                   origin (see Hayward, 1iS7).
+
+       There are three TVs:           i, e and a.               The following are typical V-
+
+final nouns.
+
+       TV    -   i :      debi wild animal; nuki nose; norti be lly; tuud 'i
+
+                         butt ocks;    q6r~'     i      t hroat, l arynx; duuti l eg, foot
+
+       TV - e :           qose    f or est;     ~' oore         cow-dung;   ~~qe   t r ee, wood;
+
+                          diire    gr ass;      ?ak~ e     ske lit;   bur~e    maize- cob;
+
+                          ?oole     pi t, hole
+
+       TV -      a:       muqa    egg; ful ta door, doorway; noqa water; moosa
+
+                         f ood prepared f rom          ~nsat;    s usa relative; ?ila
+
+                         f lour; qasa         Lous e
+
+       The following are typical consonant-fina l nouns .
+                                           442
+
+
+
+      ? indap I   8   brother>; Seeger Side, p!'OXimity;     gider inside,
+
+      middle; gaamet mongoose; r§(g)r daytime; bon dry season,
+
+      year;     taw     Lie; ?eed man, person
+
+      It appears that no consonant-final noun has more.than two syllables,
+
+and indeed, the only      simpl~   nouns extending to three syllables are those in
+
+which the third syllable LS a TV.         From this we extract the generalisation
+
+that nominal roots never exceed two syllables in length.            It should be
+
+added, moreover, that monosyllabic roots are by far the most numerous (cf.
+
+the similar statement concerning verbs in §2.7.1.1.).
+
+
+§2.1.1. NOMINAL INFLECTION:
+
+      So far we have considered only the citation form of a noun, but the
+
+actual morphological form of a noun will depend upon its categorization
+
+wLth respect to a number of features.        Although Aari nominal inflection
+
+actually seems to follow a very logical system, that system is of a rather
+
+unusual type for Ethiopian languages, and initially it may appear somewhat
+
+confusing, especially with regard to the interaction of "plural" and
+
+definiteness.
+                                                                7
+      Leaving aside the genitive (for which see §2.1.2.)            the four
+
+parameters affecting noun inflection are: species (= definiteness), case,
+
+number, and gender.      Of these, species is of primary significance, since
+
+unless a noun is marked as definite, none of the other categories are ever
+
+marked, i.e., the noun will appear in the citation form.            It is necessary
+
+too to appreciate the fact that certain inherent semantic features of the
+
+noun itself will determine whether it is possible for it to be inflected
+
+for number or gender.      Thus, it is only possible to distinguish number
+
+categories Ln nouns which are inherently [+countable], and it is only
+
+possible to distinguish gender categories Ln nouns which are inherently
+
+[+animate]; moreover, a positive value for the second of these features
+
+naturally implies a positive value for the first.          This means that a mass
+I
+
+                                                  443
+
+
+
+
+    noun can only inflect for species and case, and, of course, for the latter
+
+    only if it is definite with respect to the former.
+
+           Each of the four parameters comprises just two categories.           In the
+
+    case of species and case, it is appropriate to speak of marked (definite
+
+    and accusative) and unmarked (indefinite and non-accusative) categories.
+
+    In the case of a mass ([-countable]) noun, which presents the simplest
+
+    situation, definite is marked by means of a suffix -in(a/e) - n(a/e).
+
+    The alternant with initial i           occurs with consonant-final nouns, and the
+
+    variants with a final       a or       e   are only obligatory when the accusative
+
+    suffix is added.     In direct object function the head of a definite NP
+        .              .                8
+    receives an accusative su ff"1x . -m •        For mass nouns then, there are just
+
+    three distinct forms morphologically; an unmarked indefinite form, a form
+
+    terminating in -n(a/e) - -in(a/e), which is definite and non-accusative,
+
+    and a form terminating in -nam -           -inam 9 , which is both definite and
+
+    accusative.   These forms are illustrated in the following sentences.
+
+           fatir doqa
+
+           There is maize
+           fatirin (-fatirina) miqse
+
+           The maize has finished
+           fatir ziigdit
+
+           I want maize
+           fatirinam ziigdit
+
+           I want the maize
+           ?ans'ina laqmi-ye
+
+           The honey is good
+           ?ans'i laqmi ~~feriy
+
+           Good honey is not obtainable
+                ... . ~ ?1,, [ t·s
+           b als1nam           "'"'h] ek
+
+           They ate the inJar.·a
+                                         444
+
+
+
+        With [+countable] nouns the category of number becomes relevant.
+
+According to the present analysis, Aari does not really have a marked plural
+
+form.   Instead there is a marked singulative or individuated category,
+
+which stands opposed to an unmarked generic or class-denoting category.
+
+The singulative category is in general marked by a suffix -s, which attaches
+
+directly to the noun stem, and so precedes the definite suffix, which is,
+
+of course, obligatory.     Since the singulative forms can only refer to one
+
+individuated item, it is not surprising that the unmarked non-singulative
+
+definite carries with it some sense of plurality, so that in the case of
+
+[+countable] nouns informants will give this form as a "plural", and in
+                                                                 10
+subject function such a form may require plural verb agreement        Thus, for
+
+such nouns we have at least five forms:
+
+        1.   unmarked indefinite forms
+
+        2.   definite, non-singulative, non-accusative forms*
+
+        3.   definite, non-singulative, accusative forms*
+
+        4.   definite, singulative, non-accusative forms
+
+        5.   definite, singulative, accusative forms
+
+        (Forms marked with an asterisk may be interpreted as "plurals".)
+
+These are exemplified in the following sentences.
+
+        tiile ctoqa
+
+                               -
+        There is a water-pot or A water-pot is present
+        tiile sen[J]tit
+        I have bought a uxxter-pot
+        tiilena doqak
+        The uxxter-pots are present
+        tiil es:ln ?ayse
+        The water-pot broke
+
+        tiilenam ?iyss~(~)t
+        We broke the water-pots
+11r
+                                                   445
+
+
+
+                tiilesinfun sen[fJtit
+                I   have bought the water-pot
+                There is natural gender only, which in the case of Aari means that
+
+      only those nouns which are inherently [+female] can ever be marked as
+
+      feminine morphologically.         Feminine is marked only in singulative forms,
+
+      where a -ta suffix replaces the -s           suffix of . the general non-feminine
+               11
+      gender        , e.g.
+
+               ?anza doqa
+               There is a girl or A girl is present
+                ?anzana doqak
+
+
+                ?anzanfun se[d·3]it-
+               The girls are present
+
+
+               I have seen the girls
+               keta ?anza ziziigdek
+               They want a girl
+               ?anzitan ?ef?eefda
+               The girl is weeping
+
+               n§(~)         ?anzitanfun n~[J~]e
+               He loved the girl
+               baa~ena         doqak
+               The hens are about
+               baacitan de?se
+               The hen died
+
+               baacitanfun        d!;(~)ski
+
+               He did not kill the hen
+               There is no corresponding morphological mark for nouns that are
+
+      semantically [+animate, -female], i.e., nouns denoting male animals.          The
+
+      singulatives of these are non-distinct from those of other [+countable]
+
+      nouns, e.g.
+                                           446
+
+
+
+        ?angsin de?se
+        The male died
+
+        nood'isin    §.~de
+
+        The leopard came
+                        ,,.......   .
+        mayksinam se[d·3J~(~)te
+        We saw the buffalo
+        b~~bfsinam      ziziigdek
+        They want the chief
+        Certain ( +a:nimate] nouns such as ?eed man, person, waaki cattle,
+
+derti     sheep, etc. seem to be (±female], since they appear with feminine
+or non-feminine singulative forms.
+
+
+§2.1.2. THE GENITIVE CONSTRUCTION:
+
+        The genitive construction has the order genitive NP - Head.             The
+
+final constituent of the possessor NP takes a        -t(a/e) suffix.          Although
+
+this genitive suffix shows a certain degree of homophony with the feminine
+
+singulative suffix (cf. §2.1.1.), it always follows the definite suffix,
+
+whereas the latter precedes it.         As some of the following examples show,
+                                                                     12
+definiteness in the genitive and head NPs varies independently            •    As
+
+would be expected, accusative marking occurs only on the head NP.               Some
+
+examples are the following.
+
+        ?eedte naam1 ga?s[el                             ?eed-te
+        A man's name is important                       man-gen.
+        ?eedsinte naamin Ga?amsa                         ieed-si-n-te
+     The name   of the man is Ga'amsha                  man-sglt.-def.-gen.
+        ?eedsin koota 13· naamin Ga'lamsa                ?eed-si-n            koo-ta
+     The name of this man is Ga'amsha                    man-sglt.-def. this-gen.
+        ?eedsin koote naaminem ?esayite
+     I do not kn.ow the name of this man
+IV'S ·:.:1,.,.t;;191111•:!1Lftllllllltwll!U!m!.l!t]!R!! !!l!l!DT .!.? ,! ..,,$'. ;:;:;p.,'.!§ ** * . ···r '.E,!eaw';   r"'"':z;:
+                                                           447
+
+
+
+           gunite fasi marzi-ye
+
+           A snake's teeth are poisonous
+           gunite ?oole            ~edkite
+
+           I   have not seen a snake's hole
+                                                            ~
+           gunisin koot~ ?oolen~m s~[d·3]it
+
+           I have seen this snake's hole
+
+           ?anzata mele ga?s[e]                                                 ?anza-ta
+
+           A girl's beauty is important                                          girl-gen.
+
+           tanzitent ?alqin daqali-ye                                           ?anz-ite-n-t(e)
+
+           The girl's speech is bad                                              girl-sglt.-def.-gen.
+
+           ?aksi gudrit wosmi                 n~say
+
+           Dogs do not like (the) scent of hyaenas
+
+           dang6rt(e) lefina deesmi-ye
+
+           The bone(s) of an elephant is (are) heavy
+
+           ?iste raasinte gusin ?ayse
+           My   milk-gou1"d bi>oke
+
+           The genitive suffix is absent in some noun + noun expressions,
+
+  though the possessor first order of the genitive construction seems to be
+
+  observed.           Perhaps such expressions should be regarded as compounds, e.g.
+                 ..
+           qosa-~rre           zebra cf .             ..
+                                                qosa Forest;
+                                                                         ..
+                                                                        arre         donkey
+
+           fuutta-af i           cotton boll cf. fuutta                  cotton;       ?aaf;         eye
+
+           raas 1 i-waaki milch cow cf. raas'f                           milk; waaki            cow, cattle
+
+           waaki-p' oydab              cowherd cf. waaki               cow;      p' oy-s- keep
+
+            .. .. ....
+           saabi-baab             shaman cf.        s~~bf          possession spirit; baab                 father,      own~
+
+           daami-b~~b             warrior cf. daami                 war;      b~~b
+                                                                             father, owner
+                                                                               14
+           ?ang-y?.-ns           boy cf.      ?ang          male; Y!n~i child
+                                                                                       14
+                               girl cf. maa                woman, Female; y~n~i child
+
+           noq6-?oole             water-hole cf.            noqa       water;        ?oole      pit, hole
+                                               448
+
+
+
+        ?inde-qoli            nanny-goat of.         ?indf mother;         qolf   goat
+
+        beri-?.-~q          t r ee-spiri t, sacr ed tree                                  aaqe tree
+                                                           cf. beri s hade, sr;n·r i.•t ; ....
+                                                 Note:     ....
+                                                           aaqanta beri s hade of a tree
+
+§2.2.    PRONOUNS :
+
+
+§2.2.1. PERSONAL PRONOUNS:
+
+          The basic seven-fold set of unaffixed pronominal stems is as follows.
+
+                       ls            ?i               lp          w~(?,)
+
+                       2s            ~a               2p          y~
+
+
+                       3s.m          kl
+                                     k615
+                                                      3p          ke
+                       3s.f
+
+Such minimal forms occur immediately before various dependent clause verb
+
+forms, where they function to distinguish the subject, for, unlike main
+
+clause verbs, dependent clause verbs do not usually contain subject agree-
+
+ment ma rkers.     They a ppear, for example, in subordinate c l auses (cf. §2 . 7.4.)
+
+such as the following.
+
+                 ?i diib[z]inka
+                 i f I s t eal ...
+                 aa woonki nk        . .
+                                      ~
+
+
+
+
+                 if you do not work
+                 wg(9) ?alqdik ...
+                 uhen ue spoke ...
+                 ki (- ng(g)) ?es kis
+
+                 bef ore he knew
+                 k6 (- n~~) 7ee f seq1nda kan ...
+
+                 because s he wept
+                 ?i woc'ayinda kan
+                 because I will not drink ••.
+                                           449
+
+
+
+It should be noted, however, that if a subject pronoun occurs independently,
+
+these preverbal pronouns will not also occur, thus:
+
+
+                 --          --
+                 aana ?im ye(e)ksink ?ita         aam
+                                                  --       --
+                                                          ye(e)kter
+             If you insult me, I shall insult you
+The significance of the variants         nQ(Q) (3s.m) and        naa (3s.f), which may
+occur in such clauses (and are the only possible forms in certain syntactic
+
+contexts considered below)         is not yet clear.    These basic pronoun forms
+
+also appear preverbally in relative clauses (cf. §2.7.3.), e.g.
+
+                 [?i ziig[z]eqinda ziigin]             ~i?[J]e
+
+             The goods that I wanted arrived
+                 [ki naskinda re~] maa[~h]e
+             A thing which he did not like happened
+                 [w§Cg) bookten ?001enJ noqok s'o[M'Je
+             The pit which we have dug has filled with water
+Pronouns of this type occur also in the "complex paradigm" of the jussive
+
+(cf. §2.7.2.2.), e.g.
+
+             de? kl. de?en
+             Let him die!
+        To the very limited extent that they have been investigated it
+
+appears thatrelational postpositions (cf. §2.8.) follow pronominal forms
+
+of this type, e.g.
+
+                 ?uutu giininam ?i kan teyye
+             Uutu took the butter for me
+             ~~       kan ?isin ?imsit
+             I    gave food to you
+             ?i-rank kayye
+             He went away from me
+             kl. re     ?,.~dite
+
+             I    came to him
+                                                450
+
+
+
+        A set of object pronouns is furnished by suffixing the accusative
+
+marker -m   to the foregoing forms, viz.
+
+                    ls             ?1.m                 lp      WQ(Q)m
+                    2s             ~P,.rn               2p       y~(~)m
+
+                    3s.m           kim
+                                                        3p      kem
+                    3s.f           k§(g)m
+Attention is directed to the 3s.f and 2p forms here, for they appear with
+
+breathy vowels.     I have no explanation for this.
+
+        As heads of independent NPs in subject or nominal predicate function
+
+we find the following set of pronominal forms.               Most of them are derived by
+
+suffixation of    -ta16 , viz.
+                    ls            ?itA                lp      wg(g)ta
+
+                    2s            ~?,.nA              2p      yet a
+
+                    3s.m          ng(g)
+                                                      3p      keta
+                    3s.f          n~~
+
+Some examples of subject, nominal predicate and object pronouns are seen
+
+in the following sentences.
+
+             keta        y~(~)m    ba[f:]eqek
+             They    ove~came     you(p)
+             yeta kim merkayet
+             You (p) did not he l p hi m
+
+             .... galta
+             aana
+             You are an old man
+
+             n§(g)       ga?se
+             He is big
+
+             n~~    kQ(Q)m y!z y!zda
+             She hates her
+
+
+             We like you
+
+             kuur     ~~qseqinda            ng(Q) -ye
+                                         451
+
+
+              He is the one who spent the day here
+              p'a!§kinda yete
+              You(p) are the ones who were not frightened
+
+
+              We are the ones who were areated
+
+
+(For a possible explanation of the vowel change seen in the pronouns in the
+
+last two examples, see §2.6.).
+
+         The reflexive direct object pronouns are composite items which
+
+transparently derive from a construction consisting of a possessive determiner
+
++ mata head    + accusative   -m,     viz.
+
+             ls      ?imatam                      lp       w6(g)matam
+             2s      ?.,~at am                    2p       y~(~)matam
+
+             3s.m    kfmatam}
+                                    y!matam       3p       kematam
+             3s.f    k6matam
+                                                    .                    17
+The form yimatam     is neutral with respect to the sex of the antecedent •
+
+Some examples are as follows:
+
+              ?ita ?imatam gi?sit
+              I hit myseZ.f
+              n§(g) y!matam (-kimatam) ?es?esda
+             He knows himself
+
+              ~~na ~~atam ~edday
+
+             You see yourself
+
+§2.2.3. DEICTIC PRONOUNS:
+
+        The two deictic pronouns koone ;:.,, koona      this, that, these, those
+
+and   keene - keena these, those have straightforwardly to be identified
+with the deictic determiners (see §2.3.2.).       In direct object function the
+
+more general form (koone - koona) shows that i t has a composite structure,
+
+for the acc usa tive suffix -m      is seen to replace the ending.   The same
+                                       452
+
+
+
+conclusion would be reached from a consideration of genitive NPs containing
+
+deictic determiners, for in these the genitive suffix attaches directly to
+
+the determiner stem koo-; see §2.1.2.        (My data contain no evidence for
+
+this analysis in the case of keene - keen a.)       A few eKamples of the pronominal
+(i.e., head role) of these deictics are given here, but others appear else-
+
+where in this study.
+
+             koone ?aksi
+             This/that is a dog
+             koone toyla dakki
+             This/that is not a fish
+             wg(g)te kg(g)m teyyg(g)t
+             We took this/that one
+
+             ~(~)n ~~nt    koone
+             Your house is this/that one
+
+             keen~     c'elmi-ye
+             These/those are blaak
+
+             wg(g)ta keenem        n~sdg(g)t
+
+             We like these/those
+
+§2.2.3. POSSESSIVE PRONOUNS:
+        Possessive pronouns appear to be formed from one type of possessive
+
+determiner (see§ 2.3.1.) by attachment of the definite suffix -n(a) - -n(e),
+
+viz.
+
+            ls            ?isten               lp       w9(g)nten
+            2s            aanten               2p       yent~n
+
+            3s.m          kitt~n
+                                               3p       ketten
+            3s.f         kg(g)tten
+The following are some examples:
+
+             ?isten (-?isten!l)       gaa~'da
+
+
+            Mine is bett er
+                                           453
+
+
+             kettene s'eedi-ye
+             Their's is short
+             kittena c'elmi-ye
+             His is bZaak
+             koone yenten (-yentena)
+             This/that is yours(p)
+
+             ~~ntenem        ziigda
+             He wants yours
+
+
+§2.2.4. INTERROGATIVE PRONOUNS:
+
+        The following interrogative pronouns were recorded:
+
+             ~y      who?;    ..amna     ..
+                                       - amne which one?;        ~re   ?Jhat?;   meym how
+
+             rrruch/many?; ~ynet ?Jhen?;         ~bir   ?Jhere?; !!-Snf ho?J?;    ar~   kan ?Jhy?
+
+Three of these will be seen to be formally identical to the interrogative
+
+determiners considered in § 2.3.3.
+
+        One observation needs to be made with respect to clauses containing
+
+interrogative pronouns. for it has been noted that whatever the person of
+
+the clause subject the verb appears in an invariable form.              In the perfect
+
+this form may be identified as the 3s perfect 1.           In the imperfect the form
+
+found resembles the regular imperfect in containing the same -d                  formative,
+
+but since the final vowel is an          e • it is not possible to identify the
+form with the 3s imperfect (for the latter terminates in a ; see §2.7.2.2.)
+
+Moreover, none of the instances recorded show any signs of reduplication.
+
+For both perfect and imperfect there is an equally common and acceptable
+
+alternative form terminating in -il.             These forms are illustrated with
+
+de1 - die,    viz.
+
+                         perfect:           de?se -     de?sik
+
+                         imperfect:         de?de       de?dik
+
+The basic personal pronouns (see§ 2.2.1.) occur with these verb forms when
+
+the questioned constituent is a non-subject, though in the case of 3ms subjects
+                                              454
+
+
+the pronoun seems to be optional only (see the discussion of -ik             below).
+
+The . feature of an invariable verb form suggests that the structure of content
+
+question clauses could involve a cleft sentence, e.g.
+                 ,
+          ( a ) meym- k e 18   1§€mde (- 'Sendik)
+
+               How many/rrruch wiLl they buy?
+
+          (b) ~bir-~ kayde          <-     kaydik)
+
+               Where are.you going?
+What is curious, however, is the fact that replies appropriate to such quest-
+
+ions (which would, one assumes, have the same focus structure) may not contain
+
+the invariable verb form.         Thus, for (a) and (b) above appropriate answers
+
+might be (a') and (b').
+
+        (a')   qasten 1§endek
+               They will buy two
+
+        (b')   3 inka   kaydi t
+
+               I am going to Jinka
+
+Yet the possibility of a copula (or what was originally a copula) being involved
+
+is enhanced by the fact that in cases where there is a 3ms subject, it is
+
+common for a -ik     suffix to appear on the interrogative pronoun, and in
+
+such cases the verb form can only have the -e            ending; so that it appears
+
+that the two homophonous suffixes should be identified, e.g.
+
+               iynetik ~~de -         ~ynet ~~dik -      aynet ~~de
+
+               When ZJiU he aome ? ( **~ynetik         ~~dik)
+
+               ..
+               abirik doqde -         ..                 ..
+                                      abir doqdik - abir doqde
+
+               Where does he Live? or Wher e is he?
+There is even one case where an otherwise unidentified -k             suffix appears
+
+attached to a 3p pronoun, i.e.,
+
+               abiran-ke k                     ~~d e
+
+               Wher e ? - from - they -k        aame
+               Where have they come from?
+                                         455
+
+
+Clearly there is here an interesting area for future research.      Further
+
+examples of sentences containing interrogative pronouns are the following:
+
+             ~re   naSde (- n~Sdik)
+             What does he Like?
+             meym-ko teyde (- teydik)
+
+             How many will she take?
+                                  . . . . . . . h] e)
+             1re-ki maa~ik (- maa[t.s
+
+             What happened?
+             1snik 11de - 1sni 11dik
+             How did he come?
+             ~~n ~~nt ~na
+                                        19
+                                 deek
+
+             Which one is your house?
+             ~ynet-ko    de?de (- de?dik)
+
+             When will she die?
+             meym de?sik
+
+             How many died?
+
+
+             Who came?
+             1yim-wg(g) ziigde (- ziigdik)
+             Whom do we want?
+             1yim-e ziigde (- ziigdik)
+
+             Whom dQ you{p) want?
+Comparison of the last three examples reveals that in object function         ~y
+
+
+takes the accusative suffix     ~m;   this does not occur in the case of any
+
+of the other interrogative pronouns.
+
+
+§2.3.   DETERMINERS:
+
+
+§2.3.1. POSSESSIVE DETERMINERS:
+
+        The most general set of possessive determiners appears to have
+                                          456
+
+
+
+developed from a genitive NP construction, for each determiner consists of
+
+a personal pronoun plus the genitive suffix (see §2.1.2.).                However, certain
+
+morphological idiosyncrasies suggest that they have now to be regarded as
+
+lexicalisations.      Each member of the set has a longer and a shorter form,
+
+e.g.
+
+           ls        ?iste, ?ist                lp      w2(9)nte, w9(g)nt
+           2s        ~~nte,    ~~nt             2p          yente, yent
+
+           3s.m      kitte, kit
+                                                3p      kette, ket
+          3s.f       k6tte, k6t
+The shorter forms occur both preceding and following the head, though it
+
+seems likely that when no other dependent elements are present, the latter
+
+position is usual.      My informant claimed that when the determiner is placed
+
+before the head, it imparts a contrastive force, especially in the case of
+
+the longer form, which occurs only in this position, e.g.
+
+                mata ?ist seeqda
+
+                My head aahed/is unwell
+
+                ~(~)n    kit ?aserse
+                His house aaught fire
+
+                b~~b~n    kitam ?essit
+                I kne w hi s f ather
+
+                b~eb ~~nt naami Calmayo
+                                                                                              I
+                Your father's name is Chalmayo                                                i
+                                                     ,-..                                    .I
+                k6t ?indap'sinta ~(~) se[d·~]~(~)t
+                We saw her brother's house
+
+                n§(g) k6t ?indanam Y![3·]e
+
+                He hates her mother
+
+                ?ist waaktenem diib[z]aqay
+                You stole my aow
+
+                ?iste waaki diib[z]aqay
+                You stole MY aow
+2                                                      -;.-;·-; :·---.   :t ·1Hmit6teft-· 5 · ;:i;·:~·~'t'1:t·.;,·;· ··   · ,..,,-,,..,,, · r   tnt#?tiii'tt1'   1
+
+
+
+
+                                                 457
+
+
+    For the pronominal function of these determiners in headless NPs, see §2.2.3.
+
+            Aari expresses possessive predication (i.e., predications employing
+
+    to have in English) by means of the locative-existential verb doq- (see
+    §2.7.2.5.).   In such cases the entity possessed functions as head of the
+
+    subject NP, and is obligatorily followed by a possessive determiner.                                                            When
+
+    it is expressed, the possessor occurs sentence-initial, and since it too takes
+
+    the nominative, it has probably to be regarded as having an appositional
+
+    structure, e.g.
+
+                  (?ita) maa ?ist doqa
+
+                  I have a wife
+                  (naa) tokmi ganzab k6t doqa
+                  She has a Little money
+                  (keta)       fe~a   bedmi ket doqa
+                  They have much Land
+                  ?anziten       koon~    ?innaani k6t doqa
+
+                  That girl has a sister
+                  (yeta) ?afla killa yent doqa
+                  You(p)   have new clothes
+                  ytn~i    wollaq ?ist doqa             ~~q
+
+                  I had one child
+                  laqami      m~~     kit doqa
+
+                  He had a beautiful wife
+            Attention is also directed to the fact that certain kin terms have
+
+    special possessed forms, which appear to be used interchangeably with con-
+
+    structions involving the regular noun form + possessive determiner described
+
+    above, e.g.
+
+                      kin term             possessed form
+
+                      bfr~ba              baab                                          father
+                      ?indi                     ..
+                                           ?indaak
+                                                 ·~
+                                                                                        mother
+                                            458
+
+                     ?imci                  ..
+                                       ?imcaak   ~
+                                                              aunt
+                     ?indap'si         ?indap's               brother
+                     ?innll.an         7innaan                sister
+Preposed possessive determiners which are formally similar to the basic
+
+pronominal stem forms (see §2.2.1.) occur with these particular items, and
+
+the initial ?i           sequence, which characterises most of them, is dropped, e.g.
+
+             ?f-ba~b                    my father
+             ke-b~H!·b                  their father
+
+                                        his mother
+             ~?.--ndap's               your brother
+                                       our aunt
+             ye-nnaan                  your(p) sister
+
+It should be noted that other kin terms, such as ? irki              uncZe,   m~~   wife,
+susa reZative, etc. do not have similar possessive forms.
+
+§2.3.2. DEICTIC DETERMINERS:
+
+        The most widely encountered and general deictic determiner is
+
+koone - koona            t his, that, these, those.    The other item   keene - keena
+seems to be restricted to use with noun heads that are semantically "plural"
+                20
+(see §2.1.1.)        •   As in the case of the posses s ive determiners, koone and
+
+keene are found both preceding and following the head; though the l a tter
+position is probably the basi c or unmarked one.          The following are some t y pical
+
+examples of the use of these determiners; other examples a ppea r elsewhere in
+
+the paper.
+
+             ?isinin koone          ~'~la
+
+             This/that grain is raw
+
+             d'aakin koone s'eed'i-ye
+             This/that rope is short
+
+             yjnsi koone ?indap ' s kit doqa
+             This/that boy has a brother
+
+             ?eedin keen e (- koone) ?assaab ket laqruni-ye
+             These/those people have a good idea
+                                             459
+               lit: These/those people, their idea is good
+
+               ~(~)na    keena (- koone) ga?s[e]
+               These/those houses are big
+For the pronominal function of these determiners in headless NPs see§ 2.2.2.
+
+
+§2.3.2. INTERROGATIVE DETERMINERS:
+
+           Three interrogative determiners were recorded, viz.
+
+              meym      how much/many?;     ?,.IDila -   amne   which?;   aY   whose?
+
+e.g.
+
+               dert1 ~nem ~~ ziigday
+               Which sheep do you like?
+
+               waaks1n       ~ne   ga?s[e]
+               Which cow is bigger?
+
+               koona    ~Y   .waaki
+               Whose cow is this?
+
+               waakl. meym doqa
+               How many cows are there?
+
+               ?eed meym      i}~de
+
+               How many people came?
+For the pronominal function of these determiners in headless NPs see §2.2.4.
+
+
+§2.4.   ADJECTIVES:
+
+        From the point of view of morphology there is often an indeterminacy
+
+between adjectives and nouns, and it seems that some lexical items can function
+
+as either.     A number of items that are usually adjectives semantically share
+
+a suffix     -mi; and since for many of them we find verbs having cognate roots,
+one might feel justified in regarding this suffix as an adjectival formative,
+
+e.g.
+
+               ?aymi broken, cf.            'lay- break (intr.)
+               ?oyd' mi       hot, cf.      ?oyd' - become hot
+
+               ?,.zmi   sick, cf.     az-     become sick
+
+               bedm'i     many, much, cf. bed-            become many/much
+                                              460
+
+             tokmi        smaU, cf.        tok-      become small, decrease
+
+             dees'ml.       heavy, cf. Maale              des'ene         heavy
+
+             zeymf        red, ef. Maale            z6k'e         red
+
+             zaazmf        wet, cold, cf.           zaaz-         become wet/cotd
+
+             rggtmi        taU, (no cognates available)
+
+There are, however, some nouns that look as if they contain the same suffix,
+
+e.g.
+
+              'laqmf      insclt; ? ikmi           pain    (cf.     ?ik-pierce, stab);
+
+              'luqmi      thorn 21 ;        v
+                                         ?uqsmi           cfow21
+
+Moreover, in some instances ?oyd 'mi               and frzmi            (see above list) appear
+
+to require translation as heat and sickness respectively.                         Thus, although
+
+verb cognates have not been found in every case, it might be safer to conclude
+
+that    -mi is simply a deverbative derivational suffix.
+        Other items which function adjectivally (though not exclusively so
+
+in every case) but which lack -mi are such as the following:
+
+             ga?sa        big, fat, important;            s' eedi       short; killa     new;
+
+             f   eeday     useless;        ?uE:s:i near (cf. ?us- become near);
+                         cold (cf.       q~z- become cotd,              q~zi   wind);   c' ~la
+                 raw, raw f ood:       s 'oos' i   fuU (cf.        s 'oos '-      become fuU)
+
+        The behaviour of predicative adjectives with respect to the copula
+
+-ye is treated elsewhere (see §2.6.).                 Some additional examples are given
+
+here:
+
+             goolena koona daqali-ye (- daqali)
+             This beer is bad
+
+             y~nsin      tokmi-ye (- tokmi)
+             The ehiZd is small
+
+        In the following the two final examples give evidence of agreement
+
+between adjective and noun: at least in subject function
+
+             ?anza laqami ~~de
+             A beautiful. girl came
+
+             d'aaki s' e edi ziigdite
+                                         461
+
+             wg(g)ta ?afla killa w§(g)nt             doq~
+
+             we have new clothes
+             gudri s'aami dakki-ye
+
+             There are no white hyaenas
+             Y!nsin tokmina         ~(~)fda
+
+             The small child is crying
+             galsi     ~'elmisin d~?se
+
+             The black old man died
+
+§2.5.   NUMERALS:
+
+        The basic numerals are as follows:
+
+             1     w6llaq                       7   tabza
+
+             2      qasken (- qasten)           8   qask~n-tamars
+
+
+             3     makkan                       9   wolqan-tamars
+
+             4      ?oydi                      10   tanuna
+
+             5      donq                   100      mat a (- mato)
+
+             6      laa                   1000      siytt
+
+The form for twenty could also be regarded as a basic numeral, for it differ;
+
+from all the other numerals denoting multiples of ten, which are clearly
+
+derivative, e.g.
+
+             20     bonda                      60   laa-tam
+
+             30 makkan-tam                     70   tabza-tam
+
+             40     ?oydi-tam                  80   qasken-tamars-tam
+
+             50     donq-tam                   90   wolqan-tamars-tam
+
+The intermediate numbers are fomed straightforwardly, viz.
+
+             11     tamma-wollaq (- tfunmollaq)
+
+             12     tamma-qasten
+
+            13      t amma-makkan
+
+             26     bonda-laa
+
+             41     ?oydi- tfun-wollaq
+
+            253    mate qas ten donq-tfun-makkan
+
+            428 mato ?oydi. bonda-qaske n-tamars
+                                           462
+
+
+
+          As attributive nominal quantifiers numerals always follow the head,
+
+and when they are present, a deictic or possessive determiner will oblig-
+
+atorily precede the head.       However, the data include cases where a numeral
+
+is followed by a relative clause, e.g.
+
+              derti wollaq doqa
+
+               There is one sheep
+               ?aksi d6nq s~[d~]it
+
+               I
+
+              keen~
+                   sa?J five dogs
+                        ?aksi d6nqinem §&[d·3]it  --
+               I saw these five dogs
+               ?ist (-?i) y!nsine makkanin ~a?[J]eqek
+
+               My three children have arrived
+               ?eedin ?oydin          ~~dten   doqak
+
+              There are four people who have come
+In many cases, especially in predicative function, numerals may stand alone,
+
+e.g.
+
+
+
+               We ?Jere six
+              makkanin       §.~dek
+
+               The three came
+               keene makkaninem ziigdit
+
+               I want these three
+
+§ 2. 6.   COPULAR CLAUSES:
+
+          Under certain circumstances an optional copular clitic -ye        may
+
+appear in affirmative present tense/state nominal and adjectival predications.
+
+Such occurrences seem to be possible only when the citation form of the
+
+predicate noun or adjective has final accent.          If -ye   does not appear
+
+(i.e., if it is optionally absent) or if it cannot appear (i.e., if the
+
+predicate item has non-final accent in the underlying/citation form), the
+                                             463
+
+
+final predicate item is low-pitched. e.g.
+
+                   koone y!nsi-ye (- ?yinsi)
+                   That is a ahild                      cf.     y~ns1      child
+
+                   tiilena ?oyd'mi-ye (- ?oyd'mi)
+               The pot is hot                           cf.     ?oyd'mi       hot
+
+                   kuur ~~qseqinda ?eed diib-ye
+                   The man who passed the day here      ~s    a theif
+
+                   wahana zeymf-ye (- zeymi)
+                   The meat is red                      cf.     zeymi       red
+but:               gusina killa
+                   The calabash is new                  cf.     killa       new
+
+                   koone ?aksi
+                   This is a dog                        cf.     7 aks i     dog
+           Cases like ga?sa big, fat, important and gal ta old man, old
+
+are interesting, for although -ye            is not pronounced, variant predicative
+                                   \
+forms of these appear with a final high-pitched [e]                 e.g.
+
+                   ?isten ga?~a (- ga?~[~])
+                   Mine   is big
+
+                   n§~?,) galta (- galt[e])
+
+                   He is an old man    or   He is old
+Such variant forms might well derive from underlying                /ga?Sa + ye/, /gal ta
+
++   ye/,    etc.
+           The special set of kin terms discussed in §2.3.1. have their own
+
+predicative forms with a final           e, e.g.
+
+                   ?i-b~rnbe
+
+                   It is my father
+
+                   ~a-nnaane
+
+                   It is your sister
+
+                   ?eedten de?ten ki-ndaake
+
+                   The woman who died is his mother
+                                                464
+
+
+          Negative present tense/state nominal and adjectival predictions
+
+require dak- ,         an irregular verb that also serves in the negative of the
+
+negative of the locative-existential verb doq-               (see § 2. 7. 2. 5.).   Many cases
+
+have been noted in which the clitic -ye               attaches to the 3s form of dak-
+
+e.g.
+
+                  ?ita galta dakkit(e)
+                  I am not an old man
+
+                  koona toyla dakki (- dakki-ye)
+                  This is not a fish
+
+                  doobina       ga?~a   dakki {- dakki-ye)
+                  The rain is not abundant
+          Affirmative and negative past tense nominal and adjectival predications
+
+employ    ~~q-        and    dakki-~~q-      respectively, e.g.
+
+                  ?ita foliis ....
+                              aaq(e)
+                  I   ZJas   a soldier/poliaeman
+
+                  n~~ m~~ laqami ~~q
+                  She was a good woman
+
+                  ?ita foliis dakkit-~~q
+                  I   ZJas   not a soldier
+
+
+                  He was not poor
+
+§ 2. 7.   VERBS:
+
+
+§ 2. 7 .1. VERB   STEMS:
+
+          Verb stems may be simple or extended.           Extended-s tem (ES) verbs differ
+
+from simple-stem (SS) verbs in having one or more derivational suffixes which
+
+are associated with the formation of passive and causative verbs; simple-
+
+stem verbs contain a root only.
+
+
+
+
+                                                                                     . &ll.LL££&illl
+                                            465
+
+
+§2.7.1 . 1. SIMPLE STEMS:
+
+        In the great majority of SS verbs the root is a monosyllable con-
+
+forming to the canonical form for syllables in the language (see               § 1. 4.).
+
+Some typical verb roots are the following:
+
+              gob-      Jump;   bed-      become many/much;      woe:- become dry;
+
+              a.z-     run, fly;       ?es- know;    ~a?-    aPrive ; book-      dig;
+
+              y~(~)k-       i nsult;     ?oyd',... become hot;    ?ays- bPeak; ~ws-
+
+               rest;     mang- hunt;      s 'uns-    pinch; sonq-      kiss;      ?oms-
+
+               load;     gin?- fall asleep; ?ard-            enter'; 9,0l?- add to;
+
+               ?alq- speak
+
+        Apart from obvious loans such as          ?aroma~-    be lieve and J ammar-
+
+  ~arnmar-    begin, only a handful of disyllabic SS verb roots were recorded,
+
+and of these two are deadjectival derivatives.          Moreover, all of them have
+
+monosyllabic alternants, and the second vowels of the disyllabic alternants
+
+could probably be analysed as e penthetic insertions, viz.
+
+              ?uugum- - ?uugm-              shout; bukul- - bukl-         slip down;
+
+              laqam-        laqmi      become good (cf. laqamf. - laqmi good);
+
+              daqal-        daql-      become bad (cf . daqali - daqli bad)
+§2.7.1.2 . EXTENDED STEMS:
+
+        The investigation of ES verbs was restricted to a consideration of
+
+"passives" (derived intransitives) and "causatives" (both derived transit-:t"ves
+
+and "true" causatives).      As far as these forms are concerned, the overall
+
+picture i s a familiar one as far a s Ethiopian langua ges are concerned.                  Thus,
+
+for every transitive SS verb of the language which functions in a clause
+
+which may contain an overt (subject) expression of an agentive argument,
+
+there is an ES passive or intransitivized counterpa rt, which functions in
+
+a c l aus e where there is usua l l y no overt expression of an a gentive argument
+
+- though one is usually implied.         Similar ly, for every intransitive SS v erb
+
+there i s an ES transi tivized form which has an additiona l agentive argument.
+                                          466
+
+
+Such transitivized forms function in clauses in which the agentive may be
+
+expressed as clause subject.      For transitive SS verbs there is also usually
+
+a causative ES form which functions in clauses in which the clause subject
+
+will express a second or "higher" or "instigating" agentive argument.            In
+
+such a case syntactic expression of the "lower" or "mediating" agentive
+
+argument is commonly omitted.
+
+        There are some very productive processes associated with the form-
+
+ation of ES verbs.   There are also a few irregular forms.        Generally speaking,
+
+the existence of an irregular form "filling the gap" lexically appears to
+
+"block" the application of the more regular and productive rule (Aronoff 1976).
+
+        The productive word formation rule for passives involves the
+
+suffixation of -er    to the root, e.g.
+
+             simple-stem transitive             extended-stem passive
+
+             diib-        steal                 diiber-            be stolen
+             wod-         put doUJn             woder-            be put doUJn
+             f oc-       open                   f ocer-           be opened
+             ?us-        aook                   ?u~er-            be cooked
+             wg(g)l-     · touah, feel          w9(g)ler-         be touched/felt
+             d~(~)s-     kill, grind            d~(~)ser-         be killed/ground
+             wod'-       trap                   wod'er-           be trapped
+        In passives of verbs having a root-final q        the vowel of the extension
+
+is bakced and lowered to [a] ,     e.g.
+
+             sonq-       kiss                   sonq [a] r-       be kissed
+             ?alq-       speak                  ?alq[a]r-         be spoken
+
+             r2(2)q-     hang                   rg( g )q [a] r-   be hung
+        A handful of verbs have been found to have a passive extension -ser,
+
+either instead of, or in free variation with, the more regula r       -er suffix,
+
+e.g.
+
+             kam-        pick up                kamser-           be picked up
+                                              467
+
+
+
+              ga'l-            bite                    ga?er- -              be bitten
+
+                                                       ga?ser-
+
+              tig-             have sexual inter- tig[z]er-                  have sexual inter-
+                               course (man)                                  course (woman)
+
+              wur-             hear, Us ten to         wurser-               be heard/listened to
+
+        A passive ES verb is employed in the case of a number of                   important
+
+verbs having a subjective or reflexive meaning in such cases a cognate SS
+
+verb may not even exist, e.g.
+
+              qob-er-         get dressed;      ?es-er-       hear   (cf.   ?es-   know);
+              daaq- [a] r-       become hungry; seeq- [a] r-            suffer pain/sick-
+              ness; q§!.z-er-         feel cold;     saam-er-        become thirsty;
+
+              lall-er- ffow           (cf.   lall-   pour);     gal t-er-       become old, age
+              (cf. gal   ta     old person, old)
+
+        The regular rule for forming causatives involves suffixation of -sis
+
+to the root, e.g.
+
+              simple-stem verb                        extended-stern verb
+
+        (a)   transitive                              causative
+
+              aaf-             find                    ;:i,~fsis-           cause to find
+
+              gi?-             hit                     gi?sis-              cause to hit
+
+              duuk-           bury                    duuksis-              cause to bury
+
+              kam-            pick up                 kamsis-               cause to pick up
+
+              wur-            hear                    wursis-               cause to hear
+
+              lall-           pour out                 lalsis-              cause to pour out
+        (b)   intrans itive                           transitivized
+
+              wo'l-           stand up ( intr.)       wo?sis-               stand up (tr.)
+
+              leeq-           chat                    leeqsis-              engage in
+                                                                            conversation
+
+               ..
+              yir-            be startled             y;i_rsis-             startle
+
+              daqal-          become bad              daqalsis-             make bad
+
+              siir-           become pregnant         siirsis-              make pregnant
+                                           468
+
+
+
+        The initial       s of -sis undergoes a voicing assimilation, when
+the root-final consonant is a voiced obstruent, e.g.
+
+               diib-        steal                   diib[z]is-                    cause to steal
+
+               s'eed-       become short            s'eed[z]is-                   shorten ( tr.)
+
+               sug-         push                    sug[z]is-                     cause to push
+
+               ~z-          run                     f!,[z : ]is-                  cause to run
+
+Root-final sonorants do not generally bring about such voicing assimilations,
+
+though an exception occurs in the case of bir-                  pass, precede, which in
+the perfect 1 paradigm (see§ 2. 7.2.2.)          has a variant containing [z], i.e.,
+
+3s bir[s]e - bir[z]e               he/she passed.     More typical examples, however,
+
+are the following:
+
+                ?imsis-     cause to give; mersis-                       cause to forbid;
+                woonsis-     cause to work; lalsis-                        cause to pour out
+        Root-final d'       may simply reduce to          [?] before the causative
+suffix, e.g.
+
+               ?ad'-        give birth              ?a[?]sis- ·                   cause to give
+                                                                                 birth
+
+               sud'-        coUect, store           su[?]sis-                    cause to collect
+
+               ?oyd'-       become hot              ?oy[?]sis-                   heat
+Alternatively, d'       may undergo coalescence with the initial                     s   of the
+
+causative suffix to yield [ t-· h
+                                s ] ,      which is parallel to the behaviour of
+                                                      .          -h
+stem-final     t, which coalesces with     s to give [ t · s ] ,                 e.g.
+
+               ?ad'-        give birth              ?a[h' ]is-                   cause to give
+                                                                                 birth
+                                                           ;--.....
+               sud'-        coUect, store           SU (   t •S       1)   is-   cause to collect
+                            Lie down
+                                                              --..
+               raat-                                r~~[t·s']is-                 cause to Lie
+                                                                                 down
+                                                           ,,....... h
+               wut-         go out                  wu[t·s ]is-                  cause to go out
+
+        Total assimilation (or coalescence?) occurs between the initial s
+                                                  469
+
+
+                                                        ...
+of the causative suffix and root-final s or s... ' '                                  e.g.
+
+               ?is-               eat                         ?i[t':"Sh]is-                          feed
+                                                                    ...--h
+              ge~-                pass the night              ge[t·s ]is-                            cause to pass
+                                                                                                     the night
+                                                                    ---h
+              ?as-                burn (tr.)                  ?a[t.s ]is-                            cause to burn
+                                                                         ..............
+              ziis'-              shut                        zii[t.s•]is-                           cause to shut
+                                                                    ...............
+              bus'-               uproot                      bu[t·s']is-                            cauee to uproot
+                                                                    ,..-.....
+              sis'-               spit                        si[t·s']is-                            cause to spit
+         There is an interesting consonant harmony process in Aari, whereby
+
+the presence of a palate-alveolar sibilant ( s, z, c, c'                                  , .) )   anywhere . in
+
+t h e root w1·11 b ring
+                     '  a b out    II   pa1.ata l'1zat1on
+                                                      • II of any s1'b'l    ' a suff'1x 23 •
+                                                                      1 ant 1n
+
+This process will operate across intervening non-sibilant segments.                                               The
+
+causative suffix        -sis is an obvious candidate for the process, e.g.
+
+               ?us-               cook                        ?u [ f : ] i r J ] -                   cause to cook
+
+              nfis-               Uke, love                   Il@.[f:]i[f]-                          cause to like
+
+                                  throl.J                     z~q [ J] i [ J] -                      cause to throl.J
+
+                                  curse, sl.Jear              CI   ~~q [              J] i [ f] - cause to curse,
+                                  an oath                                                            etc .
+               sen-               buy, seU                    sen [ I] i [ I] -                      cause to buy/ seU
+
+               saan-              urinate                     saan [ I] i [ rJ-                      cause t o urinate
+If, in addition to the presence of a palate-alveolar sibilantin the root,
+
+the root-final consonant is a voiced obstruent, the initial sibilant of the
+
+suffix is   subjec~     to the obstruent voicing rule described above, viz.
+
+              q~z-                become co ld                q~[ ~:           ]i( f]-              make co l d
+
+              gg ( g)   z-        ge t drunk                  gq ( g) [ z;;:] i [              J]-     intoxicat e
+                                  sew                         z~rn.g [ ~] i [ rJ -                   cause to seUJ
+In the case of root-final palate-alveola r a ffricates the initial segment
+
+of the causative suffix undergoes total assimilation (or coalescence ?),
+
+e.g.
+                                                 470
+
+                                                                  ,....... h
+                  ?.aac-          hide                  '.l aa [ t · I ] i           [S ] -         cause to hide
+                                                              l"""""h
+                  goc-            puU                   go [ t · I ] i [             I] -           cause to puH
+                                                                    ,,.-...
+                  yinc'-          Z.augh                yin [ t · I '] i [I]-                       cause to Laugh
+                                                                 ,,.-....
+                  wo~'-           drink                 WO [    t .I        I ]   i [ I] -          cause to drink
+                       ..,.                                         ~
+
+                  guJ-            add to                gu[d.z;]i[I]-                               cause to add to
+
+Although the last example is the only instance of a root-final                                           J   I   there
+                                                                                                     ,..._
+is another example of a causative stem which terminates in                                          [d·r;] • for
+
+if palatalization of the first sibilant in the causative suffix occurs, and this
+
+is      preceded by a root-final            d, voicing assimilation and coalescence occur.
+
+The resulting segment is phonetically indistinguishable from the last example,
+
+e.g.
+                                                                -...
+                  sed-            see                   Se.[ d · r; J i [          I]-              show
+
+           A few intransitive verbs have been found to have causative ES
+
+counterparts with a formative              -~,   rather than -sis,                           e.g.
+                                                                v
+                  maq-            be fini shed          maqs-.                                      finish
+
+                  b(u)ruk-        boil. (intr.)         b(u)ruks-                                   boil (tr.J
+
+                  c 'ub-          emit smoke            c'ubs-                                      cause to smoke
+
+In the perfect 1 forms of          c':ub- and c'ub-s-,                            in which a -se(qe)
+
+formative follows the stem, only the obstruent voicing rule distinguishes
+                  24
+the two verbs          , viz.
+
+                  c'ub[z; Je(qe)                                            it emitted smoke
+
+                  c'ub[f]e(qe) - c'ub(I· ]e(qe) he cause s t hg to smoke
+
+A handful of intransitive verbs were collected in which there is a consonant
+
++    s sequence   stem-finally, even though there appear to be no (extant) simple-
+
+stem verbs from which such verbs could be said to be derived.                                          It is most
+                                                       25
+convenient to regard these as "deponent"                    causatives, e.g.
+
+                  p 1 oqs-      t hi nk, desire;       ?,.WS-          r est, become free;
+
+                  become s t artl ed
+
+          A few verbs have been recorded with a monoconsonantal causative
+                                         471
+
+
+extension   -s, viz.
+               'lay-        break ( intr.)         'lays-          break (tr.)
+
+               lanq-        feel tired             lanqs-          til"e, make tiPed
+
+               d'aw-        show                   d'aws-          cause to show
+
+Two others (both having a root-final sequence consisting of a sonorant
+
+consonant + glottal stop) have a causative extension         -is, viz.
+               qol?-        add to, pour in        qol?is-         cause to add to
+
+               gin?-        fall asleep            gin?is-         cause to s Leep
+
+          Finally attention is directed to a comparison between the intransitive
+
+verb    maat- return, go back, happen, become and its transitive counter-
+parts    maasis- and maas- , both of which mean return (tr.).            It looks
+
+here as if the intransitive stem itself contains a -t          extension formative.
+
+This is of some interest, since passive/intransitivizing extension suffixes
+
+in -t     occur in the Ometo languages (see, for example, Adams 1983: 129ff,
+
+Hayward 1982: 244ff).
+
+
+§2.7.2. VERB INFLECTION:
+
+
+§2.7.2.1. INFLECTIONAL CATEGORIES AND PROCESSES:
+
+          The inflected forms that are considered here are aspect and tense
+
+paradigms, imperative and jussive paradigms, and the negative forms
+
+appropriate to these.     It will be noted that all verb inflections in Aari
+
+involve suffixation,
+
+          Considerably more research will be necessary before the precise
+
+significance and function of the various aspect and tense forms described
+
+here are appreciated.     It appears, however, that there is primarily a perfect
+
+: imperfect dichotomy.     The formatives of the imperfect are       - d a 26 1n
+                                                                              .     t
+                                                                                        he
+
+affirmative and   -ay in the negative.         Reduplication of the root, or part
+
+of the root, is also a common, though not invariable feature of the          imperfec~
+
+
+aspect (see below).     There are two paradigms for the perfect, which contain
+                                             472
+
+
+
+
+-se( qe)       and -ta    formatives respectively in the affirmative.                 They share
+
+a common set of negative forms, which contain a formative                      -ki,   Unfortunately
+
+the nature of the distinction conveyed by selection of one or other of the
+
+two forms is not understood.
+
+       Past tense forms are formed for the perfect and imperfect by means
+
+of a postposed auxiliary verb         ~~q-   ,     This verb also occurs as a perfect
+
+(past ?) copula.        In addition, there is a main verb              ~~q-,   which means
+
+pass the day, and without doubt the copulative                  ~~q-   with its auxiliary
+
+verb development has evolved from this.             Nevertheless, the inflectional
+
+behaviour of the two is now very distinct.                  As a main verb meaning pass the
+
+day   a.a.q-    displays the full range of paradigmatic variation possible for
+
+a verb.    The perfect copula      ~~q-,     however, is a single paradigm verb (see
+
+§2.7.2.5.), and as an auxiliary, it commonly appears with just one invariable
+
+form (as inspection of the paradigms of the perfect past and imperfect past
+
+will show).         (In the paradigms the auxiliary          ~~q-   is linked to the preceding
+
+main verb by means of a hyphen.         This device is intended to indicate that
+                                                   27
+the auxiliary probably has clitic status                •   The simple imperfect may be
+
+used to indicate an incompleted action either in the present or in the
+
+future.    In addition, however, there is a special future tense, though it
+
+appears not to have its own negative.            The formative of the future seems
+
+to be a        -t   with singular persons, and -st with plural persons-; but there
+
+is also a curious        -er element, which appears in most forms of the future
+
+paradigm instead of the usual pronominal elements.
+
+       The affirmative imperfect very commonly exhibits reduplication in
+
+the case of monosyllabic stems.        There are actually two patterns of
+
+reduplication.        In one type the entire root is reduplicated, and in the
+
+other reduplication affects only the first CV sequence.                   It is noted that
+
+double vowels are usually reduced to single ones in both patterns. Both forms
+                                              473
+
+
+seem to be equally acceptable: the reduced reduplication pattern is probably
+
+typical of a more casual or rapid style of speech, e.g.
+
+                    basic stem      imEerfect - 3s form
+
+                    c'up'-         <!'up'c'up'cta        - c'uc'up'da      squeeze
+
+                    !§ed-          sedsedda         sesedda                see, look at
+
+                    te~-           tectecda         tetecda                aut
+
+                    s'iz-          s':lzs'izda           s'is'izda         sweat
+
+                    miks-          ·m:lksmiksda     -    m:lmiksda         beg
+
+                    book-          bokbookda            bobookda           dig
+
+                    ~o.o~-         s6ssoosda            sosoosda           parah grain
+                    gaam-          gamgaamda            gagaamda           get angry
+        but         daqal-         daqalda                                 beaome bad
+           The affirmative imperative has a -ka              formative.   The negative has
+
+a preposed element ~~y               The jussive . employs an invariable verb form
+
+with a formative           -en .   The various subject agreements (non-2nd person,
+
+of course,) are distinguished only by means of preverbal pronouns.                   It is
+
+an optional feature of the jussive that it is preceded by the bare stem of
+
+the verb, thus exhibiting the "complex" type of paradigm common in Koyra
+
+(cf .   Hayward 1982: 249).        Like the imperative the jussive negative has a
+
+preposed      ~~y   .   In 3rd persons the -en           formative is maintained in the
+
+negative, but in the non-3rd persons (= lst person forms) there is both stem
+
+reduplication and a -ka            suffix.
+
+           Except in the case of 3rd person singular forms, pronominal subject
+
+agreement markers are suffixed to the aspect or negative formatives.                   In
+
+the case of past tense forms the subject marker may be suffixed either to
+
+the main verb or to the auxiliary            ~~q-   .      In the case of 3s verb forms
+
+it is not possible to recognise a common suffixal element.                Thus, for the
+
+verb    qaal- aross we find the fo llowing forms for 3s persons - which should
+be compared with the accompanying 2s forms.
+                                         474
+
+
+
+                                                 3s form                       2s form
+
+         affirmative perfect 1                   qaalseqe                     qaalseqay
+         affirmative perfect 2                   qaalta                       qaaltay
+         negative perfect                        qaalki                       qaalkay
+         affirmative imperfect                   qaqaalda                     qaqaalday
+         negative imperfect                      qaalay                       qaalayay
+         affirmative future                      qaalter                      qaaltay
+
+On account of the complete lack of uniformity in 3s subject agreement markers,
+
+the various terminal vowels in 3s forms are analysed as belonging to the
+
+formatives for aspect, tense, negative, etc.                  It will be noted, however,
+
+that the various terminal vowels of these formatives are absent in non-3s
+
+persons of the paradigm, i.e., when subject agreement markers occur.                            It
+
+is further noted that the non-3s subject agreement markers are all vowel-
+
+initial, viz.
+
+                ls            -it                lp                            -9(9)t
+                2s            -ay                2p                            -et
+                                                 3p                            -ek
+The analysis proposed here is that when (as a result of morphological processes)
+
+vowels are juxtaposed within a word, the first one unde·rgoes elision.                          Thus:
+
+         2s affirmative perfect 1        qaalse           +    ay       ~   qaals[a]y
+         lp affirmative imperfect        qaqaalda              +    9.(9)t      +    qaqaaldq(Q)t
+         ls negative perfect        qaalki   +   it       +   qaalk[1]t
+         3p·affirmative perfect 2       qaalta        +       ek    +       qaalt[e]k
+   Cp.   2p negative imperfect       qaal + ay + et                 +       qaalay[e]t
+
+Such an analysis claims that 3s forms are unmarked.                          (The alternative
+
+interpretation would, of course, require us to say that for each paradigm
+
+there was a different allomorph for the 3s subject agreement marker.)                            It
+
+is worth pointing out that although it is true that Aari does not permit
+
+sequences of dissimilar vowels (see §1.4.), it would not carry any conviction
+
+
+
+                                                                                                        ....-
+                                                                                                        .
+                                                475
+
+
+
+to say that the vowel elision process was motivated by this, for this would
+
+leave the single vowels in the ls negative perfect shown above, and in forms
+
+such as the following
+
+        2p affirmative perfect 1              qaalse + et          -+   qaals [ e] t
+        2s affirmative i mperfect             qaqaalda       +     ay   -+   qaqaald [a] y
+without explanation, for the double vowels crea ted here by the affixation
+
+would not violate the prohibition on dissimilar vowel sequences.                         The elison
+
+process has to be regarded as a mo rphological rule.
+
+
+§2.7.2.2. THE PARADIGMS:
+
+        The following pa r a digms . are exemplified with the verb ba?- br i ng .
+
+The glosses provided for the var ious paradigms are s omewhat tentative and
+
+should be taken as indicative only of the general a reas of usage.                           Throughout
+
+the paradigms superscript numbe rs refer to the notes at the end.
+
+affirmative perfect 1                                    affirma tive perfe ct 2
+
+I (etc.) br ought /have brought                          I    (etc .) brought / have brought
+ls    ba ?s eqit(e) - ba?sit( e ) l)                     ls        ba?tit
+ 2s   ba?seqay - ba ?say                                 2s        ba?tay
+3s    b a ?seqe - ba?se                                  3s        ba 'lta
+lp    ba?se qQ(Q)t( e ) - b a ?s Q(Q)t( e )              lp        ba?tg(g)t
+2p    ba?se qat ( e ) - ba?se t( e )                     2p        b a?tet
+3p    ba ?seqak( e )_ - ba ?se k( e )                    3p        ba?t e k
+
+
+                                                              2)
+                                   n egat ive pe rf e ct
+
+                                   I (etc .) have not brought/did not bring,
+
+                                   ls         ba?kit( e )
+                                   2s         ba ?kay
+                                   3s         ba?ki
+                                   lp         b a?kQ(Q) t ( e )
+                                   2p         ba?ket ( e )
+                                   3p         ba?kek ( e )
+                            ··- ·-·-- - - -
+                                         476
+
+
+affirmative imperfect                           negative imperfect
+
+I    {eta.) bring/am bringing/will              I (eta.) do not bring/am
+
+bring                                           not bringing/will not bring
+ls     ba?ba?dit - baba?dit                     ls      ba?ayit
+2s     ba?ba?day - baba?day                     2s      ba?ayay
+3s     ba?ba?da - baba?da                       3s      ba?ay
+lp
+                --
+       ba?ba?do(o)t - baba?do(o)t
+                                    --          lp      ba?ayg(g)t
+2p     ba?ba?det - baba?det                     2p      ba?ayet
+3p     ba?ba?dek - baba?dek                     3p      ba?ayek
+
+
+affirmative perfect past 1                      affirmative perfect past 2
+
+I (eta.) had brought                            I    (eta.) had brought
+
+ls     ba?seqit-@.@.q(e) 3 )                    ls      ba?tit-?,.f!.q(e)
+2s     ba?seqay-~~q(e)                          2s      ba?tay-f).~q(e)
+
+3s     ba?seqey-~~q(e)     -                    3s      ba?t-~~q(e)
+
+       ba?sey-~~q(e)
+
+lp     ba?seqg(Q)t-frfrq(e)                     lp      ba?t§(g)t-?,.@.q(e)
+2p     ba?seqet-~frq(e)                         2p      ba?tet-f).f).q ( e)
+Jp     ba?seqek-~~q(e)                          3p      ba?tek-?,.P,.q(e)
+
+
+                                                        2)
+                               negative perfect past
+
+                               I (etc.) had not brought
+                               ls    ba?kl.t-iH\.q(e)
+                               2s    ba?kay-aaq(e)
+                               3s    ba?kf-aaq(e)
+                               lp    ba?k§(g)t-~~q(e)
+
+                               2p    ba?ket-e~q(e)
+
+                               3p    ba?kek-?.-~q(e)
+                                      477
+
+
+
+affirmative imperfect past                       negative imperfect past
+
+I    (etc.) was bringing/used to                 I        (etc.) was not bri nging/
+
+bring/had been bringing                          used not to bring/had not
+                                                 been bringing
+
+ls     baba?dit-aaq(e) -                         ls          ba?ayit-aaq(e)
+
+       baba?d-aH.qit(e)
+2s     baba ?day-aaq ( e) -                      2s          ba?ayay-aaq(e)
+
+       baba?d-aaqay
+3s     baba?d-a~q(e)                             3s          ba?ay-aaq(e)
+
+lp             - ...   ...
+       baba?do(o)t-aaq(e) -                      lp               .. .. ....
+                                                             ba?ayo(o)t-aaq(e)
+
+       baba?d-aaqg(g)t(e)
+Zp      baba?det-aaq(e) -                            2p      ba? ayet-f!,?,.q ( e)
+
+        baba?d-aaqet(e)
+3p      baba ?dek-aaq ( e) -                         3p      ba? ayek-?,.?,.q ( e)
+
+        baba?d-aaqek(e)
+                                                 4
+                               affirmative future )
+
+                               I (etc.) will bring
+
+                               ls   ba?ter
+                               2s   ba?tay 5 )
+                               3s   ba?ter 6)
+
+                               lp   ba?stQ(Q)t
+                               2p   ba?ster 6)
+
+                               3p   ba?ster
+                                      478
+
+
+
+affirmative jussive                           negative jussive
+
+Let me (etc.) bring!                          Let me (etc.) not bring!
+ls   ba? "11 ba?en - ?i ba?en                       ...
+                                              ls    i§Y     ?i ba?baaka
+3s   ba? k.i'. ba?en       ki ba?en                 ...
+                                              3s    aay ba?en
+     ba? wg(g) ba?en                                ...
+lp                                            lp    aay     w6(o) ba?baaka
+     WQ( Q)     ba?en
+3p   ba?   ke   ba?en - ke ba?en                    ...
+                                              3p    ~H\.Y   ke ba?en
+
+
+affirmative imperative                        negative imperative
+
+Bring!                                        Don't bring!
+2s   ba?ka                                    2s    ~li\Y   ba?ka
+2p   ba?ket                                   2p    aay     ba?ket
+
+
+Notes to the paradigms:
+
+1)       The righthand variants are obviously contracted forms.        It will be
+
+         noted that in the perfect past 1 the formative       -seqe generally
+         appears in full (apart from final vowel elision); only for the 3s
+
+         person is there a contracted variant.
+
+2)       These negatives do duty for both the affirmative paradigms.
+
+3)       Variants in which the subject agreement markers are suffixed to the
+
+         auxiliary (as in the imperfect pas t) were not recorded, though they
+
+         may well exist.
+
+4)       There is no future negative; the negative imperfect is employed.
+
+5)       There is complete homophony here with the 2s affirmative perfect 2.
+
+6)       Attention is directed to the non-distinctness of 3s : ls and 2p : 3p
+
+         members in this paradigm.
+
+
+§ 2.7.2.3. INTERROGATIVE FORMS:
+
+         In polar interrogative sentences ("Yes/No" questions) verb forms are
+
+regularly marked w.ith a t erminal -o forma tive.   In 3s forms, where this -o
+                                         479
+
+
+follows the vowel of the aspect or negative formatives, the latter undergo
+
+elision (see above).      The interrogative paradigms are exemplified with 3s
+
+and 3p forms; all remaining forms pattern like the 3p form and are fully
+
+predictable.
+
+                                                3s               3p
+
+               affirmative perfect 1           ba?seqo - ba?so ba?seqeko
+               affirmative perfect 2           ba?to             ba?teko
+               negative perfect                ba?kiyo           ba?keko
+               affirmative imperfect           baba?do           baba?deko
+               negative imperfect              ba?ay-~~qo        ba?ayek-~~qo
+
+               affirmative perfect past 1      ba?seqey-aaqo     ba?seqek-~~qo
+
+                                               - ba?sey-aaqo
+               affirmative perfect past 2      ba?t-~~qo        ba?tek-~~qo
+
+               negative perfect past                            ba?kek-~?.-qo
+
+               affirmative imperfect past baba?d-~~qo           baba?dek-eeqo -
+               past                                             baba ?d-@.<;\q eko
+               negative imperfect past         ba?ay-?,-?,-qo   ba?ayek-?,-?.-cio
+               affirmative jussive          ba? ki ba?eno       ba? ke ba?eno
+                                               - ki ba?eno      - ke ba?eno
+               negative jussive                ~?.-Y   ba?eno   aay ke ba?eno
+Unfortunately the interrogative future tense was not recorded.
+
+
+§.2. 7. 2. 4. ALTERNATION IN THE INFLECTIONAL MORPHOLOGY:
+
+       Certain morphological and phonological processes operate at the
+
+boundaries of stems and consonant-initial inflectional suffixes.
+
+       With the       -se(qe)     formative of perfect 1 .processes identical to
+
+those described in the case of the initial s of the causative suffix are
+
+seen to operate (see §2.7.1.2.), e.g.
+       • "   -   •   '"      "r     '   •   1f-'           ~ ''          ~       :       '        •    ~   :..   -,_,.,   '   '"'   J   >   .~   I   ,.
+
+
+
+
+                                                                    480
+
+
+                     stem                           3s perfect 1
+
+                     gob-                          g6b[z]e(qe)                       he danced/jwnped
+
+                     fa yd-                        fayd[z]e(qe)                      he counted sthg
+
+                     k~(~)z-                       k~(~)fz]e(qe)                     he told sb
+
+                     tig-                          tig[z]e(qe)                       he had sexual, intercourse
+Root-final           d'           may either undergo reduction to              [?]       or coalesce with
+
+the sibilant to yield                        " L
+                                            Ct·s'                 e.g.
+
+                     wod'-                         w6[?]se(qe) - w6[t--:S 1 ]e(qe)                he trapped sthg
+
+                     ?oyd'-                        ?6y [?] se( qe) - ?6y [ t':"S' ]e( qe)         he heated sthg
+Root-final t                also shows coalescence, e.g.
+
+                     maat-                         maa[t."Sh]e(qe)                   he returned, ZJent back
+
+                     wut-                          w11 [ t~h]e(qe)                   he ZJent out
+fotal assimilation (or coalescence) occurs with root-final                                    ~       or     s'           e.g.
+
+                     ?us-                          ?u [t':"sh] e ( qe)               he approached
+
+                     soys-                         s6y[Mh]e(qe)                      he passed the evening
+
+                     gaas'-                        gaa[ t':'"S '] e( qe)             he surpassed, it 'lJas
+                                                                                     better
+
+                     s'oos'-                       s' 6o[t~' ]e(qe)                  it became full
+fhe palatalisation harmony process is also fully in evidence, e.g.
+
+                     p'as-                         p'a[ f : ]e(qe)                   he feared
+                     bas-                          ba[ f:]e(qe)                      he overcame/defeated sb
+
+                     za?-                          za?[f ]e(qe)                      he arrived, it was prepared 1
+                     ....
+                     soq-                          s6q[f ]e(qe)                      it stank
+
+                     cal-                          cal[f ]e(qe)                      he 'lJas ab 'le
+
+                     mis-sis-                      mi [I : ] i [f:] e( qe)           it caused him to be
+                                                                                     repiete
+
+                     woe-sis-                      w6 [CJ h] i [I ] e ( q e)         he dried sthg
+
+                     y!z-sis-                      Y![Z: : ]i[f :]e(qe)              he caused sb to hate/
+
+                                                                                     quarrel
+
+                     ~~q-sis-                      ~~q[f    ]i[f: ]e(qe)             he caused sb to throZJ
+                      .. --_,---ti- -'..-e   ·w
+
+                                                            481
+
+
+It should be noted that the final four examples have extended (causative)
+
+stems, which have themselves been subject to palatalisation.                              Palatalisation
+
+also operates across a stem containing the passive suffix                          -er ,     e.g.
+
+             !:ien-er-                 ~~ner [         f] e( qe)               it was bought/sold
+
+             ?aac-er-                  ?~acer[             J]e(qe)            it tJas hidden
+
+             z~~g-er-                 ~~~ger [I] e( qe)                        it was sewn
+
+The obstruent voicing process is seen to interact with palatalisation in
+
+the following:-
+
+             c'ub-                    ~'ub(~]e(qe)                             he made sthg smoke
+
+             ~z-                       ~[~:]e(qe)                              he became sick
+As in the case of the causative· suffix root-final palato-alveolars trigger
+
+total assimilation (or         coalesc~nce),                 e.g.
+                                       .. ~h]
+             tee-                     te[t·J  e(qe)                            he out
+             f oc-                          ~h ]e(qe)
+                                      fo"[ t·J                                 he opened
+                                                  ,,....
+             buuc'-                   buu[t·f']e(qe)                           he reaped/combed
+             guj-                     gu [d'°:l; ] e ( q e )                  he added to sthg
+In sed-    with a root-final                      d ,       the palatalised element of the perfect
+
+1 formative undergoes voicing and coalescence, e.g.
+
+             sed-                     se [d.~ ] e ( q e)                       he saw/looked at
+
+       Suffixation of the -da                        formative of the imperfect to root-final
+
+d'   results in a perseverative assimilation (or coalescence), e.g.
+
+            stem                                     3s imperfect
+
+            wod'-                                     wod'wo[?d'.]a            he traps
+             sud'-                                   su[?]su[?c.f]a           he stores/wraps/
+                                                                              collects
+        Suffixation of the perfect 2                          -ta formative to root-final      d, and
+suffixation of the imperfect                      -da formative to root-final t           both result
+
+in anticipatory assimilations, e.g.
+                                                                                                 ?7i 'X'll
+                                           482
+
+
+
+             stem                (a)   3s Eerfect 2
+
+             y~(~)d-                   y~(~)[t:h]a..                   he seized
+
+             ?.-~d-                    ?..?.-[ ~: h] a                 he came
+                                 (b)   3s imEerfect
+
+             raat-                      ...... " ]a
+                                       raraa[d:                        he lies down
+
+             maat-                     mamaa[ ...d: ]a                 he returns, it happens
+        The velar elements in the imperative formative                  -ka and the
+
+negative perfect formative -ki          undergo perseverative assimilation to a
+
+root-final   q,   e.g.
+
+             stem                 (a) imperative
+
+             buq-                      bu[q:] a                        mix!
+
+             leeq-                     lee[q:)et                       chat!, play!
+                                  (b) negative perfect
+
+                                       ~ '~~[q:] i                     he did. not swear
+
+                                                                       an oath
+
+             rg(g)q-                   rg ( Q) rq: ] eke               they did not hang
+
+             talq-                     t al [ q : ]    g ( g) t e      we did not borrow/lend
+
+§2.7.2.5. IRREGULAR VERBS:
+
+        The three common and important verbs a?.-d-                 come,    kay- go, and
+tey- take are somewhat irregular in not having an affirmative perfect                        1
+
+containing the sibilant element of the            -se (qe ) formative.             In these verbs
+
+the contracted form of the perfect I paradigm is formed by direct attachment
+
+of the s ubject agreement markers to the root. though in the cases of kay-
+
+and   t ey- the stem-final segment geminates, viz.
+
+             fl.~d-                    kay-                                 tey-
+        ls   ~~di t ( e )    -         kayyi t ( e)                         teyyi t ( e) -
+
+             ~~deqit(e)                kayyeqit(e)                          teyyeqit(e)
+
+        2s   ~~day    -     ~~de qay   kayyay - kayyeqay                    teyyay - teyyeqay
+                                           483
+
+
+
+      3s   ~~de -     ~~deqe            kayye - kayyeqe            teyye .... teyyeqe
+
+      lp   i~dQ(Q)t(e) -                kayyQ(g)t(e) -             teyyQ(Q)t(e) -
+
+           ~frdeqg(g)t(e)               kayyeqg(g)t(e)             teyyeqQ(Q)t(e)
+
+      2p   ~~det(e)     -               kayyet(e) -                teyyet(e) -
+
+           ~~deqet(e)                   kayyeqet(e)                teyyeqet(e) -
+
+      3p   ~frdek(e)    -               kayyek(e) -                teyyek(e) -
+
+           ~f!-deqek(e)                 kayyeqek(e)                teyyeqek(e)
+
+All other paradigms of these three verbs appear to be perfectly regular.
+
+      The root     doq- is common to two quite distinct verbs, though the
+
+semantic relationship between the two is quite transparent•               doq-   meaning
+
+be present, exist (i.e., a locative-existential verb) has only two paradigms.
+
+There is an affirmative paradigm which resembles those of the three
+
+irregular verbs just considered, at least in its formal characteristics
+
+(though not with regard to its accentual pattern or the vowel of the
+
+formative in the 3s form).      But though there is a formal similarity, this
+
+paradigm of doq-     differs from those other three verbs in that it has an
+
+imperfect or present tense sense.          The other paradigm of this verb is a
+
+negative which is again perfect in form while being imperfect in sense, viz.
+
+                            affirmative                          negative
+
+            ls              doqi'.t(e)                           dakk~t
+
+            2s              doqay                                dakkay
+
+            3s              d oqa
+                                ,.28                             dakki
+
+            lp              doqQ(Q)t(e)                          dakk§(g)t
+            2p              doqet(e)            ,. ( e ) 28
+                                             doqat               dakket
+
+            3p              doqek(e)            ,. ( e ) 28
+                                             doqak               dakkek
+
+This same negative paradigm serves as the negative for the copula (see §2.6.).
+
+It would seem reasonable to doubt that the negative is actually based on the
+
+same root as the affirmative.          Not only is the root vowel different, but, as
+
+shown above (see §2 .7.2.4.) juxtaposition of the             k e lement of the perfect
+       ..,      .   "        '      Ji.,,..        •• "'   '      .,    . "    "   •                 '                       ,c     ;i;\   ...   •
+
+
+
+
+                                                                       484
+
+
+negative to a root-final q                                 usually results in perseverative assimilation
+
+of the         k        , rather than anticipatory assimilation of the                                        q .       It seems
+
+likely that we have to regard the root in the negative paradigm as dak-,
+                                                                                                29
+i. e., as a suppletive, etymologically unrelated item                                                •
+
+              Reference has already been made to the root                                                       As a        full
+
+lexical verb with a complete and regular paradigm there is                                                  ~~q-       pass the
+
+day.         Here we consider                 ~~q-             the past tense copula.                    Its negative involves
+
+a compound paradigm based on dak-, viz.
+
+                                              affirmative                                            negative
+
+                        ls                    ~~qit(e)                                               dakkit-~~qe
+                                              ,,
+                        2s                    ~~qay                                                  dakkay-aaqe
+                                              ,,
+                        3s                    ?,-~qe                                                 dakki-~~qe
+
+                        lp                    ~?.-qg(g)t(e)                                              ..    ..
+                                                                                                               ....
+                                                                                                     dakko(o)t-aaqe
+
+                        2p                    ~?.-qet(e)                                             dakket-~~qe
+
+                        3p                    ~~qek(e)                                               dakkek-~~qe
+
+             In addition to the preceding a few minor irregularities have been
+
+noted in the verbs                       d~?,.Y-               ahase; gay-             say; and          siir..- become
+pr egnant ; their principle parts are simply listed here:
+
+                                                                 da,a.y-                 gay                        siir-
+                                                                                           ,,                        ,, .
+3s affirmative perfect 1                                         daa.yse                 gayse                      s11rse
+3s affirmative perfect 2                                         dii.ata                 gaata                      sl.irta
+3s affirma tive imperfect                                        dada.adda               gagaadda                   s:lsiirda
+                                                                                                ,,                            ,,.
+3s negative imperfect                                            d~~y                    gayay                      siirmay
+2s imperative                                                    dffe,.f}.ka             gaaka                      siirka
+
+§2. 7.3. RELATIVE CLAUSE FORMS:
+
+             There appear to be several ways of forming relatives, and it is
+
+not at all clear whether this variation is syntactically governed or free .
+
+The most frequently encountered type in my mate rial involves suffixation
+
+of      -inda(a)                 to the tense/aspect/polarity formative.                                   Such relative
+                                        485
+
+
+
+forms do not inflect for subject agreement, though it seems likely that
+
+they are based on 3s forms.     What I believe to be the underlying forms
+
+of the relative verb forms of    sed- see are as follows:
+
+                          affirmative                           negative
+
+            perfect 1    sed-seqe-inda(a)
+                                                             sed-ki-inda(a)
+            perfect 2    sed-te-inda(a)           -n(aa)
+            imperfect    sed-da-inda(a)                      sed-ay-inda(a)
+In terms of the affirmative perfect 2         -inda{a) has what seems to be
+a genuine free variant with -n ( aa) .        My informant would not accept any
+
+forms with root reduplication (see §2.7.2.1.).
+
+       In the following examples it will be noted that in NPs with object
+
+function the relative terminates in -it am -        -i tern .      While it is obvious
+
+that this is a complex containing the accusative marker, it is not so obvious
+
+what the -it     represents, since such an element has only been noted in
+                                                                     29
+NPs in which the head is singulative feminine (see §2.1.1.)               •   Another
+
+thing to be noted is that at the junction of the tense/aspect/polarity
+
+formative with the relative formative         -inda(a)     either the vowel of
+
+the former or the latter is elided.       The accent in relative forms is always
+
+on this juncture syllable.    It should also be noted that like other modif-
+
+ying constituents in NPs, relative clauses usually follow the head, though
+
+a prehead order does also occur. e.g.
+
+            ~~ ziig[z]eq1nda(a) ziigan za?[J]e
+
+            The thing you wanted arrived
+            ?i ?esertenaa guddayin laqaml-ye
+            The business that I heard about is good
+
+            ?~edsin 1[~:]ert~n       ?f-b11be
+            The man who got sick is my father
+
+            gunin kg(g)m ga?seqanditam            d~(g)site
+
+            I   killed the snake that bit her
+                                       486
+
+
+
+            ?anzitan leeqdinditam wQ(Q)ta ?es?esdQ(Q)te
+            We know the girl who is dancing
+             ,     ,        ,   , [ ........... h]
+            ki naskinda(a) rey maa t·s e
+            A thing he did not like happened
+
+            WQ(Q) bookkinda(a) ?oolen daqalse
+            The pit which we did not dig got spoiled
+
+            ?i   n*~dinda(a)    ?isin za?[f]e
+            The food that I like has arrived
+            ki gaaddinda(a) reyn ?in dass gaadda
+            The thing he is saying pleases me
+
+            ~a ~edayindatem      rey   ~~n   dawsdit
+            I will show you what you do not see
+       Headless relatives are also common, e.g.
+
+            ba~ten   n§(g)-ye
+            He is the one who overcame
+
+            wo~qinda(a)     feed'ay
+            The dry one is useless
+
+            fi[t:]ertenaa wg(g)te
+            We are the created (ones)
+
+            ~endinda(a)     ?i-b~~be
+
+            The one who is buying/selling is my father
+
+            birdinda(a) wg(g)m googinem d'ad'awda
+            The one who is going ahead will show us the way
+       In addition to the relative clause forms described above other forms
+
+with a formative   -aab have been noted, and similar forms are also recorded
+by Bender and Tully, e.g.
+
+            ?aksin ?uugumd'aabsin ?eedam ga?ga?da
+
+            The dog that is barking bites people
+.~.~~- -
+·    -     -·~ =•r Yttt-:tn11·"---,-, · -<ettttrree   · ·- -: ~-- ··c1ness«rrirfrtrtiri   t ·+t -·r:tn 'tettretrwtt._·:._,,r "tW-ad,.,tt ·ttdeer·;·.errrtwrwtkielwi''!;itf-Or
+
+                                                                                   487
+
+
+                             y~n~ina ?aksin ?uugumd'aabsinam p'asp'asdek
+
+                            The children fear the dog that is barking
+                             ?eedsin de?kaabsin ~z[z]eqe
+                            The man who did not die ran away
+
+     §2.7.4. SUBORDINATE CLAUSE FORMS:
+
+                 Only a few types of subordinate (adverbial) clauses were investigated.
+
+                 Affirmative and negative conditionals are based on (what appears to
+
+    be) the perfect 1 and perfect negative stems, viz.
+
+                                                 affirmative                                                            negative
+
+                                                 If I {eta. )_ work •.•                                                 If I {eta.) do not work
+                     ls                         ?i w6onsink(a)                                                           ?i woonkink(a)
+                      2s                        ~~ w6onsink(a)                                                           ~fr woonkink(a)
+                     3s.m                       ki I        n~(g)              w6onsink(a)                               ki     I   llQ(Q)
+
+                     etc.                                                                                                woonkink(a) etc.
+    eg.
+
+                             ?1      dfib[z]ink(a) qat't'a?erdit
+                            If I steal, I shall be punished
+                 There is a temporal clause based on the imperfect stem in the
+
+    affirmative.                 The appropriate negative, however, looks more as if it is
+
+    based on the perfect negative.                                        As in the conditional, the actual verb
+
+    form itself is invariable, viz.
+
+                                                 affirmative                                                            negative
+
+                                                 When I (etc.) speak ••.                                                When I (etc.) do not
+                                                                                                                        speak ...
+
+                     ls                         ?1 ?alqd1k                                                               ?1     ?alqek.ls
+
+                     2s                         ~~ ?alqdik                                                               ~~ ?alqek1s
+
+                     etc.                                                                                               etc.
+
+                 Certain clauses of time, cause and extent have the structure of NPs
+
+    with relative clause complements (see §2.7.3.).                                                            In the case of the time
+                                          488
+
+
+clause there is an overt head which has the independent meaning time, day.
+
+The other two cases have probably to be analysed as headless NP complements
+
+of postpositions, e.g.
+
+                 ?i ?alqseqinda ses'e                when I spoke
+
+                 ?i ?i[t~h]eqinda kan                bec:ause I eat af. kan   for
+                 ?i   fo~kinda   kan                 beaause I didn't open
+                 ?1 ?esq1nda diras                   until I knew
+
+ §2.7.5. THE CONVERB:
+
+           Bender and Tully have recorded the following paradigm for the verb
+
+?i   ~-   eat, which I take the liberty of presenting here in the transcription
+employed throughout this paper.
+
+                ls    ?isito                    lp   ?isg(g)to
+
+                 2s   ?isayo                    2p   ?iseta
+
+                3s    ?isiyo   I ?isiso         3p   ?iseka
+
+e.g.
+
+                 n~(Q)   ?isito katama kayye
+
+                 Having eaten he went to town
+
+
+ §2.7.6. THE INFINITIVE:
+
+           Reference has already been made to a deverbative form having the
+
+suffix -mi,(see §2.4.), and in the field-notes compiled by Bender and
+
+Tully there are some sentences which suggest that this form could be
+
+ interpreted as having an infinitive-like function, e.g.
+
+                 wo~'mi laqamte
+
+                 Drinking/to drink is good
+                 azmi kan laqamte
+
+                 (It) is good for running
+ They also record forms such as the following in which what appears to be
+
+ the postposition kan follows the verb stem, e.g .
+f~£S!<C,! '. '.    '..::::=::; ;;_;;;;:=c:,:, Rrit·wewrizoeiiiMWt!BWWttrtif'IRtWfWt''"t;;t&k#ffi
+                                             489
+
+
+               ?ita woc'-kan zlziigdit
+               I    want to drink
+          My own researches show the formation of a regular infinitive/verbal
+
+  noun involving the suffixation of -inti           to the stem, e.g.
+
+               WQC I in t i tO drink; gap I in t i     tO   grow;   aaf in t i    to find;
+
+               k~(~)zinti to tel:l;         d6(e)sinti to kiU/grind.
+  The form occurs in both subject and object functions, e.g.
+
+               woc'inti nasayt
+               I do not like to drink
+
+               diibinti daqal1-ye
+               To steal/stealing is. bad
+
+
+  §2.8.   LOCATIVE NOUNS AND POSTPOSITIONS:
+
+          There are a number of items denoting spatial locations, such as:
+
+               zan        top, superior location;    bur external Location;
+
+               goyr        inferior Location; seeger        side location;       gid1r -
+               gid~r,        gir international location
+  These occur as heads of genitive constructions (though a genitive suffix is
+
+  not invariably present: see §2.1.2.), thereby furnishing a series of
+
+  locative expressions.          It is not at all obvious how or, indeed, whether
+
+  such items should be distinguished from other postposed elements such as:
+
+               kan        for;    da, dar, re to;    z~n~nka,       girank, -rank
+                   (or   rank?} from;     kikil with
+  Some examples are:
+
+               gunfsin dooniyent gidir (doqa)
+              The snake is inside the sack
+
+               ?unt1sin guftant goyr (doqa)
+              The mouse is under the skin
+
+               diira zan doqse                       eherank aade
+              He sat on the grass                    He came from the house
+                                          490
+
+
+          ~resin        aaqent   s~eger   (doqa)
+
+         The donkey is besi de the tree
+
+          tiilen ehent bur (doqa)
+         The water-pot is outside the house
+          mik~f        kan ?isfn ?fmsit             gaban dar kiyye
+
+         I gave food to the beggar                  He went to market
+          ?1 girank kayyeke                         ki re     a~dit
+
+         They went away from me                     I   came t o him
+
+
+
+
+NOTES:
+
+*        I acknowledge here my gratitude to the Central Research Fund of
+
+         the University of London for a financial grant which covered the
+
+         costs of the research presented in this paper.
+
+1.       This figure appears in Jensen,1959.            The figure given in Bender
+
+         et a'l. (1976) is 32, OOO.
+2.       Bender and Tully have recorded a few cases of              j in free variation
+
+         with     z.    e.g. J'oga - zoga cyclone,         hurricane; Ja?- - za?-
+         arrive, reach.        They also recorded   j in     a~im    sick, where I have
+
+         z. i.e.       ~z1m.
+
+3.       In all words where I have recorded         q Bender and Tully have either
+
+         k', k     or x.
+
+4.       Although Bender and Tully make no reference to the breathy phonation
+
+         feature, certain items in their material have variant transcriptions
+
+         indicative of the phenomenon described here, e.g •
+
+                . aase - haaste he wiped;       as in a - hasina how? ( cf. my            ~sn.l)
+
+                 noha      noa f i r e (cf. my no ha     - n9 (~));    yin~i   - ins' i
+
+                child    (cf. my   Y!nsi)
+5.       Compare the effect of breathy phonation on tone in certain Bantu
+
+         languages of the Nguni group; see Ladefoged,1971: 13ff; Rycroft,
+
+         1983.
+                                          491
+
+
+6.    I have recorded only one item which would require a modification
+
+      of this statement, i.e., ?ist-            a     contracted form of ?iste my.
+
+7.    Bender and Tully also recorded a vocative in -o               e.g.
+
+            ?in do mother!;       anzi teno     girl.'
+8.    In this respect Aari resembles Amharic in having a marked accusative
+
+      in definite NPs, and its case system is typologically different
+
+      from that of most of the North Omotic (not to mention East Cushitic)
+
+      languages, which have a marked nominative : unmarked non-nominative
+
+      case system.      Significantly, however, Hamer also appears to be a
+
+      language      of the Aari type (see Lydall 1976: 432).
+
+9.    Here again there are variants with e instead of              a.
+
+10.   Bender and Tully also noted the correlation between definiteness
+
+      and plurality.
+
+11.   It will be noted that in some cases the TV is replaced by i               when
+
+      -ta       is added, e.g.    ?anza : ?abzutan;          but this does not always
+
+      occur.
+
+12.   This is not the case in many Ethiopian languages.
+
+13.   Although most of my examples show             -t(a)   attaching directly to
+
+      the determiner stem, a few examples indicate that             -n(a)    may also
+
+      be present, e.g.
+
+            nood'isin koonat(e) zana ziigdit
+            I   1,)G,nt this leopard's skin
+
+14.   Bender and Tully have       ?al) for male and ma or man for f emale.
+      These occur in pairs of compounds such as ?al) -zob Zion                : ma-zob
+
+      lioness;     '.laIJ-baaca   cock:    man-baaca        hen.
+15.   Sometimes I heard this as       k~(?.),       i.e., with a breathy vowel, a s
+
+      in the object and possessive pronoun forms k§ ( ~ )m and              k~( 9 )tt~n.
+
+      I have no explanation for this variation.
+                                          492
+
+
+16.    For a speculative discussion of the possible significance of this
+
+       suffix see Hayward, in preparation.
+
+17.    It seems most likely that the yj,-          (as opposed to   ki- or ko-)
+
+       base in yimatam reflects a (uniquely preserved) "referential"
+
+       or "impersonal" distinction still found throughout the entire set
+
+       of third person pronouns in Hamer (see Lydall 1976: 414 ff).
+
+18.    I have represented the pronouns with hyphens here, since their lack
+
+       of accent suggests they may be enclitic (cf. similar forms described
+
+       for Zayse in Ch.Four.
+
+19 .   The root or stem       de- (or    dee- ) appears in a few sentences in
+
+       the corpus.     It is almost certainly a reflex of Proto-Omotic       *d~;
+
+
+       see Hayward 1984 l-.
+
+20.    Bender and Tully also note a suffixal (or enclitic) determiner             -ka,
+       e.g.
+
+              ?eesin-ka    thi s man
+21.    These words would appear to share a common root.
+
+22.    I say "may contain an overt subject" for the simple reason that
+
+       given the appropriate discourse situation, any non-verb constituent
+
+       may be dropped - as is the case in many Ethiopian languages.
+
+23.    Strictly spea king the process is one of "palato-alveolarization".
+
+       The occurrence of this feature in Aari is of considerable interest
+
+       in view of the fact that it is also found in at least two of the
+
+       Ometo languages, i.e., Koorete (see Hayward 1982 : 245 ff) and
+
+       Zayse (see Ch.Four), as well as in Gimira (see Ch . 1.,§2.7.1.         Sub-
+
+       class B).     In view of the non-contiguity of these languages geograph-
+
+       ically , it is unconvincing to explain the process as an "areal
+
+       feature".
+
+24.    Suffixation of     -se (qe)      to the   Cs~   stem-final sequence will
+
+       result in palatalization, and the resultant segment ma y be
+-~-
+ ·; · ri+t:tktbMit l
+               -_.     1
+                           ·-. ·-w~;rxitw:rrtrn
+
+                                                        493
+
+
+
+            durationally longer, i.e.,                   [ f:] rather than   [ I] , but post-
+
+            consonantally the distinction is difficult to hear, and may not
+
+            be a regular feature.                  However, in other forms of the paradigm there
+
+            is a clear distinction since as it is part of the stem, the -S is,
+
+            of course, found throughout the entire paradigms of such causatives,
+
+            e.g.
+
+                     bruk~ka              boit. it.';   bruksay he UJiU not bait it; etc.
+
+   25.      I use this term for any ES verb which has no obvious SS cogener.
+
+   26.      For a discussion of this formative, see Hayward 1984 b .
+
+   27.      3s forms of the imperfect past suggest a clitic interpretation,
+
+            for in these forms the preceding vowel drops.
+
+   28.      The low vowel in these forms should be compared with the low vowel
+
+            alternant of the passive extension, which also occurs following                     q
+
+            (see §2.7.1.2.).
+
+   29.      In the East Cushitic language Qafar headless relative clauses
+
+            regularly take feminine gender.
+

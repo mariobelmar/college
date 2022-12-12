@@ -1,0 +1,826 @@
+                                                    128
+
+Bibliographic
+Ban-eteau, D., E. Ngantchui et T. Scruggs, 1993, Bibliographie des longues camerounaises, Paris, ORSTOM
+         - ACCT, 269 p. + 1 disquette.
+Bouquiaux L. et J.M.C. Thomas (6ds), 1976 (2*" ed.), Enquete ei description des longues a tradition orale.
+         3 vols., Paris, selaf, 950 p., planches, tableaux.
+Boutrais J.-B. et alii, 1984, he fiorddu C am erm m ; des hommes, une region, Paris, ORSTOM, 5 5 1 p.
+Cabot J. et C. Bouquet (dir), 1972, Atlas pratique du Tchad, Institut national tchadien pour les sciences
+         humaines, INTSH / Fort-Lamy, Paris / ION, 77 p.
+Crozier D. H. et R. M. Blench (eds), 1992, An Index o f Nigerian languages (2nd edition), Abuja-IIorin-
+         Dallas, Language Development Centre (Abuja), Department of Linguistics and Nigerian Languages
+         (University o f Ilorin), Summer Institute o f Linguistics, IV + 137 p„ carte.
+Dieu M. et P. Renaud (dir.), 1983, Situation linguistique en Afrique centrale. inventaire preliminaire: le
+         Cameroun, Paris / Yaounde, ACCT / CERDOTOLA / DORST, 475 p., cartes.
+Seignobos C. et H. Toumeux, (sous presse) 1999, Le Nord-Cameroun a trovers ses mots (Province de
+         I'Extreme-Nord). Glossaire de termes anciens et modemes relatifs a la region. Paris, Karthala, circa
+         300p.
+Toumeux H., 1994, Langues en voie de disparition dans le bassin du Tchad, in L ’ldentitd tchadienne.
+          L'heritage des peoples et les apports exterieurs, J. Tubiana, C. Arditi et C. Pairauit eds., Paris,
+          L'Harmattan, pp. 293-310.
+Toumeux H. et Yaya DaiTou, 1998, Dictionnaire peul de 1‘agriculture et de la nature (Diamare, Cameroun),
+          Paris, Karthala / CTA / C1RAD, 548 p.
+                                            129
+
+                             Khoisan Languages
+                   with a grammatical sketch of ||Ani (Khoe)
+
+                                     Rainer Vossen
+
+                Johann Wolfgang Goethe-Universitat Frankfurt am Main
+
+
+1. Introduction: historical background
+
+   The Khoisan languages are considered the smallest of the four language phyla on the
+African continent. Their most prominent feature relates to the sound system: It contains a
+large number of ingressive sounds known as clicks which, as a rule, occur word-initially
+and are often believed to be remnants of the most ancient sound inventory of human
+language. In this respect, research in Khoisan studies has been given much significance
+even far beyond the limits of African linguistics.
+
+    The Europeans' momentous lack of judgement towards the languages and cultures o f the
+ indigenous inhabitants of southern Africa's Cape region, whom they referred to quite
+arbitrarily as "Hottentotzmans" and "Bosjesmans", persisted for nearly 400 years.
+Contemporary descriptions and pictures bear witness to the prejudices which served for the
+justification of unparalleled campaigns of persecution and annihilation of Khoisan-speaking
+ societies. On the search for pastureland for their livestock herds, Dutch frontier farmers
+ from the Cape Colony forged ahead deep into the interior o f the subcontinent. In the
+ savanna areas, where at that time game still occurred in abundance, they soon came into
+ contact with groups of hunters and gatherers they called "Bushmen". Although to the
+ Europeans the languages of these Bushmen appeared to be similar to "Hottentot"
+ (Khoekhoe) — mainly because of the clicks — , the Bushmen did not, contrary to the Cape
+ Hottentots, possess any cattle and were not tribally organised. They were therefore regarded
+ as very "primitive", devoid of any culture and religion.
+
+   Bushmen were regarded by the frontier farmers (mostly Trek Boers) merely as rapacious
+scoundrels, ripe for extermination. They were denigrated as "Banditti", often driven and
+chased like animals, and by as early as the mid-19th century the majority o f these small
+hunter-gatherer societies had become extinct. Those who survived the murderous rush were
+deported to farms and made forced labour convict. Alongside with the rapid loss of their
+cultural identity also the languages of these Cape Bushmen at once disappeared.
+
+   Curiously enough, it was just at the time of nearly complete extinction of the culture and
+language of the Cape Bushmen when a serious scientific interest in them set in. At first it
+was still believed that, because of the different cultures and economies of the Hottentots
+and Bushmen, their languages, too, were strictly to be delimited from one another — all the
+more so as Hottentot, in contrast to the Bushman languages of the Cape region known by
+then, had a nominal and pronominal gender system. In accordance with the spirit o f the
+time, the linguistic feature of grammatical gender distinction was looked at as an expression
+of farther advanced cultural forms. As a consequence, "Africa-external origins" o f the
+Hottentot language were speculated about and it was strongly believed that the supposedly
+"primitive" Bushman foragers had been expelled and driven to retreat areas by the culturally
+superior Hottentot cattle-herders.
+                                             130
+
+    However, since the knowledge o f Bushman languages o f the Kalahari region — deep
+in the subcontinent’s interior— was increasing over time, many of them were found to have
+a gender system like Hottentot; thus the view of a strict linguistic distinction between
+Bushman and Hottentot became subject to revision. The genealogical relationship o f the
+two divisions was recognised and, as a result, the term ’’Khoisari’ was coined to strengthen
+relational coherence (cf. Keuthmann & Vossen 1997).
+
+
+2. Classification
+
+   The concept of Khoisan as a language phylum was further developed and popularised
+by Greenberg in 1950 and 1963. His so-called macro-Khoisan hypothesis, which is largely
+a result o f lexical comparisons based on the criterion o f resemblance in shape and meaning,
+proceeds from the following internal classification: First, a distinction is made between
+South African Khoisan (SAK) and the two East African isolates, Hadza and Sandawe. SAK
+contains three major branches: Northern, Central, and Southern. Northern Khoisan presents
+itself as a dialect cluster consisting o f three or four major units, with a considerable degree
+of mutual intelligibility. The Central branch is made up by approximately twenty different
+languages and dialects, whereas Southern Khoisan today has virtually one member only
+(!X6o dialect cluster). There is every reason, however, to assume that most o f the extinct
+SAK languages belonged to that latter branch. Moreover, there is one language (iHoa)
+whose position within SAK is still unclear.
+
+   Greenberg's hypothesis has found both adherents (e.g., Argyle 1994; Ehret 1986; Honken
+1977, 1988; Ruhlen 1994) and opponents (esp. Westphal 1962, 1971). Given the serious
+difficulties to prove genetic relationship between all Khoisan languages, yet a third group
+of scholars (e.g., Kbhler 1975, 1981; Sands 1998; Traill 1980, 1986) has directly or
+indirectly suggested to use the term "Khoisan" as a cover for all non-Bantu and non-
+Cushitic click languages of Africa irrespective of eventual genealogical implications. This
+notion was recently taken up by Giildemann & Vossen (in press), who propose the
+following pragmatically oriented classification of Khoisan:
+    1 Non-Khoe
+         1.1     Ju {Northern SAK)             (I’OJIXuu, ||X’au|[’e, Ju|'hoan (DC)
+         1.2     !Ui-Taa (Southern SAK)
+                 1.2.1 !Ui                     ’]Xam, +|'Auni, HKhomani, ’||Xegwi etc.
+                 1.2.2 Taa                      !X6o (DC); ’Kakia
+         1.3 +Hoa                              +Hoa (isolate)
+    2    Khoe (Central SAK)
+         2.1   Khoekhoe
+               2.1.1 North                       Nama/Damara, Hai||om, +Aakhoe (DC)
+               2.1.2 South                       MOra, ’Cape Khoekhoe varieties (DC)
+         2.2   Kalahari Khoe
+               2.2.1 West                      Kxoe, Buga, |]Ani (DC); Naro (DC); G||ana,
+                                               G|ui, 4Haba (DC)
+                 2.2.2 East                    Shua, Ts’ixa, Danisi, |Xaise, +Deti; Kua-Tsua
+                                               (DC)
+    3    Sandawe                               Sandawe (isolate)
+    4    Kwadi                           ’Kwadi (undetermined)
+                                              131
+
+    5    Hadza                                  Hadza (isolate)
+
+    Notes: DC = dialect cluster; + = (presumably) extinct; italics - Greenberg's major
+ branches.
+
+
+ 3. Demographic notes
+
+    Today, most of the Khoisan-speaking peoples live above all in the southern African
+ republics of Botswana and Namibia; however, some reside in adjacent regions such as
+ southern Angola and Zambia, western Zimbabwe, northern South Africa and even Tanzania
+ (Hadza, Sandawe isolates). At present, the total population may be estimated to be around
+ 200,000. While demographic prevision tells us that the Khoisan population is likely to
+ increase considerably in number in the next few decades, the majority of Khoisan languages
+ will in the long run have little chance to survive in view of the socioeconomic and political
+ changes that have taken place in recent years. Several communities have already given up
+ their languages in favour of neighbouring Bantu languages.
+
+
+4. Some major linguistic characteristics
+
+    As mentioned before, Khoisan belongs to the category of click languages, which also
+includes some southwestern (Kavango, Yeyi) and southeastern Bantu languages (e.g. Zulu,
+Xhosa) as well as the South Cushitic language Dahalo in Kenya. Whereas clicks in Bantu
+languages are a result o f borrowing from Khoisan by way o f long-enduring and intensive
+contacts, they must be considered a genuine part o f the sound inventories in Khoisan itself.
+Five basic types (so-called influxes) of clicks are to be distinguished: bilabial (symbolised
+by O), dental (|), alveolar (!), palatal (4), and lateral (||). Each of the five influxes can be
+released in various ways (e.g. voiceless, voiced, aspirated, globalised, etc.). This secondary
+articulation is called efflux or click accompaniment. Influx and efflux combine to create
+click phonemes which make up for lexical differentiation in terms of minimal pairs.
+
+   Although the clicks are a prominent feature of Khoisan languages, they do not constitute
+the only, let alone the greatest, difficulty implied in their sound inventories. All Khoisan
+lan-guages make use, for instance, of various levels of tone — both lexically and
+grammatically. Tone-bearing units are syllabic segments such as vowels and nasal
+consonants. The former can occur as oral, nasal, pharyngealised, globalised or breathy
+vowels; combinations o f these are also possible.
+
+   The word structure is typically characterised by CVCV, CVV, and CVN sequences. Tri-
+and other polysyllabic sequences are very rare and can often be shown to be a result of
+influence from Bantu languages.
+
+    Whereas Khoe languages have a rich morphology, Non-Khoe languages (esp. Ju) are a
+lot more syntactically oriented. However, all better-known Khoisan languages have a noun
+class system which is overt in Khoe and Taa but covert in Ju. The Khoe system is sex-
+oriented and formally expressed by means o f combined person-gender-number suffixes.
+Three genders (masculine, feminine, common) and numbers (singular, dual, plural) are
+distinguished. Word categories depending on the governing noun agree with the latter
+                                            132
+
+grammatically. The Ju and Taa systems are semantically nature-oriented; while the Ju
+system is morphologically unmarked, Taa nouns are marked by suffixes. There are four
+noun classes in Ju and five in Taa. In Ju, class membership can only be detected through
+grammatical agreement on certain pronouns. Taa, on the other hand, uses concordial
+suffixes to express grammatical agreement.
+
+   The verbal systems o f Khoe languages are complex throughout. Verbal extensions are
+very common. They generally serve to alter or modify the meaning o f the basic verb and
+in some cases (e.g. passive, intransitive, dative) affect syntactic structures. Tenses and/or
+aspects are many, and there are also various ways to express negation in most Khoe
+languages. Non-Khoe languages, on the other hand, have a very restricted verbal
+morphology and attract notice especially because o f their verb-serialising attitudes.
+
+    In Khoe languages, the dominant word order is S(ubject)-0(bject)-V(erb), although for
+reason o f emphasis the object may likewise precede the subject. Nominal qualifiers precede
+the noun and adverbial phrases mostly occur sentence-initially. Non-Khoe languages have
+a SVO word order with a nominal head-modifier structure (except for associative
+constructions). For an up-dated, more detailed overview o f Khoisan languages, the reader
+is referred to GUldemann & Vossen (in press).
+
+
+5. A grammatical sketch of ||Ani
+
+5.1 Introductory remarks
+
+   ||Ani is a member of the western division of Kalahari Khoe. The ||Ani people refer to
+them-selves as "||Anikh6e" (lit.: 'riverbank people’); they call their language "||Anid&m." or
+"Xuu-khoed&m" {dkm ’tongue1). The ||Anikhoe live in small settlements alongside the upper
+course of the Okavango River in northwestern Ngamiland, Botswana: on the east bank
+between Mohembo in the north and Seronga in the south, and on the west bank between the
+Namibia-Botswana border in the north and the village of Ncamasere in the south. Some
+families reside on islands in the Okavango Delta. The number of ||Ani speakers is not
+known; my own estimate is around or less than 1,000.
+
+   The present sketch is based on data collected by myself during field trips in 1983-84. My
+five informants were elders from a tiny settlement called Qhubuya, some 25 kilometres
+south of Shakawe (west bank).
+
+5.2 Phonology
+
+5.2.1 Consonants
+
+   [|Ani has 70 distinctive consonants: 41 (ingressive) clicks and 29 (egressive) clickless
+consonants. In addition, five foreign consonant phonemes were noted.
+
+   The click phonemes result from the combination of four influxes with ten effluxes. The
+voiced uvular efflux has so far been found only in combination with the lateral influx. The
+click inventory of the language presents itself as in Table 1.
+                                                 133
+
+   For the clickiess consonants six points (bilabial, alveolar, post-alveolar, velar, uvular,
+glottal) and four manners o f articulation (plosive, fricative, nasal, resonant) have been noted
+(see Table 2).
+
+   Notes on realisation: is!. Its!, and Idz! tend to be slightly palatalised. Idxi and Idzxl are
+realised as [dy] and [dzy], respectively. The phoneme Idl has two allophones: [d\ in word-
+initial and [r] in intervocalic position; the latter is mostly realised as [/•].
+
+   Foreign phonemes are Iphl, /If,!mb!, Indf, and hjgf.
+
+   Table 1: Click phonemes.
+
+                                          INFLUX
+efflux                                    | (dental)    + (palatal)       ! (alveolar) || (lateral)
+
+voiceless                                 |k            +k                !k            Ilk
+voiced                                    18            *g                !g            lig
+prenasalised-voiced                       n |g          n+g               n!g           n ilg
+nasalised                                 n[n           n +n              n!n           n||n
+voiceless-uvular                          |q                              !q            llq
+voiceless-uvular-fricative                1*            +x                !x            II*
+voiced-uvular-fricative
+eject jve-uvular                          |X'           tx*               !x’          llx’
+aspirated                                 |h            +h                !h           llh
+globalised                                r                               j1
+                                                                                       r
+prenasalised-voiced-uvular-fricative      n|x           n +x              n!x          n il*
+
+
+   Table 2: Egressive consonant phonemes.
+
+                          BILABIAL ALVEOLAR POST-ALV.           VELAR UVULAR GLOTTAL
+PLOSIVE
+   voiceless                  P            t             ts        k
+   aspirated                             th            tsh        kh
+   voiced                     b           d             dz            g
+   vcl.-uvul.-fricative                  tx            tsx
+   vcd.-uvul.-fricative                  dx            dzx
+   ejective                               t*            ts’      kx’
+FRICATIVE
+   voiceless                                            s         X
+
+   voiced                                                         Y
+NASAL                        m                          n         0
+RESONANT                     w                          y
+                                            134
+
+5.2.2 Vowels
+
+   There are six oral (/i e e a o uf) and three nasal vowel phonemes (A a u/). Vowel
+sequences are very common, the following have been found: ai ae ao a u -o e o e o a - ui ue
+u e u a ; s i au - da - ui us. As for the realisation of vowels, see Vossen (1986:340f).
+
+5.2.3 Prosodic elements
+
+   Tonal behaviour complies with the principle of mora which, following Hagman (1977),
+1 consider the basic unit o f the phonological structure o f ||Ani (as well as other Khoe
+languages). That is to say, lexical morphemes take at least two tones, viz. H(igh) and/or
+L(ow). Both mono- and disyllabic word-stems show the tonal sequences HH, HL, and LH.
+Only one word was hitherto found to have the sequence LL.
+
+   As KOhler (1981) was able to show for Kxoe, lexical forms with an identical tonal
+surface structure fairly often exhibit significant differences in morphotonology. The same
+has been observed in ]|Ani, too, particularly with verbs, where the sequences HH and LH
+can each be subdivided into two tonal classes. Thus, altogether five tone classes can be
+distinguished at the present stage of research. These occur among both mono- and
+disyllabic verbs whose finite forms show identical tonemic patterns (see Vossen 1997:
+178ff).
+
+    It should also be mentioned that the tonal behaviour o f ||Ani verbs appears to be
+influenced by stress. For details see Vossen (1986: 343). However, whether or not stress
+is phonological ly distinctive remains to be further investigated.
+
+5.3 Word structure andphonotaxis
+
+ 5.3.1 Words and roots
+
+     ||Ani has simple and complex words. Simple words are, as a rule, identical with roots;
+ complex words can be a result of stem-extension, reduplication or composition. Stem-
+ extension on nouns (N) is expressed by person-gender-number (PGN) suffixes, whereas
+ verbal (V) extension is achieved through derivative suffixes which trigger semantic and
+ sometimes also syntactic changes on the basic verb. Reduplication o f nominal stems is
+ relatively rare and normally leads to semantic alteration o f the simple form; the latter is
+ often not attested as such. Reduplication o f the verb gives rise throughout to repetitive or
+ causative function. Most nominal compounds have the structure N-N, while verbal
+ compounds can occur as V-N, N-V and V-V sequences. Cf. the following examples (Table
+ 3):
+                                              135
+
+    Table 3: Simple and complex words.
+
+  SIMPLE                                         COMPLEX
+                        stem-extended           reduplicated              compounded
+
+  163 'child'              | od.ma 'boy'
+  \xam (N) 'urine'                         \xam=\xdm 'bladder of
+                                                       the urine'
+ kom (V) 'hear*                              kom-kdm 'inform'
+ ||guu (N) 'chest1                                                    \\giiu=Y6a'r\b' (lit.:
+                                                                               'chest-bone')
+ nlnom (V) 'form'                                                     | %u- n4nom 'comb'
+                                                                           (lit.:'form hair')
+
+   The phonological structure o f ||Ani is dominated by the sequences CVV (e.g. \ee
+'wildebeest; 54.4 %), CVCV (e.g. ||xuni 'blunf; 32.7 %), and CVN (e.g. |dm 'sun'; 32.7 %);
+other — much less frequent — sequences are CVCVCV (e.g. 'erikit 'dog'; 2.7 %) and
+CVCVCVCV (e.g. \oagagctra 'to lie on one's back1; 0.1 %) (cf. Vossen 1986: 324).
+
+5.3.2 Syllable structure
+
+   Open syllables outweigh closed ones clearly. In general, they have the following
+structural sequences: CVV in monosyllabic and CV in di- or polysyllabic words. Close
+syllables always end with a nasal consonant, they never co-occur with other syllables; i.e.,
+the CVN structure is confined to monosyllabic roots. The same applies to CVV syllables.
+
+5.3.3 Phonotaxis
+
+   The following general statements can be made; Clicks occur root-initially only. By far
+the most frequent vowels in V,-position are !a o ui (in CVV, CVN, and CVCV sequences),
+but also fe £ if occur in this position (except in CVN roots). Nasal vowels are restricted to
+CVV roots. In V3-position (of CVCV roots) fi a! prevail, though other oral vowels are also
+found there.
+
+   In vowel sequences of disyllabic words, vowels of identical quality are attested for all
+oral vowels, whereby la o ni once again predominate (as aCa. oCo. uCu). Other common
+combi-nations are aCi and uCi, less frequent are aCu and aCe.
+
+   In C2-position the most commonly found consonants are Jb dm nf. All other consonants
+are extremely rare.
+
+5.4 Morphology*
+
+5.4.1 The noun
+
+   The morphology of the noun is characterised by three structural slots: 1 root - 2 PGN
+suffix - 3 object suffix. The only slot to be filled obligatorily is 1,2 and 3 being optional
+or obligatory under certain conditions.
+                                             136
+
+  5.4.1.1 The PGN system
+
+  The PGN system discriminates three genders (masculine, feminine, common) and three
+numbers (singular, dual, plural). Gender and number express themselves in a single suffix.
+The common gender contains the features [masculine + feminine] and can, therefore, not
+appear in the singular. A given governing noun's gender determines the grammatical
+agreement on its dependent word categories. These are adjectives, numerals,
+demonstratives, possessives, and nominalised finite verbs as stand-ins of relative
+constructions. However, this grammatical congruence seems to be both, optional to some
+extent and obligatory under certain conditions. Thus a noun may be unmarked for gender
+while, for instance, a demonstrative belonging to it is marked, and vice versa.
+
+   The use of the PGN suffixes equally applies to animate and inanimate nouns. If a noun
+has the feature [animate], the PGN suffix expresses natural sex, e.g. khoe.ma ’man1, khoe.ht
+’woman’ (khoe ’person'). If, in contrast to this, a noun has the feature [inanimate], then the
+choice by the speaker of a PGN suffix is more or less arbitrary. The PGN suffixes of j|Ani
+are the following (Table 4):
+
+   Table 4: The nominal PGN suffixes.
+
+                        SINGULAR                 DUAL                    PLURAL
+
+
+ MASCULINE               .m a                    .ts&                    ■m
+ FEMININE                .he                     .sa                     .dzi
+ COMMON                 —                          .k h u a              .n&
+
+    The vowel a of the masculine singular and common plural suffixes is sometimes elided.
+
+    5.4.1.2 Nominal object marking
+
+    No inflectional case marking exists in ||Ani, but the language has both syntactical and
+ morphological means to represent subject-object relations. Morphological marking is
+ possible, but not obligatory, on nominal objects only in which case the morpheme. 'a is
+ suffixed either directly to the noun or — if the noun is marked for gender and number —
+ to the PGN suffix.
+
+    5.4.1.3 Associative particle di
+
+    The structural element di is used to form possessive constructions. Its place in the
+ genitival phrase depends on the order of nomen rectum and nomen regens. If the governing
+ noun follows the governed (rectum regens'), the particle is placed between the two. It may,
+ but need not, take a PGN agreement marker depending on the gender and number o f the
+ governing noun, e.g. \od d im \x££.m& 'child’s body'. If the governing noun precedes the
+ governed {regens rectum), the associative particle is placed after the latter and is, as a rule,
+ marked for gender and number.
+                                              137
+
+5.4.2 Pronouns
+
+    5.4.2.1 Subject and object
+
+   The nominal gender and number distinctions (cf. 5.4.1.1) are also expressed in the
+pronominal subject and object paradigms. Object pronouns are mostly suffixed by the
+object marker .'a (cf. 5.4.1.2), but there is also a tonal difference between subjects and
+objects. Whereas subject pronouns (except 3rd persons and 2nd person feminine dual) are
+characterised by high tone, object pronouns have a high-low pattern throughout which
+extends over the whole pronominal form including the object marker. 'a. An additional
+phenomenon on object pronouns is the insertion of the vowel e or a between the pronoun
+and the object suffix, e.g. ||dd '2mpr (subject) as against ||add. 'd (object).
+
+   A peculiarity of ||Ani is to be seen in a set of object concord markers encoded in the
+finite verb (cf. Vossen 1985), which for the larger part are segmentally identical with the
+subject pronouns and bear low tone throughout. In the 2nd persons singular and the 3rd
+person feminine singular the final vowel a of the subject pronoun changes to i in its
+corresponding concord form. A morphological change between subject/object and concord
+form is observed in the 2nd and 3rd persons singular. The selfstanding pronouns are
+represented in Table 5.
+
+   5.4.2.2 Demonstratives
+
+   At least four categories o f demonstrative pronouns with different deictic features have
+so far been found. If, during the speech act, speaker and addressee are present (and thus
+visible), n\ne ('this’) denotes the near (the deictic feature being [near speaker]) and n\ne=tb
+the far referent (i.e., [far addressee]). Purely referentialiy used is 'a ('that one mentioned
+before'); it implies that the referent is invisible during the utterance. A higher degree o f
+distance finds expression in the form ’d-te ('that yonder1), which by means of the adverb
+'aka 'far' can be extended to shape 'd-aka=te (with the same meaning). Both forms imply
+that the referent is far away from, and yet visible by, the speaker.
+
+    In my JjAni data, noun and demonstrative agree with each other morphologically in more
+than 90 percent o f cases. The nominal PGN suffixes also function as agreement markers,
+whereby the masculine singular and plural suffixes md and .\\iid. respectively, as well as
+the common plural suffix.on appear as ./n / ,\\ii / .n. For the feminine singular .W an d .sfi)
+can be used alternatively. Examples: n\ne.si khoe.hk ’this woman', n\ne=te.m xdm.ma 'that
+lion', ’a(=dkd) =/<?.dzi khoe.dk} 'those (absent) women1, 'd.\\v khoe.\\ud 'those men (referred
+to earlier)'.
+                                                      138
+
+ Table 5: Subject and object pronouns.
+
+                  SUBJECT               OBJECT                     OBJECT CONCORD MARKERS
+SINGULAR
+1                 ti                    tl, tid.'a                 .ti
+2m                tsa                   tsaeC'd)                   .tsi
+2f                ha                    Md(.'h)                    .si
+3m                'a=ma                 'a=md(.'a)                 .m
+3f                'a=hfc ('Ihfe)        'S=hfe(.'a)                .si
+
+DUAL
+lm                ts6m                  tsom, tsoma.’a             .ts6m
+If                som                   som, sdmiL'a               .som
+lc                kham                  khSm, khama/a              .kham
+2m                ts£6                  tsad, tsdoa.'d             .tsad
+2f                sao, h&b              s&o, s&dA'a                .sab
+2c                kha6                  khao, khaod.’d             .kh&o
+3m                'a=tsd                'a=tsd(.’a)                .tsa
+3f                 'a-sa                ’a=s&{,'£)                 .sa
+3c                 'a=khM, 'a=kh«i       'a-kha(.'a)               .kha
+
+ PLURAL
+ lm                lie                   He, ||ea.'d                 •lie
+ If                sd                    se, sea.’d                  .sb
+ lc                te                    te, te&.'a                  Xb
+ 2m                ||ao                  |jao, |}aoa.'a              •Had
+ 2f                sao, so               sao, saoa.'a                .sa6
+ 2c                to                    to, toa.'&                  .to
+ 3m                 'a=j|ud (’a.[|ua)    'a=||ud(.,a)                •II*
+ 3f                 'a^dzi ('a.dji)      'a=dzia(.’&)                .dzt
+ 3c                 'a=na (*d.ni)        'a=na(.'a)                  .n
+
+     5.4.2.3 Possessives
+
+    As a morphological category possessive pronouns do not exist in ||Ani. Two types of
+construction are possible to express possessive or associative relations: (1) juxtaposition
+of per-sonal pronoun (or a form derived therefrom) and noun referent, and (2) use o f the
+associative particle di (cf. 5.4.1.3) which always follows the pronoun. The sequence
+pronoun+rf/ can then be placed either before or after the noun referent An essential feature
+o f type (2) constructions is morphological agreement between the associative particle and
+the noun referent, which seems sometimes optional, sometimes obligatory; obligatory
+marking is syntactically conditioned. Again, the PGN suffixes are used as agreement
+markers. Example:
+
+     ti             di      titu.hk            or           ti dih£ luu.hi:   or   *uu ti diht
+     PRO, l s g     POSS    head.P G N /3fsg
+     'my head'
+                                             139
+
+    The associative particle can, but need not, be omitted in constructions relating to kinship
+terminology as the following example shows: 'd~d (di) ddmasihe'her younger sister'. Here
+.si occurs in the 3rd person feminine singular pronoun as allomorph o f .hi.
+
+   5.4.2.4 Interrogatives
+
+   The following three have been noted: ma 'who?', ne ’what?', and m 'which, what?'. They
+can all be used in the formation o f further interrogatives, but only ma is prepared to take
+an agreement marker. Examples:
+
+n\ne.m          kx'ad~khde .ma        md     .md?      'Who is this man?’
+DEM .3m sg      mal e=*person .3msg   who    .3msg
+
+n\ne.ma         ne ?                                   'What is this?'
+DEM.3msg        this
+
+tsd             nd                    n\\nda.td ?      'What did you say?'
+PR0.2msg        what                  say    .PAST
+
+      In associative constructions ma 'who?* behaves like a subject pronoun:
+
+n\m .n       kho6-n\\ndb6.nd     md di?      'Whose shoes are these?'
+DEM.3cpl skin-shoe         .3cpl who POSS
+
+  When ma 'who?' is employed as an object, it takes the object suffix. ’a (cf. 5.4.1.2), e.g.
+md. ’a ’whom?'.
+
+5.4.3 The verb
+
+   Non-finite verbs in ||Ani are identical with the verbal root. They represent both the
+infinitive and the imperative, depending on the context. The segmental order of
+morphological elements encoded in the finite verb comprises five structural slots: 1 root
+(base form) - 2 derivative extension - 3 {juncture / passive / object concord marker} - 4
+tense - 5 negation. Obligatorily to be filled are slots 1, 3, and 4, slots 2 and 5 being
+optional.
+
+   Derivative verbal extensions (slot 2) often show up combined (see below). In my data
+basis a maximum of five different derivative suffixes in the same finite verb form are
+attested. The filling of slot 3 occurs facultatively in the sense that only one o f the three
+morphemes can take that position. Statistically speaking, the juncture prevails. It links the
+tense marker to the verba] base and appears in various morphological forms which are
+subject to allomorphic rules. The juncture represents "active mood"; if a verb is used in a
+passive meaning, the passive morpheme .e replaces the juncture. When a nominal or
+pronominal object forms part o f the sentence structure, this object as a rule reoccurs in the
+finite verb in the shape of an agreement marker (cf. 5,4.2.1) on the condition that the object
+is marked for gender and number (cf. Vossen 1985). In this case the concord marker fills
+the slot. Examples:
+                                                             140
+
+ti          ijuu-kx'am                   ||xoere.san   .a          .ta       .be
+PRO. 1sg house-m outh open                     .REFL .JUNC .PAST .NEG
+                               1      2                     3            4       5
+     'My door didn’t open by itself.'
+
+ ’erikit ((x'dm.k             .(e
+dog       beat       .p a s s . pr e s
+             1     3     4
+     'The dog is (being) beaten.'
+
+tsa             ti              di         guu .ma     .'a      muu.m              .te       (re) ?
+pR0.2msg PRO.lsg poss house.3msg.OBi see .3msg.PRES int
+                                                                    I        3           4
+     'Do you see my house?'
+
+     5.4,3.1     Derivative verbal extensions (slot 2)
+
+   There are more than ten derivative suffixes with diverse functions whose productivity
+ranges from "slight" to "high". Little productive appear to be, e.g., inclinative and sociative-
+comitative; in contrast to this, reflexive, causative I, dative, and reciprocal tend to be highly
+productive. Some verbal extensions show considerable degrees of semantic variability.
+Table 6 gives an overview of the derivative extensions of ||Ani.
+
+     Table 6: Derivative verbal extensions.
+
+FUNCTION                       FORMATIVE          VERBAL BASE                    EXTENDED FORM
+causative I                    M                   ftfu'buy'                     m .k d 'sell'
+causative II                   .si                 |x'd^'be full'     ]x'o£si Till'
+causative III                   reduplication 1dm ’suck'              \om=\dm 'suckle'
+repetitive                      reduplication |idm 'feel, taste'      \\dm=\\am 'feel/grope for’
+dative                         .ma                 khod 'gather'      khod. ma 'gather for s.o.'
+reflexive                      .san                |jde 'teach'       || ad. san ’learn'
+reciprocal                     .kit                fu treat'          fuu.kU 'copulate'
+inclinative                     kx'ao              ts'dd 'steal'      (s'ad.kx'ad 'be kleptomaniac'
+stem negation                  ■0 a                kaa ’want'         kdd.0d 'not want'
+directive-locative              ,y                 dabi 'turn'        dabi. 'd 'turn inside out’
+alternative                     .xa=ku             tshtkd 'cultivate' tshad.xa~ku 'cultivate in turns'
+sociative-comitative            . |xorir           f(qaro 'paddle'    [\qdrd.\xda 'paddle together'
+terminative-itive               .XU                tshee 'chase away1 tshee. re=xu 'expel'
+
+      Examples o f combinations:
+
+tao                    - 0 a .san .a             -m a .kx'ad             'dislike to behave properly*
+teach manners .sn eg .refl ,ju n c = dat .incl
+
+|x'de     .si          .san                                              'fill by itself
+be full .CAUSII .REFL
+                                              141
+
+    The morpheme .kd (causative I) can also Imply an instrumental meaning, e.g. kde.kd 'tie
+with s.th.* (kde 'tie'). It is presently not known whether we are dealing here with a single
+formative or with two morphemes deriving historically from different sources. Furthermore,
+the sociative-comitatlve fonnative. \xdd also functions as a postposition ('together with1),
+and the directive-locative morpheme. 'd is often employed in nominal contexts, e.g. \\oe. 'd
+'sleeping-place, bed' (|joe 'lie down'; cf. Vossen 1998).
+
+       5.43.2 Juncture (slot 3)
+
+   The general conditions for the occurrence of the juncture have already been touched
+upon very briefly in 5.4.3. Its concrete shape depends on the tense marker employed on the
+one hand, and on its phonological structure and environment on the other:
+  (i) In the present, habitual, and ingress!ve tenses the juncture base lal is replaced by
+         a zero morpheme.
+   (ii) In future tense the base is retained.
+   (iii) In all other tenses (past) the juncture base is either retained or replaced by an allo-
+         morph whose shape is determined by the word structure and phonological form o f
+         the verb. The following examples illustrate cases (i) and (ii):
+                    CVV                                    GVCV
+
+(0       present    fif.te          *sing(s)'              \xuru. le             'vibrate(s)'
+         habitual   fdo.j \de       'use(s) to pound'      xuml.\\di             '... snore'
+         ingressive pee.n 4nita     'about to jum p'       n\\ndni.nJnm          ’... build'
+
+(ii)     future     \ii.a.gde(ne)   'will/sliall sing'     (xuru.d.gde(m)             vibrate'
+                    tdo.d.gde(ne)   'will/shall pound'     xunu.d.gae(m)         '... snore'
+                    pee.a.gde(m)    'will/shall jum p'     n\\ndni.a.gd&(ne)          build’
+
+   If (iii) applies, word structure represents the primary and phonological form the
+secondary cri-terion for the choice o f the juncture form. Whereas di- and other polysyllabic
+verbs take on the allomorph .na, monosyllabic verbs receive an allomorph whose shape is
+phonologically conditioned. The juncture base is normally retained when the verb ends in
+a high or low vow-el. It also appears on verbs with a CVN structure. Examples:
+
+(iii) a. di- and other polysyllabic verbs
+
+
+
+        past (recent I) Jxuru. na. (a       'vibrated (this morning)'
+        past (recent II) xunu.nd.\\'6m      'snored (some days ago)'
+        past (remote)    !huri.nd.hu        'sprouted (long ago)1
+        past (indefinte) n\\nani. na.had    'built'
+                                                 142
+
+    b.      monosyllabic verbs ending in a high or low vowel
+
+     past (recent I)   \u.d.ta               'sang (this morning)’
+                       suu.a.ta              'hasted
+     past (recent II) had. d. 11'dm          ’wanted (some days ago)’
+     past (remote)     Idla.hii              'was healthy (long ago)1
+     past (indefinite) dzuAhad               'skimmed off
+                        ts'dd.a.haa          'stole'
+
+    c.      monosyllabic verbs ending in a nasal consonant (CVN)
+
+     past (recent II)     tan. d. | | 'dm       'stood up'
+
+  Verbs ending in a mid-vowel totally assimilate the juncture base. Two types of
+construction must be distinguished here: assimilation with and without the insertion o f r.
+Examples:
+
+    d.      monosyllabic verbs ending in a mid-vowel
+
+     |i oe.e.td      'slept'                pie.re.had         'jumped'
+     tsJ.hu          'stood'                kx'tri.\\'dm       'cried'
+     tad.o.td        'pounded'              kx'd.rd.ta         'ate meat'
+
+    The insertion o f r is neither phonologically nor morphologically motivated but, rather,
+historically founded (cf, Vossen 1997). Interestingly enough, also some of the verbs ending
+in a low vowel — be it oral or nasal — insert r (or n) in the juncture slot and, thus, do not
+fall under case (iii.b), e.g.: *qda 'slap' > *qaa.rd.had ’slapped'; sad 'rest' > sd.nd.\\'dm
+'rested'. In other words, certain verbs ending in a are in the past tense not followed by the
+juncture base .a but by its allomorph ,ra\ similarly, certain verbs ending in d do not take on
+the juncture base .a but rather the allomorph. na in which case the nasality of the vowel gets
+ lost.
+
+   5,4.3.3 Object concord marker (slot 3)
+
+  As pointed out before (cf. 5.4.2.1 and 5.4.3), the object concord formative is marked for
+PGN; it refers to nominal or pronominal objects. Examples:
+
+   (i) nominal object
+     \dm.tsd       !'ui     .tsd       ti        muu.tsa     .ta.
+     tw o.3m du leopard.3mdu P R O .lsg see ,3mdu.PAST
+     'This morning 1 saw a pair o f leopards.1
+
+   (ii) pronominal object
+      til           tsd              m uatlte
+      PRO.lsg PR0.2msg               see.lsg.PRES
+     'You (m/sg) see me.'
+                                               143
+
+    5.43.4 Tense (slot 4)
+
+   The following tenses have been noted (Table 7):
+
+    Table 7: The tense markers.
+
+                                 RECENT I        RECENT II        REMOTE          INDEFINITE
+ PRESENT        .te
+ INGRESSIVE     .n ^ n u i
+ HABITUAL       .|[oe
+ PAST                            .ta             .||'om           .hit            .h&a
+ FUTURE         .goe(nfe)
+
+    The present, ingressive, and habitual suffixes can clearly be shown to be derived from
+the verbs for ’stand', 'sit', and 'lie (down)' respectively. These verbs are still used as such
+frequently. The label "ingressive" is employed here with some reservation. The formative
+nfnita indicates that an action is or was about to be carried out. Like the habitual marker
+.\\de it is not restricted to the present. While normally ingressive and habitual are
+considered as aspects, in ||Ani they morphologically behave precisely like tenses, fill the
+slot for tense markers and, to my knowledge, do not combine with any aspect markers.
+
+   The past tenses may be commented on as follows: The remote past formative M l signals
+that an action took place in the distant past. It is used predominantly in tales and stories and,
+thus, fulfils a narrative function. The suffix .}|'dm (recent past II) is employed for events
+that happened a few days ago or just the day before, while .ta refers to 'morning of the same
+day'. The formative .had causes some problems as, to this day, it can neither be assigned
+to a particular stage in the past nor defined otherwise. The label "indefinite past" must
+therefore be regarded as preliminary.
+
+   5.43.5 Negation (slot 5)
+
+   Apart from the stem negation marker .gaa, which is a derivative suffix (see 5.43.1
+above) negating the verb base as such, there is only one other negative formative, viz.
+.M(e)\ it turns the verbal construction as a whole into the negative.
+
+5.5 Syntactic features
+
+   Generally speaking, coordination prevails over subordination. A good example appears
+to be the formation o f "relative clauses" such as the following:
+
+nfne.m        khoe .ma       || uru-biye   \x'Gu.a        .\\'dm.ma      kx'ao-khoe      (data*
+DEM.3msg person .3msg bush-horse kill .JUNC.PAST3msg mate=person real
+  'This man who (a few days ago) killed a zebra (is) a real man.' * (< Setswana)
+
+   In this phrase the "relative clause" is placed between the subject ('this man') and the
+complement ('real man') of the non-verbal predicate ('is'), which itself is not formally
+expressed. The "relative clause" consists o f an unmarked nominal object ('zebra') which is
+                                             144
+
+followed by the verb that it relates to. This verb is nominalised in its finite form by means
+of a PGN marker that is in grammatical agreement (m/sg) with the subject o f the phrase.
+
+   The dominant word order is SOV but for reason of, e.g., emphasis OSV is also possible
+(see examples in S.4.3.3). Nominal qualifiers such as adjectives, numerals, and
+demonstratives precede the noun. Possessives may either precede or follow the noun
+referent. In nominal possessive constructions the order is rectum regens. A copula does
+virtually not exist. In adjectival predication, for instance, the adjective is placed alter the
+subject and no copulative element to express 'is/are' is made use of. Postpositions, rather
+than prepositions, are employed as adpositions. Adverbial phrases are mostly placed at the
+beginning of a sentence, though sentence-final occurrence is also not uncommon.
+
+   Abbreviations
+
+ c           common                                NEG         negation
+ C           consonant                             OBJ         object
+ CAUS        causative                             PASS        passive
+ CVN         consonant-vowel-nasal                 PAST        past tense
+ CVV         consonant-vowel-vowel                 PGN         person-gender-number
+ DAT         dative                                pl          plural
+ DEM         demonstrative                         POSS        possessive
+ du          dual                                  PRES        present tense
+ f           feminine                              PRO         pronoun
+ H           high (tone)                           REFL        reflexive
+ TNCL        inclinative                           SAK         South African Khoisan
+ INT         interrogative particle                sg          singular
+  JUNC       juncture                              SNEG        stem negation
+  L           low (tone)                           SVO         subject-verb-object
+  m           masculine                            V           verb
+  N           noun
+                                                    145
+
+References
+
+Argyle, W. John. 1994. 'Thinking the unthinkable: a possible genetic relationship between Khoisan and
+      Niger-Congo'. Paper read at the International Symposium on Khoisan Studies: Multidisciplinary
+       Perspectives, Tutzing/Lake Stamberg. 11-14 July, 1994.
+Ehret, Christopher. 1986. Proposals on Khoisan reconstruction. Sprache und Geschichte in Afrika 7,2: 105-
+       130.
+Greenberg, Joseph H.I950. Studies in African linguistic classification. VI: The click languages.
+       Southwestern Journal o f Anthropology 6,3:223-237.
+- . 1963. The Languages o f Africa. The Hague: Mouton.
+Gllldemann, Tom & Rainer Vossen (in press). The Khoisan languages. African Languages, ed. by Bemd
+       Heine & Derek Nurse. Cambridge: Cambridge University Press.
+Hagman, Roy S. 1977. Nama Hottentot Grammar. (Indiana University Publications, Language Science
+       Monographs, 15.) Bloomington: Indiana University.
+Honken, Henry. 1977. Submerged features and Proto-Khoisan. Khoisan Linguistic Studies 3, ed. by Anthony
+       Traill, 145-169. (African Studies Institute Communications, 6.) Johannesburg: University o f the
+       Witwatersrand.
+- . 1988. Phonetic correspondences among Khoisan affricates. New Perspectives on the Study o f Khoisan,
+       ed. by Rainer Vossen, 47-65. (Quellen zur Khoisan-Forschung. 7.) Hamburg: Helmut Buske.
+Keuthmann, Klaus & Rainer Vossen. 1997. Von Schnalzen und anderen ZungenschlSgen. Forschung
+       Frankfurt 2/97:48-59.
+Kfihler, Oswin. I97S. Geschichte und Probteme der Gliederung der Sprachen Afrikas. Von den Anf&ngen
+       bis zur Gegenwart. Die i'dtker A frikas und Hire traditioneilen Kulturen. Part I: Allgemeiner Teil und
+       sQdliches Afrika, ed. by Hermann Baumann, 135-373. (Studien zur Kulturkunde, 34.) Wiesbaden:
+       Franz Steiner.
+- . 1981. Les langues khoisan. Les langues dans le mondeancien et moderne, ed. by Jean Perrot. Part I: Les
+       langues de I'Afrique subsaharienne, ed, by Gabriel Manessy, 455- 615. Paris: Editions du Centre
+       National de la Recherche Scientifjque.
+ Ruhlen, Merritt. 1994. On the Origin o f Languages. Studies in linguistic taxonomy. Stanford: Stanford
+       University Press.
+ Sands, Bonny. 1998. Eastern and Southern African Khoisan. Evaluating claims o f distant linguistic
+       relationships. (Quellen zur Khoisan-Forschung / Research in Khoisan Studies, 14.) Cologne: Rudiger
+       Kdppe.
+ Traill, Anthony. 1980. Phonetic diversity in the Khoisan languages. Bushman and Hottentot Linguistic
+       Studies, 167-189. (Miscellanea Congregalia, 16.) Pretoria: University of South Africa.
+- , 1986. Do the Khoi have a place in the San? New data on Khoisan linguistic relationships. Sprache ttnd
+        Geschichte in Africa 7, i : 407-430.
+ Vossen, Rainer. 1985. Encoding the object in the finite verb: the case of ||Ani (Central Khoisan).
+       Afrikanistische Arbeitspapiere 4: 75-84.
+ - , 1986. Zur Phonologic der ||Ani-Sprache, Contemporary Studies on Khoisan, Vol. 2, ed. by Rainer Vossen
+        & Klaus Keuthmann, 321-345. (Quellen zur Khoisan-Forschung, 5.) Hamburg: Helmut Buske.
+ - , 1997. Die Khoe~Sprachen. Ein Beitrag zur Erforschung der Sprachgeschichte Afrikas. (Quellen zur
+        Khoisan-Forschung / Research in Khoisan Studies, 12.) Cologne: Rudiger Kfippe,
+- . 1998. Forms and functions o f *!'o in some Khoe languages. Language, Identity, and Conceptualisation
+       among the Khoisan, ed. by Mathias Schladt, 285-303. (Quellen zur Khoisan-Forschung / Research in
+        Khoisan Studies, 15.) Cologne: RUdiger KSppe.
+ Westphal, Ernst O.J. 1962. On classifying Bushman and Hottentot languages. African Language Studies 3:
+       30-48.
+ - . 1971. The click languages of southern and eastern Africa. Linguistics in Suhsaharan Africa, ed. by
+        Thomas A. Sebeok, 367-420. (Current Trends in Linguistics, 7.) The Hague & Paris: Mouton.
+
