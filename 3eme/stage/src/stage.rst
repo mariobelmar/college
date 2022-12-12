@@ -18,23 +18,22 @@ Carte d’identité de l’entreprise
      J'étais dans le laboratoire d'Eco-anthropologie UMR 7206. Elle se situe dans le
      musée de l'homme. C'est une unité mixte de recherche du Centre national de la
      recherche scientiifque (CNRS), ud Muséum nationnal d'hisoitre naturelle(MNHN) et de
-     l'Université de Paris. C'est un laboratoire public. 
+     l'Université de Paris. C'est un laboratoire public.
 
 - Produit-elle des biens ou des services ? Lesquels ?
      Le laboratoire UMR 7206 developpe des recherches interdisciplinaire sur l'Homme,
      individuellement ou collectivement, et leur interactions avec l'environnement
-
+     Recherche + publications
 - Quelle est sa clientèle ?
-     Demander Marc
-     
+     Académique et grand public, Entreprise(wikipedia, google)
 - Travaille-t-elle avec des fournisseurs ?
-     Demander Marc
+    Agence nationale de la recherche l'anr     
 - Avec des entreprises sous-traitantes ? Lesquelles ? Donner 1 ou 2 exemples pertinents.
      Demander Marc
 - Quelle est sa taille ?
-     Demander Marc
+      concours CNRS, 100 pers    
 - Quel est son périmètre d’activité (local, national, international) ?
-     National 
+     International
 
 Les différents métiers
 ----------------------
@@ -50,7 +49,7 @@ Les différents métiers
 
    * - Métier
      - étude
-   * - ingénieur, restaurateur des collections, 
+   * - ingénieur, restaurateur des collections,
      - Histoire de l'art : Louvre,
        Lettre moderne : Paris 4,
        ethnologie : école pratique des hautes études,
@@ -72,12 +71,11 @@ Description d’un service
 
 Décrire le service dans lequel tu effectues ton stage :
 
-- nom du service : chercheur
-- du magasin : ?
-- de l’atelier : ?
-- nombre de salariés : 
-- liaison avec les autres services de l’entreprise 
-- horaire de travail du service.
+- nom du service : Diversité et évolution culturelle (laboratoire)
+- nombre de salariés : labo : 100 pers, équipe : 25
+- liaison avec les autres services de l’entreprise : 
+  ingé--chercheur--ensei-chercheur Decrire
+- horaire de travail du service : 35/sem 
 
 Un organigramme peut illustrer ton texte.
 
@@ -93,11 +91,13 @@ Exploration d’un métier
 Description d’un métier
 -----------------------
 
-Décrire un métier: chercheur en linguistique 
+Décrire un métier: chercheur en linguistique
 
-- tache : faire des recherches, se documenter, se déplacer si besoin
-- matériel utilisé : ordinateur, livre
-- organisation du travail : ?
+- tache : faire des recherches, se documenter, se déplacer si besoin soutien statistique
+- matériel utilisé : ordinateur, livres, enregistreur
+- organisation du travail : en public nous pouvons gérer soi-meme la progression de
+  notre travail tant que l'objetcif final est atteint (publier dans une recherche le
+  contenu de notre travail)
 
 Justifier le choix du métier décris
 
@@ -108,45 +108,41 @@ Interview d’un professionnel
 Question 1 : En quoi consiste votre travail ?
 
 Réponse 1 : Thème principal de recherche porte donc sur l'élaboration et l'analyse des
-hypothèses linguistiques en terme de synchronie et diachronie.
+hypothèses linguistiques en terme de synchronie et diachronie. Interaction entre le
+language et le système cognitif humain.
 
 Question 2 : Avant de commencer à travailler, avez-vous fait des études ? Lesquelles ?
 
-Réponse 2 : blabla
+Réponse 2 : Licence en littérature arabe et science politiques, Master en linguistique,
+doctorat linguistique et trait. auto de langue.
 
 Question 3 : Quel est votre parcours avant de travailler dans cette entreprise ?
 
-Réponse 3 : Postdoctoral Researcher. DDL (Dynamics of Language) lab of University Lumière
-Lyon 2, France.  Ph.D. Researcher. Department of Linguistics and Philology,
-Uppsala University, Sweden.  Ph.D. Student. Department of Linguistics and
-Philology, Uppsala University, Sweden.  Interpreter. International Cooperation
-and Development Fund, Taiwan.  (French/Chinese/Arabic/English interpreter at
-international events) Research Assistant. Syntax/Phonology lab, National
-ChengChi University, Taiwan. (Experiment design, database maintenance, and data
-analysis) Product Manager. North Africa division, Asustek Computer, Taiwan.
-(Product planning, sales and marketing for notebooks and tablets) 
+Réponse 3 : ASUS chef de produit concoir un produit plus gérer sa vente et son marketing
 
 Question 4 : Comment s’est déroulé le processus de votre recrutement dans l’entreprise ou la
 création de votre entreprise ?
 
-Réponse 4 : Demander Marc
-
+Réponse 4 : Grace au concours du CNRS qui a lieu tous les ans, J'ai postulé puis été séléctioné et
+après un entretien d'embauche j'ai été pris
+ 
 Question 5 : Qu’est ce qui vous plaît le plus dans votre travail ?  création de votre entreprise ?
 
-Réponse 5 : blabla
+Réponse 5 : + de flexibilité par rapport au privé au niveau des horaires, liberté de
+gestion de ses objectifs, - compétitif. Tu peux faire des recherches sur le long terme.
 
-Question 6 : 
-   
-Réponse 6 : 
+Question 6 :
 
-Question 7 : 
+Réponse 6 :
 
-Réponse 7 : 
+Question 7 :
 
-Question 8 : 
+Réponse 7 :
 
-Réponse 8 : 
-   
+Question 8 :
+
+Réponse 8 :
+
 
 
 Pour la rédaction du rapport, tu devras écrire les 8 questions et les 8 réponses.
