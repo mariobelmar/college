@@ -13,15 +13,26 @@ Présentation de l’entreprise
 Carte d’identité de l’entreprise
 --------------------------------
 
-- Présentation générale : nom, adresse, date de création, bref historique, établissement
-  privé ou public, type d’entreprise, secteur d’activité (primaire, secondaire,
+- Présentation générale :   date de création, bref historique
+  type d’entreprise, secteur d’activité (primaire, secondaire,
   tertiaire).
+J'étais dans le laboratoire d'Eco-anthropologie UMR 7206. Elle se situe dans le musée de
+l'homme. C'est une unité mixte de recherche du Centre national de la recherche
+scientiifque (CNRS), ud Muséum nationnal d'hisoitre naturelle(MNHN) et de l'Université
+de Paris. C'est un laboratoire public 
 - Produit-elle des biens ou des services ? Lesquels ?
+Le laboratoire UMR 7206 developpe des recherches interdisciplinaire sur l'Homme,
+individuellement ou collectivement, et leur interactions avec l'environnement
 - Quelle est sa clientèle ?
+Demander Marc
 - Travaille-t-elle avec des fournisseurs ?
+Demander Marc
 - Avec des entreprises sous-traitantes ? Lesquelles ? Donner 1 ou 2 exemples pertinents.
+Demander Marc
 - Quelle est sa taille ?
+Demander Marc
 - Quel est son périmètre d’activité (local, national, international) ?
+National 
 
 Les différents métiers
 ----------------------

@@ -12,7 +12,7 @@ Théories
 Découverte du NLP
 ------------------
 
-Premier code Python et Spacy  
+Premier code Python et Spacy
 
 Conclusion
 ==========
@@ -24,7 +24,7 @@ Conclusion
   flowchart LR
   a --> b
   a --> c
-  
+
 .. mermaid::
 
   flowchart LR
@@ -48,13 +48,13 @@ Conclusion
   end
 
   cohortes --> police & rondes & gendarmerie & pompier_m
-  
+
 .. code ::
 
   import spacy
   import sys
 
-  # Définir la langue (an)
+  # Définir la langue (anglais)
   nlp = spacy.load("en_core_web_sm")
   NOVEL = '../../snt/ndm/alice.txt'
 
