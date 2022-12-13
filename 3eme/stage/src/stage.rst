@@ -15,27 +15,25 @@ Carte d’identité de l’entreprise
 
 - date de création, bref historique type d’entreprise, secteur d’activité (primaire,
   secondaire, tertiaire).
-
-     - J'étais dans le laboratoire d'Eco-anthropologie UMR 7206. Elle se situe dans le
-       musée de l'homme. C'est une unité mixte de recherche du Centre national de la
-       recherche scientiifque (CNRS), ud Muséum nationnal d'hisoitre naturelle(MNHN) et de
-       l'Université de Paris. C'est un laboratoire public.
+     J'étais dans le laboratoire d'Eco-anthropologie UMR 7206. Elle se situe dans le
+     musée de l'homme. C'est une unité mixte de recherche du Centre national de la
+     recherche scientiifque (CNRS), ud Muséum nationnal d'hisoitre naturelle(MNHN) et de
+     l'Université de Paris. C'est un laboratoire public.
 
 - Produit-elle des biens ou des services ? Lesquels ?
-     - Le laboratoire UMR 7206 developpe des recherches interdisciplinaire sur l'Homme,
-       individuellement ou collectivement, et leur interactions avec l'environnement
-       Le travail d'un chercheur est compté par revue scientifique publié.
+     Le laboratoire UMR 7206 developpe des recherches interdisciplinaire sur l'Homme,
+     individuellement ou collectivement, et leur interactions avec l'environnement
+     Recherche + publications
 - Quelle est sa clientèle ?
-     - Académique et grand public. Il y a aussi des entreprises qui demandent quelques 
-       fois des services ex: wikipedia, google.
-- Travaille-t-elle avec des fournisseurs ?
-     - Agence nationale de la recherche l'anr
+     Académique et grand public, Entreprise(wikipedia, google)
+- Travaille-t-elle avec des fournisseur ?
+   gence nationale de la recherche l'anr
 - Avec des entreprises sous-traitantes ? Lesquelles ? Donner 1 ou 2 exemples pertinents.
-     - Demander Marc
+     Demander Marc
 - Quelle est sa taille ?
-     - concours CNRS, 100 personnes (tout confondu) travaillent au laboratoire
+      concours CNRS, 100 pers
 - Quel est son périmètre d’activité (local, national, international) ?
-     - International
+     International
 
 Les différents métiers
 ----------------------
@@ -51,18 +49,18 @@ Les différents métiers
 
    * - Métier
      - étude
-
    * - ingénieur, restaurateur des collections,
      - Histoire de l'art : Louvre,
        Lettre moderne : Paris 4,
        ethnologie : école pratique des hautes études,
        Histoire : Paris Sorbonne.
-
    * - Taouès, ingénieur/administratif
      - ex PHD
-
    * - ex3 chercheur chevelu
      - ex PHD
+
+       - ha ha ah
+       - ha ha ah
 
        .. image:: /src/images/lama.png
 
@@ -73,16 +71,10 @@ Description d’un service
 
 Décrire le service dans lequel tu effectues ton stage :
 
-- nom du service : équipe de 'Diversité et évolution culturelle' (il y a différentes
-  équipe au sein du laboratoire)
+- nom du service : Diversité et évolution culturelle (laboratoire)
 - nombre de salariés : labo : 100 pers, équipe : 25
 - liaison avec les autres services de l’entreprise :
-
-  - ingénieur soutient les chercheurs
-  - enseignant-chercheur 80% donne des cours dans des universités, 20% chercheur
-  - chercheur 20% (s'il veut bien) donne des cours. 80% chercheur(déplacement sur le
-    terrain, recherche etc.. )
-
+  ingé--chercheur--ensei-chercheur Decrire
 - horaire de travail du service : 35/sem
 
 Un organigramme peut illustrer ton texte.
@@ -126,7 +118,7 @@ doctorat linguistique et trait. auto de langue.
 
 Question 3 : Quel est votre parcours avant de travailler dans cette entreprise ?
 
-Réponse 3 : ASUS chef de produit concevoir un produit plus gérer sa vente et son marketing
+Réponse 3 : ASUS chef de produit concoir un produit plus gérer sa vente et son marketing
 
 Question 4 : Comment s’est déroulé le processus de votre recrutement dans l’entreprise ou la
 création de votre entreprise ?
@@ -139,7 +131,7 @@ Question 5 : Qu’est ce qui vous plaît le plus dans votre travail ?  création
 Réponse 5 : + de flexibilité par rapport au privé au niveau des horaires, liberté de
 gestion de ses objectifs, - compétitif. Tu peux faire des recherches sur le long terme.
 
-Question 6 : 
+Question 6 :
 
 Réponse 6 :
 

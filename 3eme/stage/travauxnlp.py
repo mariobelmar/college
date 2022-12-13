@@ -3,7 +3,7 @@ import sys
 
 # Définir la langue (an)
 nlp = spacy.load("en_core_web_sm")
-NOVEL = '../../snt/ndm/alice.txt'
+NOVEL = 'grammartext/aari_1990_o.txt'
 
 def get_text_from_file(file: str) -> str:
     """
@@ -31,11 +31,12 @@ def get_only_verbs(ltext: str) -> list[str]:
 
 
 text = get_text_from_file(NOVEL)
-ltext = text[2000:4500]
+ltext = text[:10000]
 verbs = sorted(get_only_verbs(ltext))
 verbs_set = sorted(list(set(verbs)))
 # print(f'==> all words: {ltext}')
 print(f'==> only verbs there are {len(verbs)}: {verbs}')
 print('\n')
 print(f'==> only verbs without repetition there are {len(verbs_set)}: {verbs_set}')
+
 
