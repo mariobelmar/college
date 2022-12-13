@@ -19,13 +19,13 @@ Conclusion
 
 
 
-.. mermaid::
+.. mermaid ::
 
   flowchart LR
   a --> b
   a --> c
 
-.. mermaid::
+.. mermaid ::
 
   flowchart LR
 
@@ -45,9 +45,10 @@ Conclusion
   end
   subgraph nature
     pompier_m -.-> no_armes
+  cohortes --> police & rondes & gendarmerie & pompier_m
+
   end
 
-  cohortes --> police & rondes & gendarmerie & pompier_m
 
 .. code ::
 
