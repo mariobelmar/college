@@ -30,13 +30,24 @@ def get_only_verbs(ltext: str) -> list[str]:
     return verbs
 
 
+def reveal_key_words(ltext: str, key: str) -> list[str]:
+    doc = nlp(ltext)
+    for token in doc:
+        if token == key:
+            verbs.append(token)
+    return verbs
+
+
 text = get_text_from_file(NOVEL)
 ltext = text[:10000]
 verbs = sorted(get_only_verbs(ltext))
 verbs_set = sorted(list(set(verbs)))
+key = 'tone'
+nb_tones = reveal_key_words(text, key)
 # print(f'==> all words: {ltext}')
-print(f'==> only verbs there are {len(verbs)}: {verbs}')
-print('\n')
-print(f'==> only verbs without repetition there are {len(verbs_set)}: {verbs_set}')
+print(f'==> in ltext there are {len(ltext)} words')
+# print('\n')
+print(f'==> in this échantillon there are {len(verbs_set)} verbs: {verbs_set}')
+print(f'==> in this text there are {len(text)} numbers of times we saw the word tones: {len(nb_tones)}')
 
 
