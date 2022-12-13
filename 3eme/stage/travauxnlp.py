@@ -40,10 +40,12 @@ liste2 = [token for token in doc if token.text == key2]
 # ltext = text[:10000]
 # verbs = sorted(get_only_verbs(ltext))
 # verbs_set = sorted(list(set(verbs)))
+pour_liste1 = (len(liste1)/len(text)) * 100
+pour_liste2 = (len(liste2)/len(text)) * 100
 print(liste1)
-print(f' in all the file there are {len(text)} words and there are {len(liste1)} times the word \'{key1}\'')
+print(f' in all the file there are {len(text)} words and there are {len(liste1)} times the word \'{key1}\' so the pourcentage is {pour_liste1}%')
 print(liste2)
-print(f' in all the file there are {len(text)} words and there are {len(liste2)} times the word \'{key2}\'')
+print(f' in all the file there are {len(text)} words and there are {len(liste2)} times the word \'{key2}\' so the pourcentage is {pour_liste1}%')
 # print(f'==> all words: {ltext}')
 # print(f'==> in ltext there are {len(ltext)} words')
 # print(f'==> in this échantillon there are {len(verbs_set)} verbs: {verbs_set}')
