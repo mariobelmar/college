@@ -29,30 +29,21 @@ def get_text_from_file(file: str) -> str:
 #             verbs.append(token.lemma_)
 #     return verbs
 
-
-# def reveal_key_words(ltext: str) -> list[str]:
-#     doc = nlp(ltext)
-#     for token in doc:
-#         if token == 'tone':
-#             verbs.append(token)
-#     return verbs
-
-liste1 =  []
-key = 'tone'
-def reveal_key_words(ltext: str, key: str) -> list[str]:
-    doc = nlp(ltext)
-    for token in doc:
-        if token.text == key:
-            liste1.append(token)
-
-
 text = get_text_from_file(NOVEL)
-ltext = text[:10000]
+doc = nlp(text)
+key1 = 'tone'
+key2 = 'gender'
+liste1 = [token for token in doc if token.text == key1]
+liste2 = [token for token in doc if token.text == key2]
+
+
+# ltext = text[:10000]
 # verbs = sorted(get_only_verbs(ltext))
 # verbs_set = sorted(list(set(verbs)))
-nb_tones = reveal_key_words(text, key)
 print(liste1)
-print(f' in all the file there are {len(text)} words and there are {len(liste1)} times the word {key}')
+print(f' in all the file there are {len(text)} words and there are {len(liste1)} times the word \'{key1}\'')
+print(liste2)
+print(f' in all the file there are {len(text)} words and there are {len(liste2)} times the word \'{key2}\'')
 # print(f'==> all words: {ltext}')
 # print(f'==> in ltext there are {len(ltext)} words')
 # print(f'==> in this échantillon there are {len(verbs_set)} verbs: {verbs_set}')
