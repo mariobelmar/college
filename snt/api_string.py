@@ -1,5 +1,5 @@
 print("## grouping string API")
-string_api = """
+string_api =
 # Format case
 s.capitalize   #'abcd'.capitalize()  => 'Abcd'
 s.upper        #'abcd'.upper()  => 'ABCD'
