@@ -30,24 +30,31 @@ def get_only_verbs(ltext: str) -> list[str]:
     return verbs
 
 
-def reveal_key_words(ltext: str, key: str) -> list[str]:
+# def reveal_key_words(ltext: str) -> list[str]:
+#     doc = nlp(ltext)
+#     for token in doc:
+#         if token == 'tone':
+#             verbs.append(token)
+#     return verbs
+
+liste1 =  []
+def reveal_key_words(ltext: str) -> list[str]:
     doc = nlp(ltext)
     for token in doc:
-        if token == key:
-            verbs.append(token)
-    return verbs
+        liste1.append(token)
 
-
-text = get_text_from_file(NOVEL)
+texk = get_text_from_file(NOVEL)
 ltext = text[:10000]
 verbs = sorted(get_only_verbs(ltext))
 verbs_set = sorted(list(set(verbs)))
-key = 'tone'
-nb_tones = reveal_key_words(text, key)
+reveal_key_words(text[3000:4400])
+print(liste1)
+# key = 'tone'
+
+# nb_tones = reveal_key_words(text)
 # print(f'==> all words: {ltext}')
-print(f'==> in ltext there are {len(ltext)} words')
-# print('\n')
-print(f'==> in this échantillon there are {len(verbs_set)} verbs: {verbs_set}')
-print(f'==> in this text there are {len(text)} numbers of times we saw the word tones: {len(nb_tones)}')
+# print(f'==> in ltext there are {len(ltext)} words')
+# print(f'==> in this échantillon there are {len(verbs_set)} verbs: {verbs_set}')
+# print(f'==> in this text there are {len(text)} numbers of times we saw the word tones: {len(nb_tones)}')
 
 
