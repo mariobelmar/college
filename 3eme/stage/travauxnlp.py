@@ -43,12 +43,16 @@ def reveal_key_words(ltext: str) -> list[str]:
     for token in doc:
         liste1.append(token)
 
-texk = get_text_from_file(NOVEL)
+liste2 = []
+for i in liste1:
+    liste2.append(i)
+
+text = get_text_from_file(NOVEL)
 ltext = text[:10000]
 verbs = sorted(get_only_verbs(ltext))
 verbs_set = sorted(list(set(verbs)))
 reveal_key_words(text[3000:4400])
-print(liste1)
+print(liste2)
 # key = 'tone'
 
 # nb_tones = reveal_key_words(text)
