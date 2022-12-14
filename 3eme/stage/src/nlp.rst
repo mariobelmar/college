@@ -9,6 +9,10 @@ Objectif
 Théories
 --------
 
+Test de citation d'un article sur les nuages de mots :cite:p:`d2014recueils` pour le
+voir dans la Bibliography de la fin du document.
+
+Puis un test de citation en note de bas de page ici :footcite:p:`d2014recueils`
 
 
 Découverte du NLP
@@ -63,4 +67,11 @@ Conclusion
   print('\n')
   print(f'==> only verbs without repetition there are {len(verbs_set)}: {verbs_set}')
 
+
+Bibliography
+=============
+
+.. bibliography::
+
+.. footbibliography::
 
