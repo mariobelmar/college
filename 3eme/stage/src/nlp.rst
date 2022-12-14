@@ -9,6 +9,11 @@ Objectif
 Théories
 --------
 
+Article de Marc:
+    - :cite:p:`her2022defining`
+    - :cite:p:`ulrich2021identifying`
+    - :cite:p:`hammarstrom2020term`
+
 Test de citation d'un article sur les nuages de mots :cite:p:`d2014recueils` pour le
 voir dans la Bibliography de la fin du document.
 
