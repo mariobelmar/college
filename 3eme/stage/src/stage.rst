@@ -100,6 +100,10 @@ Un organigramme peut illustrer ton texte.
   flowchart LR
 
 
+  subgraph bonjour
+  a --bonjour--> b
+
+ 
   end
 
 

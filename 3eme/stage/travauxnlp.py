@@ -49,31 +49,35 @@ def get_text_from_file(file: str) -> str:
 def test_all_files(files):
     doc = nlp(text)
     tones = [token for token in doc if token.text == 'tone']
+    times = [token for token in doc if token.text == 'time']
     genders = [token for token in doc if token.text == 'gender']
-    return genders, tones
+    return genders, tones, times
 
 
-def get_ratio(tones, genders, text):
+def get_ratio(tones, genders, times, text):
     nbtone = len(tones)
     nbgender = len(genders)
+    nbtime = len(times)
     nbword = len(text)
-    if nbtone and nbgender > 0:
+    if nbtone and nbgender and nbtime > 0:
         pour_tone = round(((nbtone / nbword) * 100), 3)
+        pour_time = round(((nbtime / nbword) * 100), 3)
         pour_gender = round(((nbgender / nbword) * 100), 3)
     else:
         pour_tone = 0
         pour_gender = 0
-    return pour_tone, pour_gender
+        pour_time  = 0
+    return pour_tone, pour_gender, pour_time
 
 
 for i in files :
     filename = f'grammartext/{i}'
     text = get_text_from_file(filename)
-    genders, tones = test_all_files(i)
-    pour_tone, pour_gender = get_ratio(tones, genders, text)
+    genders, tones, times = test_all_files(i)
+    pour_tone, pour_gender, pour_time = get_ratio(tones, genders, times, text)
     print(f'in {i:20} genders : {len(genders):2} |'
-          f'tones: {len(tones):2} | pour_gender: {pour_gender:5}% | pour_tone:'
-          f'{pour_tone:5}%')
+          f'tones: {len(tones):2} | times: {len(times)}| pour_gender: {pour_gender:5}% | pour_tone:'
+          f'{pour_tone:5}% | pour_time: {pour_time}%' )
 
 
 
