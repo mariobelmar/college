@@ -1,0 +1,115 @@
+Mission état de frais
+=====================
+
+Guyon , paris, aout sept
+Furnisse, tours, 06/2022 -> 07/2022
+Nivar, Chanberry, 09/2022 -> 09/2022
+Nissen, Aix en provence, 11/2022 -> 11/2022
+Maille, nanterre, 09/2 09/2022 ->
+Provin, Saint etienne, 10/21 10/21
+Rebai, Quito, 10/2022 -> 11/2022
+Utge Buil, la Ciotat, 11/21 11/21
+Hoare, Paris, 03/2022 -> 03/2022
+Ramirez Rouzzi, el obeid(soudan), 01/2022 -> 01/2022
+Chiminez, Montpelier, 11/2022 -> 11/2022
+Chambon, khartoum(soudan), 11/2022 -> 11/2022
+Verdu, La rochelle, 10/2022 -> 10/2022
+Boutry, Bankok, 11/2022 -> 11/2022
+Bon, La rochelle, 04/2022 -> 04/2022
+Belaidi, La Rochelle 10/2022 -> 10/2022
+Simmen, Strasbourg, 11/2022 -> 11/2022
+Ruhlmannn Marseille, 03/2022 -> 03/2022
+Villotte, Mainz, 11/2022 -> 12/2022
+Duboscq, Kyoto+inuyama, 11/2022 -> 11/2022
+Duboscq, Strasbourg, 02/2022 -> 02/2022
+Duboscq, Strasbourg, 04/2022 -> 04/2022
+Di loreto, anse bertrand(guadeloupe), 11/2022 -> 04/23
+Ehrhardt, Marseille, 06/2022 -> 06/2022
+Ehrhardt, St germain au lay, 12/2022 -> 12/2022
+Ofranc, La rochelle, 10/2022 -> 10/2022
+Marty, 4 ville d'arabie saoudite, 01/2022 -> 07/2022
+Garcia, Osaka, 11/2022 -> 11/2022
+Lafosse, Croissy beabourg, 08/21 08/21
+Liagre, Bruxelles, 11/2022 -> 11/2022
+DuBoscq, Strasbourg, 06/2022 -> 06/2022
+Allassionère Tang, Bucharest, 11/2022 -> 11/2022
+Allassionère Tang, Lyon, 11/2022 -> 11/2022
+Allassionère Tang, Lyon, 10/2022 -> 10/2022
+Allassionère Tang, Lyon, 09/2022 -> 09/2022
+Galangau, Bankok, 11/2022 -> 11/2022
+Fries, Berlin, 10/2022 -> 10/2022
+Mougenot, Bruxelle, 05/12
+Cagnacci, Montpellier, 11/2022 -> 11/2022
+Boyer, Catanzaro+Lenola, 02/2022 -> 06/2022
+Manni, Bolzano, 06/2022 -> 07/2022
+Ménard, Paris, 03/2022 -> 03/2022
+Pavard, anliereu, 11/2022 -> 11/2022
+Perrot, Aix en provence+Les Ulis, 10/2022 -> 10/2022
+Le goff, Paris, 04/2022 -> 04/2022
+Strauch, Canne, 01/2022 -> 01/2022
+cohen, Yaoundé, 12/2022 -> 12/2022
+Vanhoutte, Barcelone, 07/2022 -> 07/2022
+gerard, clermont ferrand, 05/2022 -> 06/2022
+
+Mission sans état de frais
+==========================
+
+Heyer, La rochelle, 10/2022 -> 10/2022
+Endicott, Estonie+PAris, 10/2022 -> 10/2022, 11/2022 11/2022
+César, COTONOU, 05/2022 -> 05/2022
+Morino, Kyoto, 11/2022 -> 11/2022
+Marty, Riyach, 01/2022 -> 07/2022
+Garcia, aix en provence, 10/2022 -> 10/2022 OM00210
+Rhulmann, Bastia, 11/2022 -> 11/2022 L02467
+Rhulmann, Toulouse+Boussens+Moulise, 10/2022 -> 10/2022, OMSF00152
+Rhulmann, Brest, 12/2022 -> 12/2022, L02481
+Simmen, Miyazaki, 06/2022 -> 06/2022 OMSF00095
+Verdu, Marseille, 06/2022 -> 06/2022 OMSF00135
+Cohen, Yaoundé, 12/2022 -> 12/2022 OMSF00254
+Villotte, Liège, 11/2022 -> 11/2022 OMSF00246
+Ehrhardt, Montigny le bretonneux, 12/2022 -> 12/2022 L02484
+Lequette, Alexandrie, 10/2022 -> 10/2022 OMSF00192
+Allansonière, Nante, 11/12 12/2022 -> OMSF00253
+Pennec, Bussière dunoise, 09/2022 -> 09/2022 OMSF00193
+Rapinski, Toulouse, 09/2022 -> 09/2022 OMSF00212
+Reymond, Provins, 11/2022 -> 11/2022, OMSF00242
+Reymond, Corte, 11/2022 -> 11/2022 OMSF00240
+Pennec, Sauviat sur vige 07/2022 -> 07/2022 OMSF00170
+
+
+
+
+
+Bon de commande avec BL
+=======================
+
+L007388
+L007380
+
+Bon de commande sans BL
+=======================
+
+L007389
+L007386
+L007353
+L007362
+L007361
+L007380
+L007393
+L007140
+L007346
+L007403
+L007402
+L007395
+L007381
+L007364
+L007370
+L007372
+L007371
+L007374
+L007373
+L007353
+L007357
+L007351
+L007394
+L007290
