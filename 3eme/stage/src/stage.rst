@@ -95,19 +95,42 @@ Décrire le service dans lequel tu effectues ton stage :
 
 Un organigramme peut illustrer ton texte.
 
+
 .. mermaid::
 
-  flowchart LR
+  flowchart TB
 
-  Labo(LABO)
+   cnrs(CNRS)
+   mnhn("Museum National
+         d'Histoire Naturelle")
+   univ(Paris Université)
+   inge("Ingénieur
+         soutient les chercheur")
+   cherch("Chercheur
+           80% chercheur, 20% enseignant")
+   ensei("enseignant-chercheur
+         20% chercheur, 80% enseignant")
+
+   cnrs -->|affilié| labo
+   univ -->|affilié| labo
+   mnhn -->|affilié| labo
+   collection -.-> restauration
+   collection -.-> exposition
+   mnhn --> muse
+
+   subgraph labo["Laboratoire d'eco-anthropologie]
+    inge
+    cherch
+    ensei
+   end
+
+   subgraph muse[Musée de l'homme]
+      collection("gère la collection")
+      restauration
+      exposition
+   end
 
   
-  subgraph Labo
-
- 
-  end
-
-
 Evolution de l'entreprise
 --------------------------
 
