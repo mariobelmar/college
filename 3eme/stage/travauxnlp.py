@@ -57,13 +57,11 @@ def get_ratio(tones, genders, text):
     nbtone = len(tones)
     nbgender = len(genders)
     nbword = len(text)
-    if nbtone > 0:
+    if nbtone and nbgender > 0:
         pour_tone = round(((nbtone / nbword) * 100), 3)
-    else:
-        pour_tone = 0
-    if nbgender > 0:
         pour_gender = round(((nbgender / nbword) * 100), 3)
     else:
+        pour_tone = 0
         pour_gender = 0
     return pour_tone, pour_gender
 
