@@ -51,11 +51,12 @@ Les différents métiers
    * - Métier
      - études requises
    * - Ingénieur
-     -
+     - 
    * - Chercheur
      - Doctorat
    * - enseignant chercheur
-     - PHD
+     - Doctorat
+
 
 
 .. list-table::
@@ -98,24 +99,6 @@ Un organigramme peut illustrer ton texte.
 
   flowchart LR
 
-  cohortes("cohortes urbaine
-            -- urbanici --")
-  police(police nocturne)
-  rondes(ronde pour prévenir les incendies)
-  gendarmerie(gendarmerie municipale)
-  pompier_m(pompiers militarisés)
-  no_armes("pas d'armement,
-            outils de pompiers")
-
-  subgraph fonction
-    police
-    rondes
-    gendarmerie
-  end
-  subgraph nature
-    pompier_m -.-> no_armes
-
-  cohortes --> police & rondes & gendarmerie & pompier_m
 
   end
 
