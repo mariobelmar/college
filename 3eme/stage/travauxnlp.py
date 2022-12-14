@@ -8,9 +8,9 @@ NOVEL = 'grammartext/aari_1994_o.txt'
 files = ["aari_1990_o.txt",
          "aari_1994_o.txt",
          "abu_1985_o.txt",
-         "abun_19952_o.txt",
-         "abun_1995_o.txt",
-         "abun_1999_o.txt",
+         # "abun_19952_o.txt",
+         # "abun_1995_o.txt",
+         # "abun_1999_o.txt",
          "ani_2000_o.txt",]
 
 
@@ -39,15 +39,20 @@ def get_text_from_file(file: str) -> str:
 #             verbs.append(token.lemma_)
 #     return verbs
 
-text = get_text_from_file(NOVEL)
-doc = nlp(text)
-tones = [token for token in doc if token.text == key1]
-genders = [token for token in doc if token.text == key2]
+# text = get_text_from_file(NOVEL)
+# doc = nlp(text)
+# tones = [token for token in doc if token.text == 'tone']
+# genders = [token for token in doc if token.text == 'gender']
 
 
-print(tones)
-print(f' in all the file there are {len(text)} words and there are {len(tones)} times the word \'{key1}\' so the pourcentage is {pour_tones}%')
-print(genders)
-print(f' in all the file there are {len(text)} words and there are {len(genders)} times the word \'{key2}\' so the pourcentage is {pour_tones}%')
+def test_all_files(files):
+    for file in files:
+        filename = f'grammartext/{file}'
+        text = get_text_from_file(filename)
+        doc = nlp(text)
+        tones = [token for token in doc if token.text == 'tone']
+        genders = [token for token in doc if token.text == 'gender']
+        print(f'in {file} : {len(tones)} "tones" and {len(genders)} "gender"')
 
 
+test_all_files(files)
