@@ -29,7 +29,11 @@ author = 'Mario Belmar Letelier -- Zhou'
 # ones.
 extensions = [
     'sphinxcontrib.mermaid',
+    'sphinxcontrib.bibtex',
+    'sphinx.ext.autosectionlabel',
 ]
+bibtex_bibfiles = ['refs.bib']
+autosectionlabel_prefix_document = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
