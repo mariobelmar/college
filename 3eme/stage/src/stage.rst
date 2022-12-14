@@ -118,7 +118,7 @@ Un organigramme peut illustrer ton texte.
    collection -.-> exposition
    mnhn --> muse
 
-   subgraph labo["Laboratoire d'eco-anthropologie]
+   subgraph labo["Laboratoire d'eco-anthropologie"] 
     inge
     cherch
     ensei

@@ -9,6 +9,8 @@ Objectif
 Théories
 --------
 
+
+
 Découverte du NLP
 ------------------
 
@@ -16,12 +18,6 @@ Premier code Python et Spacy
 
 Conclusion
 ==========
-
-
-
-.. mermaid ::
-
-  flowchart LR
 
 
 .. code ::
