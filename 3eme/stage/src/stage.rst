@@ -99,9 +99,10 @@ Un organigramme peut illustrer ton texte.
 
   flowchart LR
 
+  Labo(LABO)
 
-  subgraph bonjour
-  a --bonjour--> b
+  
+  subgraph Labo
 
  
   end
