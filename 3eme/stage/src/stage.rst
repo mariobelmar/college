@@ -5,7 +5,7 @@ Rapport de stage au Laboratoire CNRS du musé de l'homme
 Introduction
 =============
 
-- Pourquoi je l'ai fais ici et comment (démarche)?
+- J'ai rencontré mon maitre de stage dans mon "club" de stage.:
 
 Présentation de l’entreprise
 =================================
@@ -119,8 +119,6 @@ Un organigramme peut illustrer ton texte.
    mnhn --> muse
 
    subgraph labo["Laboratoire d'eco-anthropologie"] 
-    inge
-    cherch
     ensei
    end
 
