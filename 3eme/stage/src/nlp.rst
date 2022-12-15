@@ -19,6 +19,12 @@ voir dans la Bibliography de la fin du document.
 
 Puis un test de citation en note de bas de page ici :footcite:p:`d2014recueils`
 
+voir doc spacy pour plus d'info
+
+  1. word segmentation
+  2. lemmatization
+  3. P.O.S tagging(trouver nature du mot)
+  4. dependency parsing(dépendance a d'autre mots dans la phrase)
 
 Découverte du NLP
 ------------------
