@@ -25,13 +25,15 @@ def get_text_from_file(file: str) -> str:
 
 
 
+if __name__ == '__main__':
+    for i in FILES:
+        filename = f'grammartext/{i}'
+        text = get_text_from_file(filename)
+        mots = text.split()
+        print(f'lettres: {len(text):8} | mots: {len(mots):8}')
 
-for i in files:
-    filename = f'grammartext/{i}'
-    text = get_text_from_file(filename)
-    print(text)
-    for i in text:
-        print(i)
+        # for i in text:
+        #     print(i)
 
 
 
