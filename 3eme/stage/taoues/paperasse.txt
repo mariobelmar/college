@@ -4,7 +4,7 @@ Mission état de frais
 Guyon , paris, aout sept
 Furnisse, tours, 06/2022 -> 07/2022
 Nivar, Chanberry, 09/2022 -> 09/2022
-Nissen, Aix en provence, 11/2022 -> 11/2022
+Nissem, Aix en provence, 11/2022 -> 11/2022
 Maille, nanterre, 09/2 09/2022 ->
 Provin, Saint etienne, 10/21 10/21
 Rebai, Quito, 10/2022 -> 11/2022
@@ -32,10 +32,10 @@ Garcia, Osaka, 11/2022 -> 11/2022
 Lafosse, Croissy beabourg, 08/21 08/21
 Liagre, Bruxelles, 11/2022 -> 11/2022
 DuBoscq, Strasbourg, 06/2022 -> 06/2022
-Allassionère Tang, Bucharest, 11/2022 -> 11/2022
-Allassionère Tang, Lyon, 11/2022 -> 11/2022
-Allassionère Tang, Lyon, 10/2022 -> 10/2022
-Allassionère Tang, Lyon, 09/2022 -> 09/2022
+Allassonère Tang, Bucharest, 11/2022 -> 11/2022
+Allassonère Tang, Lyon, 11/2022 -> 11/2022
+Allassonère Tang, Lyon, 10/2022 -> 10/2022
+Allassonère Tang, Lyon, 09/2022 -> 09/2022
 Galangau, Bankok, 11/2022 -> 11/2022
 Fries, Berlin, 10/2022 -> 10/2022
 Mougenot, Bruxelle, 05/12
@@ -85,6 +85,29 @@ Bon de commande avec BL
 
 L007388
 L007380
+L007385
+L007380
+L007290
+007225
+L007295
+L007056
+L007231
+L006948
+L006949
+L007057
+4500168412
+4500168603
+4500155401
+4500155053
+4500169765
+4500169765
+
+
+Bon de commande a reclasser 
+============================
+
+L007380
+L007290
 
 Bon de commande sans BL
 =======================
@@ -94,7 +117,6 @@ L007386
 L007353
 L007362
 L007361
-L007380
 L007393
 L007140
 L007346
@@ -112,4 +134,16 @@ L007353
 L007357
 L007351
 L007394
-L007290
+l007080
+L007381
+L007119
+L007415
+L007382
+4500165741
+4500151125
+4500156978
+4500160664
+4500160553
+4500156978
+
+
