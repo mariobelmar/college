@@ -10,7 +10,7 @@ with open("alice.txt", 'r') as myfile:
     text = myfile.read()
     mots = text.split()
 
-# text = text[2000:2400]
+text = text[2000:2400]
 
 
 doc = nlp(text)
@@ -20,7 +20,7 @@ doc = nlp(text)
 # print("Noun phrases:", [chunk.text for chunk in doc.noun_chunks])
 # print("Verbs:", [token.lemma_ for token in doc if token.pos_ == "VERB"])
 
-verbe = [token.lemma_ for token in doc if token.pos_ == "VERB"]
+verbes = [token.lemma_ for token in doc if token.pos_ == "VERB"]
 
 
 # Find named entities, phrases and concepts
@@ -29,6 +29,6 @@ verbe = [token.lemma_ for token in doc if token.pos_ == "VERB"]
 
 print(f'Dans Alice opdm il y a:\n'
       f' {len(mots)} mots\n'
-      f'et dans un échantillon de 400 mots\n il y a {len(verbe)} verbe'
-      f'en voici la liste:  {verbe}')
+      f'et dans un échantillon de 400 mots\n il y a {len(verbes)} verbe'
+      f'en voici la liste:  {verbes}')
 
