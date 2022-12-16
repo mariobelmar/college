@@ -1,6 +1,78 @@
 Mes travaux de NLP
 ======================
 
+PLAN
+====
+
+- Lundi après-midi :
+  Marc
+  Manel Valentin(ethnologue, responsable scientifique)
+  visite des collections des objets du monde entier contemporain
+
+- Mardi matin
+
+  Trier les documents
+
+    A. Bon de commande
+    B. Ordre de mission
+
+- Mardi après-midi
+
+  - Soutenance de stage
+
+  - Trier les documents:
+
+    A. Bon de commande
+    B. Ordre de mission
+
+  - Code
+
+- Mercredi matin
+  - Trier les documents
+  - Soutenance de stage
+
+- Mercredi après midi
+  - Trier les documents
+
+- Jeudi matin
+  - Trier les documents
+  - Boxe
+
+- Jeudi après midi
+  - Marie Claude
+  - Séminaire
+  - Visite des collections d'ossements humains non présenté lors des expositions
+
+- Vendredi matin
+
+  - Régis: caractérisation d'ADN ancien 100% paléogénéticien
+  travail sur la  compréhension de l'évolution des éléphants il analyse donc les
+  ancetres des éléphants(mamouth)
+
+  - Etude:
+    1. fac de biologie de l'évolution
+
+    2. doctorat histoire de l'évolution de éléphants
+
+  - travail au mnhn pour extraire informations génétiques des collections du musé
+
+  - Travail fait:
+    - dillution d'adn d'un échantillon de vertèbre de poisson
+    - but -> que mangait les homme pré. le long de la Loire?
+
+  1. Dillution de l'adn grace a une micro-pipette
+
+     - déposer diluant
+     - déposer adn dans le diluant
+
+  2. Electrophorèse cappilaire
+
+    Ajout de liquide fluoerescent pour la machine
+    --> bande d'ADN
+
+- Vendredi après-midi
+
+
 Objectif
 --------
 
@@ -20,7 +92,6 @@ voir dans la Bibliography de la fin du document.
 Puis un test de citation en note de bas de page ici :footcite:p:`d2014recueils`
 
 voir doc spacy pour plus d'info
-
   1. word segmentation
   2. lemmatization
   3. P.O.S tagging(trouver nature du mot)

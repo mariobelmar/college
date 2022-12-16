@@ -51,7 +51,7 @@ Les différents métiers
    * - Métier
      - études requises
    * - Ingénieur
-     - 
+     -
    * - Chercheur
      - Doctorat
    * - enseignant chercheur
@@ -66,15 +66,16 @@ Les différents métiers
 
    * - Exemple de Métier
      - Exemple de étude
-   * - ingénieur, restaurateur des collections,
+   * - enseignant chercheur, responsable scientifiques des collections,
      - Histoire de l'art : Louvre,
        Lettre moderne : Paris 4,
        ethnologie : école pratique des hautes études,
        Histoire : Paris Sorbonne.
    * - ingénieur/administratif
      - Master en droit.
-   * - ex3 chercheur chevelu
-     - ex PHD
+   * - Régis, ingénieur
+     - dfsdf
+
 
 
 Description d’un service
@@ -111,21 +112,20 @@ Un organigramme peut illustrer ton texte.
    ensei("enseignant-chercheur
          20% chercheur, 80% enseignant")
 
-   cnrs -->|affilié| labo
-   univ -->|affilié| labo
-   mnhn -->|affilié| labo
+   cnrs -->|sous_tutelle| labo
+   univ -->|sous_tutelle| labo
+   mnhn -->|sous_tutelle| labo
    collection -.-> restauration
    collection -.-> exposition
    mnhn --> muse
 
    subgraph labo["Laboratoire d'eco-anthropologie"] 
     ensei
-   end
-
-   subgraph muse[Musée de l'homme]
-      collection("gère la collection")
-      restauration
-      exposition
+      subgraph muse[Musée de l'homme]
+         collection("gère la collection")
+         restauration
+         exposition
+      end
    end
 
   
