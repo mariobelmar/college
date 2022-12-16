@@ -65,6 +65,38 @@ def test_all_files(text):
     return genders, tones
 
 
+def get_all_table(FILES):
+    """
+    nom du fichier | mot | occurence
+
+    """
+    lines = []
+    for i in FILES:
+        filename = f'grammartext/{i}'
+        text = get_text_from_file(filename)
+        doc = nlp(text)
+        liste1 = [token.lemma_ for token in doc if token.pos_ not in ['PUNCT', 'SPACE']]
+        for t in set(liste1):
+            occu, mot = liste1.count(t), t
+            line = {
+                'fichier': i,
+                'mots': mot,
+                'occurence': occu,
+                'ratio': occu / len(text)
+            }
+            lines.append(line)
+    return pd.DataFrame(lines)
+
+
+def mediane(liste1):
+    a = len(liste1)
+    b = int(a/2)
+    c = b + 1
+    if b // 2 == 1:
+        b = sum(liste1[b], liste1[c])/2
+    return liste1[b]
+
+
 def main(files):
     lines = []
     for i in files:
@@ -85,10 +117,13 @@ def main(files):
 
 
 if __name__ == '__main__':
-    df = main(FILES)
+    table_kw = main(FILES)
+    table_at = get_all_table(FILES)
     print(df.head(10))
+    tabel_at = main(FILES)
+    occu = list(table_al.occurence)
+    print(mediane(occu))
     # df.to_excel('output.xlsx')
     # df.to_csv('output.csv')
     # print('output.xlsx done')
-
 
