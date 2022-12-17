@@ -5,13 +5,14 @@ import pandas as pd
 nlp = spacy.load("en_core_web_sm")
 
 FILES = ["aari_1994_o.txt"]
-         # "abun_1995_o.txt",
-         # "abun_19952_o.txt",
-         # "abu_1985_o.txt",
-         # "abun_19952_o.txt",
-         # "abun_1999_o.txt",
-         # "aari_1990_o.txt",
-         # "ani_2000_o.txt"]
+
+# "abun_1995_o.txt",
+# "abun_19952_o.txt",
+# "abu_1985_o.txt",
+# "abun_19952_o.txt",
+# "abun_1999_o.txt",
+# "aari_1990_o.txt",
+# "ani_2000_o.txt"]
 
 
 def get_text_from_file(file: str) -> str:
