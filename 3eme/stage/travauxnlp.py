@@ -89,13 +89,14 @@ def put_all_word_in_table(FILES):
         for t in set(liste1):
             occu, mot = liste1.count(t), t
             line = {
-                'fichier': i,
-                'mots': mot,
-                'occurence': occu,
-                'ratio': occu / len(text)
+                'langue': i,
+                'word': mot,
+                'word_occurence': occu,
                    }
             lines.append(line)
     return pd.DataFrame(lines)
+
+
 
 
 def put_test_in_table (files):
@@ -103,27 +104,28 @@ def put_test_in_table (files):
     for i in files:
         filename = f'grammartext/{i}'
         text = get_text_from_file(filename)
-        genders, tones, = test_all_files(text)
-        line = {
-            'file_name': i,
-            'tones': len(tones),
-            'genders': len(genders),
-            'ratio_tones': len(tones) / len(text),
-            'ratio_genders': len(genders) / len(text)
-           }
-        lines.append(line)
+        genders, tones = test_all_files(text)
+        line1 = {'langue': i,
+                 'gender/tone': 'genders',
+                 'k.occu': len(genders)}
+
+        line2 = {'langue': i,
+                 'gender/tone': 'tones',
+                 'k.occu': len(tones)}
+        lines.append(line1)
+        lines.append(line2)
     return pd.DataFrame(lines)
 
 
 if __name__ == '__main__':
     test = put_test_in_table(FILES)
-    word = put_all_word_in_table(FILES)
-    word2 = (word.sort_values(by=("occurence"), ascending=False))
-    occu = list(word2.occurence)
+    all_word2 = put_all_word_in_table(FILES)
+    # all_word2 = (all_word.sort_values(by=("occurence"), ascending=False))
+    occu = list(all_word2.word_occurence)
     print(test)
     print('\n')
-    print(word2)
+    print(all_word2)
     median = mediane(occu)
-    nb_gender = (int(test["genders"]))
+    nb_gender = (int(test.genders))
     answer_gender = exist_or_not_genders(nb_gender, median)
     print(answer_gender)

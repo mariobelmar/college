@@ -134,7 +134,7 @@ Evolution de l'entreprise
 
 - Histoire
 - Progrès
-
+/bin/bash: ligne 1: :wq : commande introuvable
 Exploration d’un métier
 =======================
 

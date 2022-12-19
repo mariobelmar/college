@@ -173,7 +173,7 @@ Basic introspection
   # 50%    33.000000
   # 75%    41.250000
   # max    99.000000
- 
+
 Important value_counts method
 ------------------------------
 
