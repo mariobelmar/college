@@ -18,12 +18,10 @@
 15   abun_1995_o.txt       tones       2                 1           1   True
 """
 import spacy
-# import sys
-# import csv
-# import numpy as np
+from statistics import median
 import pandas as pd
 
-# Définir la langue (an)
+# define language (en)
 nlp = spacy.load("en_core_web_sm")
 
 FILES = ["ani_2000_o.txt",
@@ -48,22 +46,24 @@ def get_text_from_file(file: str) -> str:
 
 def test_all_files(text):
     doc = nlp(text)
-    tones1 = [token for token in doc if token.text == 'tone']
-    tones2 = [token for token in doc if token.text == 'tones']
-    tones = tones1 + tones2
-    genders2 = [token for token in doc if token.text == 'gender']
-    genders1 = [token for token in doc if token.text == 'genders']
-    genders = genders1 + genders2
+    tones = [token for token in doc if token.text in ['tone', 'tones']]
+    genders = [token for token in doc if token.text in ['gender', 'genders']]
     return genders, tones
 
 
-def mediane(liste1):
-    a = len(liste1)
-    b = int(a/2)
-    c = b + 1
-    if b // 2 == 1:
-        b = sum(liste1[b], liste1[c])/2
-    return liste1[b]
+def mediane(words):
+    """
+    from statistics import median
+    """
+    mid = int(len(words) / 2)
+    mid_more_one = mid + 1
+
+    # if mid odd
+    if mid % 2 != 0:
+        mid = sum(words[mid], words[mid_more_one]) / 2
+    med = words[mid]
+    assert med == median(words)
+    return med
 
 
 def put_test_in_table (files):
@@ -73,39 +73,29 @@ def put_test_in_table (files):
         text = get_text_from_file(filename)
         doc = nlp(text)
         genders, tones = test_all_files(text)
-        liste1 = [token.lemma_ for token in doc if token.pos_ not in ['PUNCT', 'SPACE']]
-        pre_median = []
-        for t in set(liste1):
-            occu = liste1.count(t)
-            pre_median.append(occu)
-        median = mediane(pre_median)
+
+        words = [token.lemma_ for token in doc if token.pos_ not in ['PUNCT', 'SPACE']]
+        median = mediane([list1.count(t) for t in set(words)])
+
         gender_diff = len(genders) - median
         tone_diff  = len(tones) - median
-        if gender_diff > 0:
-            msg1 = True
-        else:
-            msg1 = False
-        if tone_diff > 0:
-            msg2 = True
-        else:
-            msg2 = False
-        line1 = {'langue': i[:-4],
-                 'gender/tone': 'genders',
-                 'k.occu': len(genders),
-                 'median_occurence': median,
-                 'difference': gender_diff,
-                 'has?': msg1}
-        line2 = {'langue': i[:-4],
-                 'gender/tone': 'tones',
-                 'k.occu': len(tones),
-                 'median_occurence': median,
-                 'difference': tone_diff,
-                 'has?': msg2}
-        lines.append(line1)
-        lines.append(line2)
+
+        line = {'langue': i[:-4],
+                'median_occu': median,
+                't.occu': len(tones),
+                'g.occu': len(genders),
+                't.diff': len(tones) - median,
+                'has_tone': True if tone_diff > 0 else False,
+                'g.diff': len(genders) - median,
+                'has_gender': True if gender_diff > 0 else False,
+                }
+        lines.append(line)
     return pd.DataFrame(lines)
 
 
 if __name__ == '__main__':
-    test = put_test_in_table(FILES)
-    print(test)
+    df = put_test_in_table(FILES)
+    df = df.sort_values(by=['t.occu', 'g.occu'], ascending=[True, True])
+    df.to_csv('langues_has_gender_tone.csv')
+    df.reset_index().to_feather('langues_has_gender_tone.feather')
+    print(df)
