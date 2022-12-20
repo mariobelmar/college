@@ -45,9 +45,9 @@ PLAN
 
 - Vendredi matin
 
-  - Régis: caractérisation d'ADN ancien 100% paléogénéticien
-  travail sur la  compréhension de l'évolution des éléphants il analyse donc les
-  ancetres des éléphants(mamouth)
+  - Régis: caractérisation d'ADN ancien 100% paléogénéticien travail sur la
+    compréhension de l'évolution des éléphants il analyse donc les ancetres des
+    éléphants(mamouth)
 
   - Etude:
     1. fac de biologie de l'évolution

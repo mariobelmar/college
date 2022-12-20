@@ -1,4 +1,4 @@
-=======================================================
+========================================================
 Rapport de stage au Laboratoire CNRS du musé de l'homme
 ========================================================
 
@@ -111,7 +111,7 @@ Décrire le service dans lequel tu effectues ton stage :
     génétique, si un chercheur a besoin d'une analyse adn d'un échantillon de salive,
     l'ingénieur en génétique s'en occupera
 
-- horaire de travail du service : 
+- horaire de travail du service :
     Dans le public il y a une énorme liberté de travail, il est demandé de faire 35
     heure par semaine mais en réalité le chercheur peut commencé de travailler et finir
     de travailler quand il veut. On lui demande simplement de produire des recherches.
@@ -119,7 +119,7 @@ Décrire le service dans lequel tu effectues ton stage :
 
 .. mermaid::
 
-  flowchart TB
+  flowchart LR
 
    cnrs(CNRS)
    mnhn("Museum National
@@ -139,8 +139,10 @@ Décrire le service dans lequel tu effectues ton stage :
    collection -.-> exposition
    mnhn --> muse
 
-   subgraph labo["Laboratoire d'eco-anthropologie"] 
+   subgraph labo["Laboratoire d'eco-anthropologie\n EA UMR 7206"]
     ensei
+    cherch
+    inge
       subgraph muse[Musée de l'homme]
          collection("gère la collection")
          restauration
@@ -148,7 +150,7 @@ Décrire le service dans lequel tu effectues ton stage :
       end
    end
 
-  
+
 Evolution de l'entreprise
 --------------------------
 
@@ -219,10 +221,10 @@ après un entretien d'embauche j'ai été pris
 
 Question 5 : Qu’est ce qui vous plaît le plus dans votre travail ?  création de votre entreprise ?
 
-Réponse 5 : 
+Réponse 5 :
   - Il y a plus de flexibilité par rapport au privé en terme d'horaires
   - plus de liberté de gestion de ses objectifs
-  - moins de compétion. 
+  - moins de compétion.
   - Tu peux faire des recherches sur le long terme.
   - Il y a cependant une forte baisse au niveau du salaire. Il est possible que je gagne
     deux fois plus en étant dans le privé.
@@ -236,7 +238,9 @@ décrivent la langue d'autre pays.
 
 Question 7 : Quels outils utilisez-vous ?
 
-Réponse 7 :
+Réponse 7 : Personellement je n'utilise qu'un ordinateur et quelques fois un
+enregistreur. Mais si on parle pour toute le laboratoire, on peut avoir besoin du
+laboratoire de génétique pour analysé de l'adn qu'on a trouvé sur le terrain.
 
 Question 8 :
 
