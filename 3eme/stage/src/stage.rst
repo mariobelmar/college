@@ -5,7 +5,10 @@ Rapport de stage au Laboratoire CNRS du musé de l'homme
 Introduction
 =============
 
-- J'ai rencontré mon maitre de stage dans mon "club" de stage.:
+- J'ai rencontré mon maitre de stage dans mon "club" de stage. Suite a cela il m'a
+  proposé avec mon frère de faire une visite son laboratoire. Grace a cela j'ai eu
+  l'idée de faire mon stage avec lui si je ne trouvais pas d'autre stage intéressant.
+
 
 Présentation de l’entreprise
 =================================
@@ -16,22 +19,29 @@ Carte d’identité de l’entreprise
 - date de création, bref historique type d’entreprise, secteur d’activité (primaire,
   secondaire, tertiaire).
 
+     Adresse : 57 rue Cuvier 75005 Paris
+     Secteur d'activité : Recherche, Enseignement, Collections, Diffusion, Valorisation
      J'étais dans le laboratoire d'eco-anthropologie umr 7206. Elle se situe dans le
      musée de l'homme. C'est une unité mixte de recherche du Centre national de la
      recherche scientiifque (CNRS), du Muséum nationnal d'hisoitre naturelle(MNHN) et de
      l'Université de Paris. C'est un laboratoire public.
 - Produit-elle des biens ou des services ? Lesquels ?
 
+    Production : connaissances, collections Elle produit 1 500 publications
+    scientifiques par an.
     Le laboratoire UMR 7206 developpe des recherches interdisciplinaire sur l'Homme,
     individuellement ou collectivement, et leur interactions avec l'environnement
-    Recherche + publications
+    Et le Muséum se consacre depuis des siècles à l’étude de la diversité biologique, géologique et
+    culturelle, et aux relations entre les humains et la nature.
 - Quelle est sa clientèle ?
 
     Pas de clientèle car pas de but lucratif. Peut-etre académique ou chercheurs qui
     viennent voir les collections mais ce n'est pas payant.
 - Quelle est sa taille ?
 
-    Concours CNRS, 100 pers
+    Environ 2 512 agents dont 622 agents dits hébergés, rattachés à d'autres
+    établissements ou organismes de recherche (comme le   CNRS, Université Paris Cité)
+    et près de 177 conventions de bénévolat
 - Quel est son périmètre d’activité (local, national, international) ?
 
     International
@@ -53,7 +63,7 @@ Les différents métiers
    * - Ingénieur
      -
    * - Chercheur
-     - Doctorat
+     - Doctorat + concours du CNRS pour etre embauché avec un CDI
    * - enseignant chercheur
      - Doctorat
 
@@ -83,18 +93,28 @@ Description d’un service
 
 Décrire le service dans lequel tu effectues ton stage :
 
-- nom du service : Diversité et évolution culturelle (laboratoire) était l'équipe de
+- nom du service :
+  Diversité et évolution culturelle (laboratoire) était l'équipe de
   mon maitre de stage. Le laboratoire tout entier s'appelle Laboratoire
-  d'eco-anthropologie umr 7206 affilier au CNRS et au Musé de l'homme.
+  d'eco-anthropologie umr 7206 affilier au CNRS et au Musé de l'homme ainsi qu'a Paris
+  Université
+
 - nombre de salariés :
     - tout les personnes(aussi celles qui s'occupent du musée): 1200 personnes
-    - laboratoire tout entier : 100 pers
+    - laboratoire tout entier : 104 pers
     - équipe de mon maitre de stage: 25
-- liaison avec les autres services de l’entreprise :
-  ingé--chercheur--ensei-chercheur Decrire
-- horaire de travail du service : 35/sem
 
-Un organigramme peut illustrer ton texte.
+- liaison avec les autres services de l’entreprise :
+    Les Ingénieurs sont aussi appellés 'personnel de support' leur role est d'aider les
+    chercheurs dans leur domaine. C'est pourquoi il existe plein d'Ingénieurs spécialisés
+    dans differents domaines. Certains sont dans l'administration d'autre s'occupe de la
+    génétique, si un chercheur a besoin d'une analyse adn d'un échantillon de salive,
+    l'ingénieur en génétique s'en occupera
+
+- horaire de travail du service : 
+    Dans le public il y a une énorme liberté de travail, il est demandé de faire 35
+    heure par semaine mais en réalité le chercheur peut commencé de travailler et finir
+    de travailler quand il veut. On lui demande simplement de produire des recherches.
 
 
 .. mermaid::
@@ -133,8 +153,30 @@ Evolution de l'entreprise
 --------------------------
 
 - Histoire
+
+    Créé en 1635, à l'origine jardin royal à vocation médicinale et lieu d'enseignement,
+    il est devenu Muséum d'Histoire naturelle à la Révolution, en 1793. Porteur d'un
+    héritage scientifique capital et tourné vers l’avenir, il apporte aujourd’hui un
+    éclairage scientifique sur les grands défis du XXIe siècle, en France et au-delà des
+    frontières. À la fois centre de recherche, musée et université, il mobilise pour
+    cela des disciplines, des métiers et des savoirs incomparables qu’il partage dans le
+    monde entier.
+
 - Progrès
-/bin/bash: ligne 1: :wq : commande introuvable
+
+    L'institution rassemble plus de 2 500 personnes, dont 600 chercheurs, abrite 67
+    millions de spécimens dans ses réserves et galeries, forme plus de 450 étudiants
+    par an et a accueilli 2,1 millions de visiteurs en 2021 dans ses 13 sites, à Paris
+    et en région.
+
+    Conservation, enrichissement, valorisation et mise à disposition de collections
+    exceptionnelles, recherche fondamentale et appliquée, enseignement
+    multidisciplinaire, expertise reconnue à l'échelle nationale et mondiale, action
+    éducative et diffusion des savoirs pour instruire un large public : l’étendue de ses
+    activités, croisant sciences naturelles, humaines et sociales, le positionne comme
+    une référence en matière d’enjeux écologiques et sociaux
+
+
 Exploration d’un métier
 =======================
 
@@ -157,18 +199,17 @@ Interview d’un professionnel
 
 Question 1 : En quoi consiste votre travail ?
 
-Réponse 1 : Thème principal de recherche porte donc sur l'élaboration et l'analyse des
-hypothèses linguistiques en terme de synchronie et diachronie. Interaction entre le
-language et le système cognitif humain.
+Réponse 1 : Le thème principal de recherche porte sur l'interaction entre le language et
+le système cognitif humain.
 
 Question 2 : Avant de commencer à travailler, avez-vous fait des études ? Lesquelles ?
 
-Réponse 2 : Licence en littérature arabe et science politiques, Master en linguistique,
-doctorat linguistique et trait. auto de langue.
+Réponse 2 : J'ai fait une licence en littérature arabe et science politiques, un Master en linguistique,
+et un doctorat en linguistique et traitement automatique des langues.
 
 Question 3 : Quel est votre parcours avant de travailler dans cette entreprise ?
 
-Réponse 3 : ASUS chef de produit concoir un produit plus gérer sa vente et son marketing
+Réponse 3 : ASUS chef de produit concoir un produit mais je devais aussi gérer sa vente et son marketing
 
 Question 4 : Comment s’est déroulé le processus de votre recrutement dans l’entreprise ou la
 création de votre entreprise ?
@@ -178,17 +219,22 @@ après un entretien d'embauche j'ai été pris
 
 Question 5 : Qu’est ce qui vous plaît le plus dans votre travail ?  création de votre entreprise ?
 
-Réponse 5 : + de flexibilité par rapport au privé au niveau des horaires, liberté de
-gestion de ses objectifs, - compétitif. Tu peux faire des recherches sur le long terme.
+Réponse 5 : 
+  - Il y a plus de flexibilité par rapport au privé en terme d'horaires
+  - plus de liberté de gestion de ses objectifs
+  - moins de compétion. 
+  - Tu peux faire des recherches sur le long terme.
+  - Il y a cependant une forte baisse au niveau du salaire. Il est possible que je gagne
+    deux fois plus en étant dans le privé.
 
 Question 6 : Que produisez-vous dans l'entreprise (dans le passé comme dans le passé) ?
 
 Réponse 6 : Mon travail consiste faire des recherches afin de produire des articles.
-J'ai aussi des projets avec d'autre pays sur le domaine de la linguistique. L'un
+J'ai aussi des projets avec des équipes d'autres pays sur le domaine de la linguistique. L'un
 d'entre eux consiste a automatiser la lecture des grammaires c'est à dire des livres qui
 décrivent la langue d'autre pays.
 
-Question 7 :
+Question 7 : Quels outils utilisez-vous ?
 
 Réponse 7 :
 
