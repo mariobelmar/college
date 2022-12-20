@@ -1,0 +1,9 @@
+Todo
+====
+- go from Gy, Gf, Ty, Tf to Gy, Gf, G?, Ty, Tf, T? 
+
+  - identify langs with T? and G?
+
+
+Done
+====
