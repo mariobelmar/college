@@ -1,38 +1,17 @@
-"""
-              langue gender/tone  k.occu  median_occurence  difference   has?
-0     ani_2000_o.txt     genders      16                 1          15   True
-1     ani_2000_o.txt       tones       7                 1           6   True
-2    aari_1994_o.txt     genders       6                 1           5   True
-3    aari_1994_o.txt       tones       0                 1          -1  False
-4   abun_19952_o.txt     genders       1                 1           0  False
-5   abun_19952_o.txt       tones      44                 1          43   True
-6     abu_1985_o.txt     genders      30                27           3   True
-7     abu_1985_o.txt       tones       8                27         -19  False
-8   abun_19952_o.txt     genders       1                 1           0  False
-9   abun_19952_o.txt       tones      44                 1          43   True
-10   abun_1999_o.txt     genders       2                 1           1   True
-11   abun_1999_o.txt       tones      49                 1          48   True
-12   aari_1990_o.txt     genders       6                 1           5   True
-13   aari_1990_o.txt       tones       4                 1           3   True
-14   abun_1995_o.txt     genders       0                 1          -1  False
-15   abun_1995_o.txt       tones       2                 1           1   True
-"""
 import spacy
-# import sys
-# import csv
-# import numpy as np
+from statistics import median
 import pandas as pd
 
 # Définir la langue (an)
 nlp = spacy.load("en_core_web_sm")
 
 FILES = ["ani_2000_o.txt",
-         "aari_1994_o.txt",
-         "abun_19952_o.txt",
-         "abu_1985_o.txt",
-         "abun_19952_o.txt",
-         "abun_1999_o.txt",
-         "aari_1990_o.txt",
+         # "aari_1994_o.txt",
+         # "abun_19952_o.txt",
+         # "abu_1985_o.txt",
+         # "abun_19952_o.txt",
+         # "abun_1999_o.txt",
+         # "aari_1990_o.txt",
          "abun_1995_o.txt"]
 
 
@@ -48,22 +27,18 @@ def get_text_from_file(file: str) -> str:
 
 def test_all_files(text):
     doc = nlp(text)
-    tones1 = [token for token in doc if token.text == 'tone']
-    tones2 = [token for token in doc if token.text == 'tones']
-    tones = tones1 + tones2
-    genders2 = [token for token in doc if token.text == 'gender']
-    genders1 = [token for token in doc if token.text == 'genders']
-    genders = genders1 + genders2
+    tones = [token for token in doc if token.text in ['tone', 'tones']]
+    genders = [token for token in doc if token.text in ['gender', 'genders']]
     return genders, tones
 
 
-def mediane(liste1):
-    a = len(liste1)
-    b = int(a/2)
-    c = b + 1
-    if b // 2 == 1:
-        b = sum(liste1[b], liste1[c])/2
-    return liste1[b]
+# def mediane1(words):
+#     mid = int(len(words) / 2)
+#     mid_more_one = mid + 1
+#     if mid % 2 != 0:
+#         mid = sum(words[mid], words[mid_more_one]) / 2
+#     med = words[mid]
+#     return med
 
 
 def put_test_in_table (files):
@@ -73,34 +48,38 @@ def put_test_in_table (files):
         text = get_text_from_file(filename)
         doc = nlp(text)
         genders, tones = test_all_files(text)
-        liste1 = [token.lemma_ for token in doc if token.pos_ not in ['PUNCT', 'SPACE']]
-        pre_median = []
-        for t in set(liste1):
-            occu = liste1.count(t)
-            pre_median.append(occu)
-        median = mediane(pre_median)
-        gender_diff = len(genders) - median
-        tone_diff  = len(tones) - median
-        if gender_diff > 0:
-            msg1 = True
+        words = [token.lemma_ for token in doc if token.pos_ not in ['PUNCT', 'SPACE']]
+        mediane = median([words.count(t) for t in set(words)])
+        gender_diff = int(len(genders) - mediane)
+        tone_diff  = int(len(tones) - mediane)
+        if gender_diff > 1:
+             has_gender = True
+        elif gender_diff < -1:
+             has_gender = False
         else:
-            msg1 = False
-        if tone_diff > 0:
-            msg2 = True
+             has_gender = None
+
+        if tone_diff > 1:
+             has_tone = True
+        elif tone_diff < -1:
+             has_tone = False
         else:
-            msg2 = False
+             has_tone = None
+
         line1 = {'langue': i[:-4],
                  'gender/tone': 'genders',
                  'k.occu': len(genders),
-                 'median_occurence': median,
+                 'median_occurence': mediane,
                  'difference': gender_diff,
-                 'has?': msg1}
+                 'has?': has_gender}
+
         line2 = {'langue': i[:-4],
                  'gender/tone': 'tones',
                  'k.occu': len(tones),
-                 'median_occurence': median,
+                 'median_occurence': mediane,
                  'difference': tone_diff,
-                 'has?': msg2}
+                 'has?': has_tone}
+
         lines.append(line1)
         lines.append(line2)
     return pd.DataFrame(lines)
