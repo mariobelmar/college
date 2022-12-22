@@ -6,12 +6,12 @@ import pandas as pd
 nlp = spacy.load("en_core_web_sm")
 
 FILES = ["ani_2000_o.txt",
-         # "aari_1994_o.txt",
-         # "abun_19952_o.txt",
+         "aari_1994_o.txt",
+         "abun_19952_o.txt",
          # "abu_1985_o.txt",
          # "abun_19952_o.txt",
          # "abun_1999_o.txt",
-         # "aari_1990_o.txt",
+         "aari_1990_o.txt",
          "abun_1995_o.txt"]
 
 
@@ -71,14 +71,14 @@ def put_test_in_table (files):
                  'k.occu': len(genders),
                  'median_occurence': mediane,
                  'difference': gender_diff,
-                 'has?': has_gender}
+                 'hasornot': has_gender}
 
         line2 = {'langue': i[:-4],
                  'gender/tone': 'tones',
                  'k.occu': len(tones),
                  'median_occurence': mediane,
                  'difference': tone_diff,
-                 'has?': has_tone}
+                 'hasornot': has_tone}
 
         lines.append(line1)
         lines.append(line2)

@@ -81,6 +81,9 @@ Objectif
 Théories
 --------
 
+Librairies et capacités
+~~~~~~~~~~~~~~~~~~~~~~~
+
 Article de Marc:
     - :cite:p:`her2022defining`
     - :cite:p:`ulrich2021identifying`
@@ -91,11 +94,40 @@ voir dans la Bibliography de la fin du document.
 
 Puis un test de citation en note de bas de page ici :footcite:p:`d2014recueils`
 
-voir doc spacy pour plus d'info
-  1. word segmentation
-  2. lemmatization
-  3. P.O.S tagging(trouver nature du mot)
-  4. dependency parsing(dépendance a d'autre mots dans la phrase)
+Je utiliser la librairie nlp appelés Spacy, qui est assez récente mais plus rapide.
+Voici le niveau d'analyse dont est capable Spacy:
+
+  1. La tokenisation ou word segmentation: découpé une phrase en plusieurs pièces, token
+     Ex: 'bonjour les amis' -> 'bonjour', 'les', 'amis'
+  2. lemmatization: donner la forme canonique du mot celle de base.
+     Ex: 'trouvaient' -> 'trouver'
+  3. P.O.S tagging: a partir de l'endroit ou se trouve le verbe
+     dans la phrase on assigne au mot(token) sa nature.
+     Ex: 'l'enfant mange une pomme' -> l'enfant : sujet | mange : verbe | etc..
+  4. dependency parsing: dépendance a d'autre mots dans la phrase, c'est aussi le
+     contexte.
+     Ex: un mot peut changer le sens d'un autre mot
+
+Il en existe beaucoup d'autre manière d'analyser un texte mais elle seront beaucoup trop
+longue a expliquées
+
+Méthode d'apprentissage
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Il existe pour l'instant 3 grandes familles d'aprentissage utilisés pour le nlp:
+  - Méthodes basés sur des règles
+      - résout des problèmes spécifiques (suprimer les spam a l'aide de mot clés 'promo')
+      - rapidement inefficace face a la complexité du langage
+  - Modèles de Machine Learning
+      - compréhension du langage
+      - utilise des données pré-traités
+      - utilise d'autre procédés matématique et statistiques(longueur des phrases,
+        occurrence de mots spécifiques)
+  - Modèles de Deep Learning
+      - Beaucoup plus complexes
+      - intègre une énorme quantités de données pour essayer de créer un système proche
+        de notre système neuronale
+
 
 Découverte du NLP
 ------------------
