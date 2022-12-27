@@ -2,7 +2,6 @@ import spacy
 from statistics import median
 import pandas as pd
 
-# Définir la langue (an)
 nlp = spacy.load("en_core_web_sm")
 
 FILES = ["ani_2000_o.txt",
@@ -16,10 +15,6 @@ FILES = ["ani_2000_o.txt",
 
 
 def get_text_from_file(file: str) -> str:
-    """
-    ouvrir le fichier texte 'alice.txt' ou permettre a python de le lire 'r'
-    myfile représente le fichier texte il peut donc en faire plusieurs chose
-    """
     with open(file, 'r') as myfile:
         text = myfile.read()
     return text
@@ -31,14 +26,14 @@ def test_all_files(text):
     genders = [token for token in doc if token.text in ['gender', 'genders']]
     return genders, tones
 
-
-# def mediane1(words):
-#     mid = int(len(words) / 2)
-#     mid_more_one = mid + 1
-#     if mid % 2 != 0:
-#         mid = sum(words[mid], words[mid_more_one]) / 2
-#     med = words[mid]
-#     return med
+def medianne(liste1):
+    liste2 = sorted(liste1)
+    nb = len(liste1)
+    mid = int(nb/2)
+    mid1 = mid + 1
+    if not nb % 2 == 0:
+        mid = int((liste2[mid] + liste2[mid1]) / 2)
+    return liste2[mid]
 
 
 def put_test_in_table (files):
@@ -49,7 +44,7 @@ def put_test_in_table (files):
         doc = nlp(text)
         genders, tones = test_all_files(text)
         words = [token.lemma_ for token in doc if token.pos_ not in ['PUNCT', 'SPACE']]
-        mediane = median([words.count(t) for t in set(words)])
+        mediane = medianne([words.count(t) for t in set(words)])
         gender_diff = int(len(genders) - mediane)
         tone_diff  = int(len(tones) - mediane)
         if gender_diff > 1:
@@ -88,3 +83,30 @@ def put_test_in_table (files):
 if __name__ == '__main__':
     test = put_test_in_table(FILES)
     print(test)
+
+# medianne
+         # langue gender/tone  k.occu  median_occurence  difference hasornot
+# 0    ani_2000_o     genders      16                 1          15     True
+# 1    ani_2000_o       tones       7                 1           6     True
+# 2   aari_1994_o     genders       6                 1           5     True
+# 3   aari_1994_o       tones       0                 1          -1     None
+# 4  abun_19952_o     genders       1                 2          -1     None
+# 5  abun_19952_o       tones      44                 2          42     True
+# 6   aari_1990_o     genders       6                 1           5     True
+# 7   aari_1990_o       tones       4                 1           3     True
+# 8   abun_1995_o     genders       0                 1          -1     None
+# 9   abun_1995_o       tones       2                 1           1     None
+# mediane
+#           langue gender/tone  k.occu  median_occurence  difference hasornot
+#  0    ani_2000_o     genders      16               1.0          15     True
+#  1    ani_2000_o       tones       7               1.0           6     True
+#  2   aari_1994_o     genders       6               1.0           5     True
+#  3   aari_1994_o       tones       0               1.0          -1     None
+#  4  abun_19952_o     genders       1               2.0          -1     None
+#  5  abun_19952_o       tones      44               2.0          42     True
+#  6   aari_1990_o     genders       6               1.0           5     True
+#  7   aari_1990_o       tones       4               1.0           3     True
+#  8   abun_1995_o     genders       0               2.0          -2    False
+#  9   abun_1995_o       tones       2               2.0           0     None
+
+
