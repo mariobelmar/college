@@ -1,7 +1,7 @@
 Mes travaux de NLP
 ======================
 
-Programme 
+Programme
 ----------
 
 - Lundi après-midi :
@@ -87,7 +87,7 @@ Objectif
   cette langue contient un système de ton, je vais donc chercher le nombre de fois
   qu'apparait le mot 'ton', et en fonction de cela je vais décider si la langue contient
   oui ou non un système de ton.
-  
+
 Théories
 --------
 
@@ -156,6 +156,11 @@ Mots clés :
    version transformé de cette chose. Ex: on donne a la fonction deux chiffre et elle
    nous renvoit la somme des deux.
 
+
+Premier code
++++++++++++++
+
+
 On appelle la librairie spacy, c'est une sorte d'extension qui me permet de faire
 plus de chose, ici de traiter des textes
 
@@ -202,11 +207,9 @@ Voila comment elle fonctionne:
 
         if token.pos_ == "VERB":
 
-
 .. code ::
 
             verbs.append(token.lemma_)
-
 
 Version plus compact qu'on appelle une **liste compréhensive** (qui fait la meme chose)
 
@@ -217,12 +220,105 @@ Version plus compact qu'on appelle une **liste compréhensive** (qui fait la mem
 C'etait le premier code que j'ai pu faire. L'intétralité du code se trouve dans 'Mes
 codes'
 
+Deuxième code
++++++++++++++
+
+Comme expliqué dans 'Objectifs' je vais rechercher certaines typologies de certaines
+langues. Je vais donc me concentrer sur la présence de Tons(en chinois mais aussi en
+espagnol), et la présence de genre(masc / fem / neut / etc...).
+Pour cela je vais choisir des mots clés, ici ce sera très facile, qui seront 'tone' et
+'gender' (mes pdf sont en anglais), dans certains cas il est plus compliqué de trouvé
+les bons mots clés(pour les système de multplication)
+
+J'ai donc une première fonction qui me permet de me donner le nombre de fois qu'apparait les mot
+'tone' et 'tones'. Cette fonction est assez similaire au programme qui me renvoit les
+verbes.
+
+.. code ::
+
+  def test_all_files(text):
+
+Elle récupère les mots 'gender' et 'genders'
+
+.. code ::
+
+    genders = [token for token in doc if token.text in ['gender', 'genders']]
+
+Elle récupère les mots 'tone' et 'tones'
+
+.. code ::
+
+    tones = [token for token in doc if token.text in ['tone', 'tones']]
+
+Si on schématise cette fonction cela donnerait
+
+.. mermaid ::
+
+  flowchart LR
+  a[(test_all_files)]
+  file(fichier texte / grammaire)
+  return(toutes les fois qu'apparait les mots tone et gender)
+  classDef red fill:#ff4040
+  file ==> a:::red ==> return
+
+A partir de la je vais vous expliquer d'abord le fonctionnement de la suite du
+programme.
+Après avoir récupéré le nombre d'occurences de mes mots clés, je vais pouvoir savoir si
+la langue possède bien ces typologies. Pour cela il faudra que je compare ce nombre
+d'occurences par rapport au reste du texte. Il y a plusieurs méthode.
+
+    - Calculer la moyenne
+        Problèmes: les mots appelés fonctions (the, of, etc..) vont réhausser la moyenne.
+        C'est le principe
+
+    - **Calculer la médiane**
+        C'est la méthode que je vais utiliser
+
+    - Autre méthode de marc
+
+Après cela il faut donc comparer cette médiane obtenue et le nombre d'occurrence des
+mots-clés. Mais si ces deux données sont trop proche on arrive au degré d'incertitude,
+il faut donc aussi prendre en compte cela.
+
+La dernière étape consiste a mettre ces données dans un tableau(j'utilise la librairie
+pandas pour faire les tableaux).
+
+En Bref il faudra:
+
+      1. créer une fonction **mediane**
+
+         .. def medianne(liste1):
+
+      2. comparer la médianne avec les occurrences
+
+         .. mermaid::
+
+           flowchart TB
+
+           nb("difference")
+           ex("égale a mediane - nombre d'occurence")
+           nb -.- ex
+           t -.-  T("possède cette typologie")
+           f -.- F("ne possède pas cette typologie")
+           n -.- N("écart trop petit")
+           N === i(incertitude)
+           subgraph a
+             nb -->A{"> 1"}
+             A -->|Yes| t(True)
+             A -->|No| B{"> -1"}
+             B -->|Yes| f(False)
+             B -->|No| n(None)
+             end
+
+      3. produire un tableau avec toutes les données
 
 
 Mes codes
 ~~~~~~~~~
 
+
 Premier code:
+
 .. code ::
 
   import spacy
