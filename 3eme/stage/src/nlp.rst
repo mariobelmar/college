@@ -78,6 +78,7 @@ Objectif
 
 - Mon premier objectif a été de produire un programme capable de donner les verbes et leur
   nombres dans un texte
+
 - Mon deuxieme a été de produire un programme capable de révéler la présence de typologies
   dans certaines langues a partir de mots clés.
   Je cherche dans une 'grammaire'(petit livre contenant l'intégralité de la grammaire d'une
@@ -302,15 +303,59 @@ En Bref il faudra:
            f -.- F("ne possède pas cette typologie")
            n -.- N("écart trop petit")
            N === i(incertitude)
-           subgraph a
+           subgraph Ornigramme
              nb -->A{"> 1"}
              A -->|Yes| t(True)
-             A -->|No| B{"> -1"}
+             A -->|No| B{"< -1"}
              B -->|Yes| f(False)
              B -->|No| n(None)
              end
 
       3. produire un tableau avec toutes les données
+
+
+.. list-table::
+   :widths: 50 50 50 50 50 50
+   :header-rows: 1
+   :stub-columns: 0
+
+   * - Langue/grammaires
+     - gender/tone
+     - k.occu
+     - median_occurence
+     - difference
+     - hasornot
+   * - ani_2000_o
+     - genders
+     - 16
+     - 1
+     - 15
+     - True
+   * - ani_2000_o
+     - tones
+     - 7
+     - 1
+     - 6
+     - True
+   * - aari_1994_o
+     - genders
+     - 6
+     - 1
+     - 5
+     - True
+   * - aari_1994_o
+     - tones
+     - 0
+     - 1
+     - -1
+     - None
+
+- **Fichier/grammaires** : fichier analysé
+- **gender/tone** : typologie recherché
+- **k.occu** : nombre de fois qu'apparait le mots clé
+- **median_occurrence** : mediane du texte
+- **difference** : comme dans l'ornigramme, k.occu - median_occurrence
+- **hasornot** : existence de la typologie recherchée
 
 
 Mes codes
