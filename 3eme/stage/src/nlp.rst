@@ -1,15 +1,25 @@
 Mes travaux de NLP
-======================
+==================
 
 Programme
 ----------
 
+- Lundi Matin
+
+Présentation du laboratoire.
+Rapide discussion avec les collègues/autres chercheurs et avec quelques stagiaires.
+Présentation des locaux de mon maitre de stage.
+
 - Lundi après-midi :
+
   Marc
-  Manel Valentin(ethnologue, responsable scientifique)
+  MManuel VALENTIN, ethnologue MNHN Responsable scientifique des collections
+  d'ethnologie au Musée de l'Homme
   visite des collections des objets du monde entier contemporain
 
 - Mardi matin
+  discussion avec marc sur ce qu'on allait faire pendant le stage.
+  
 
   Trier les documents
     A. Bon de commande
@@ -157,8 +167,8 @@ Mots clés :
    nous renvoit la somme des deux.
 
 
-Premier code
-+++++++++++++
+Exctraction de verbe
+++++++++++++++++++++
 
 
 On appelle la librairie spacy, c'est une sorte d'extension qui me permet de faire
@@ -220,8 +230,8 @@ Version plus compact qu'on appelle une **liste compréhensive** (qui fait la mem
 C'etait le premier code que j'ai pu faire. L'intétralité du code se trouve dans 'Mes
 codes'
 
-Deuxième code
-+++++++++++++
+Exctraction de typologies
+++++++++++++++++++++++++++
 
 Comme expliqué dans 'Objectifs' je vais rechercher certaines typologies de certaines
 langues. Je vais donc me concentrer sur la présence de Tons(en chinois mais aussi en
@@ -391,6 +401,7 @@ Premier code:
   verbs_set = sorted(list(set(verbs)))
   print(f'==> only verbs there are {len(verbs)}: {verbs}')
   print(f'==> only verbs without repetition there are {len(verbs_set)}: {verbs_set}')
+
 
 
 Conclusion
