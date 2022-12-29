@@ -1,4 +1,5 @@
 import spacy
+from math import floor
 from statistics import median
 import pandas as pd
 
@@ -7,9 +8,9 @@ nlp = spacy.load("en_core_web_sm")
 FILES = ["ani_2000_o.txt",
          "aari_1994_o.txt",
          "abun_19952_o.txt",
-         # "abu_1985_o.txt",
-         # "abun_19952_o.txt",
-         # "abun_1999_o.txt",
+         "abu_1985_o.txt",
+         "abun_19952_o.txt",
+         "abun_1999_o.txt",
          "aari_1990_o.txt",
          "abun_1995_o.txt"]
 
@@ -101,8 +102,12 @@ def put_test_in_table (files):
 
 
 if __name__ == '__main__':
-    test = put_test_in_table(FILES)
-    print(test)
+    df = put_test_in_table(FILES)
+    cc = ['gender/tone', 'hasornot', 'langue', 'k.occu', 'median_occurence', 'difference']
+    df.sort_values(by=['gender/tone', 'difference'])
+    df = df.loc[:, cc]
+    df.reset_index().to_feather('out.feather')
+    print(df)
 
 
 
