@@ -84,29 +84,5 @@ if __name__ == '__main__':
     test = put_test_in_table(FILES)
     print(test)
 
-# medianne
-         # langue gender/tone  k.occu  median_occurence  difference hasornot
-# 0    ani_2000_o     genders      16                 1          15     True
-# 1    ani_2000_o       tones       7                 1           6     True
-# 2   aari_1994_o     genders       6                 1           5     True
-# 3   aari_1994_o       tones       0                 1          -1     None
-# 4  abun_19952_o     genders       1                 2          -1     None
-# 5  abun_19952_o       tones      44                 2          42     True
-# 6   aari_1990_o     genders       6                 1           5     True
-# 7   aari_1990_o       tones       4                 1           3     True
-# 8   abun_1995_o     genders       0                 1          -1     None
-# 9   abun_1995_o       tones       2                 1           1     None
-# mediane
-#           langue gender/tone  k.occu  median_occurence  difference hasornot
-#  0    ani_2000_o     genders      16               1.0          15     True
-#  1    ani_2000_o       tones       7               1.0           6     True
-#  2   aari_1994_o     genders       6               1.0           5     True
-#  3   aari_1994_o       tones       0               1.0          -1     None
-#  4  abun_19952_o     genders       1               2.0          -1     None
-#  5  abun_19952_o       tones      44               2.0          42     True
-#  6   aari_1990_o     genders       6               1.0           5     True
-#  7   aari_1990_o       tones       4               1.0           3     True
-#  8   abun_1995_o     genders       0               2.0          -2    False
-#  9   abun_1995_o       tones       2               2.0           0     None
 
 

@@ -12,7 +12,6 @@ Programme
 - Mardi matin
 
   Trier les documents
-
     A. Bon de commande
     B. Ordre de mission
 
@@ -286,11 +285,13 @@ pandas pour faire les tableaux).
 
 En Bref il faudra:
 
-      1. créer une fonction **mediane**
+* Créer une fonction **mediane**
 
-         .. def medianne(liste1):
+.. code ::
 
-      2. comparer la médianne avec les occurrences
+     def medianne(liste1):
+
+* Comparer la médianne avec les occurrences
 
          .. mermaid::
 
@@ -311,7 +312,8 @@ En Bref il faudra:
              B -->|No| n(None)
              end
 
-      3. produire un tableau avec toutes les données
+* Produire un tableau avec toutes les données
+     Pour produire un tableau j'utilise une autre librairie appelé pandas.
 
 
 .. list-table::
