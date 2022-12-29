@@ -75,7 +75,7 @@ def put_test_in_table (files):
         genders, tones = test_all_files(text)
 
         words = [token.lemma_ for token in doc if token.pos_ not in ['PUNCT', 'SPACE']]
-        median = mediane([words.count(t) for t in set(words)])
+        median = median([words.count(t) for t in set(words)])
 
         gender_diff = len(genders) - median
         tone_diff  = len(tones) - median
