@@ -1,4 +1,5 @@
 from statistics import median
+from math import floor
 
 
 
@@ -26,25 +27,18 @@ def medianne(ll: list[int]) -> int:
         L_idx = int((size / 2) - 1)
         median = (liste[L_idx] + liste[R_idx]) / 2
     else:
-        pass
-        # mid = floor(size / 2)
-        # print('mid')
-
-    # mid = int(size/2)
-    # mid1 = mid + 1
-    # # if even
-    # if not size % 2 == 0:
-    #     mid = int((liste[mid] + liste[mid1]) / 2)
-    # # if odd
+        mid = int(floor(size/2))
+        median = liste[mid]
 
     return median
 
 
 if __name__ == '__main__':
 
-    liste = [2, 4 ,3, 6, 6 ,3 ,7, 10, 30, 2]
     liste = [1, 7, 6 , 0]
     liste = [2, 6, 6 , 30, 5]
+    liste = [2, 4 ,3, 6, 6 ,3 ,7, 10, 30, 2]
+    liste = [2, 4 ,3, 6, 6 ,3, 1, 3, 7, 10, 30, 2, 2400]
 
     print(liste)
     print(f'mine :{medianne(liste)}')
