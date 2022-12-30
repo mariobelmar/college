@@ -262,7 +262,14 @@ Elle récupère les mots 'tone' et 'tones'
 
 Si on schématise cette fonction cela donnerait
 
-.. mermaid ::
+
+illustration de la fonctiono
+
+.. mermaid::
+
+  ---
+  title: fonction test_all_files
+  ---
 
   flowchart LR
   a[(test_all_files)]
@@ -270,6 +277,7 @@ Si on schématise cette fonction cela donnerait
   return(toutes les fois qu'apparait les mots tone et gender)
   classDef red fill:#ff4040
   file ==> a:::red ==> return
+
 
 A partir de la je vais vous expliquer d'abord le fonctionnement de la suite du
 programme.
@@ -301,12 +309,16 @@ En Bref il faudra:
 
      def medianne(liste1):
 
-* Comparer la médianne avec les occurrences
+* Comparer la médianne avec les occurrences et
+
 
          .. mermaid::
 
-           flowchart TB
+           ---
+           title: à trouver
+           ---
 
+           flowchart TB
            nb("difference")
            ex("égale a mediane - nombre d'occurence")
            nb -.- ex
@@ -324,9 +336,10 @@ En Bref il faudra:
 
 * Produire un tableau avec toutes les données
      Pour produire un tableau j'utilise une autre librairie appelé pandas.
+     ---
+     title:      ---
 
-
-.. list-table::
+.. list-table:: tableau final d'extraction de typologies(ton et genre)
    :widths: 50 50 50 50 50 50
    :header-rows: 1
    :stub-columns: 0

@@ -57,6 +57,26 @@ def medianne(ll: list[int]) -> int:
     return median
 
 
+def has_key(diff):
+        if diff > 1:
+             has_key = True
+        elif diff < -1:
+             has_key = False
+        else:
+             has_key = None
+        return has_key
+
+
+def get_line(i, name_key, list_key, mediane):
+        line = {'langue': i[:-4],
+                 'gender/tone': name_key,
+                 'k.occu': len(list_key),
+                 'median_occurence': mediane,
+                 'difference': len(list_key) - mediane,
+                 'hasornot': has_key(len(list_key) - mediane)}
+        return line
+
+
 def put_test_in_table (files):
     lines = []
     for i in files:
@@ -65,37 +85,13 @@ def put_test_in_table (files):
         doc = nlp(text)
         genders, tones = test_all_files(text)
         words = [token.lemma_ for token in doc if token.pos_ not in ['PUNCT', 'SPACE']]
-        mediane = medianne([words.count(t) for t in set(words)])
+        mediane = int(medianne([words.count(t) for t in set(words)]))
         gender_diff = int(len(genders) - mediane)
         tone_diff  = int(len(tones) - mediane)
-        if gender_diff > 1:
-             has_gender = True
-        elif gender_diff < -1:
-             has_gender = False
-        else:
-             has_gender = None
-
-        if tone_diff > 1:
-             has_tone = True
-        elif tone_diff < -1:
-             has_tone = False
-        else:
-             has_tone = None
-
-        line1 = {'langue': i[:-4],
-                 'gender/tone': 'genders',
-                 'k.occu': len(genders),
-                 'median_occurence': mediane,
-                 'difference': gender_diff,
-                 'hasornot': has_gender}
-
-        line2 = {'langue': i[:-4],
-                 'gender/tone': 'tones',
-                 'k.occu': len(tones),
-                 'median_occurence': mediane,
-                 'difference': tone_diff,
-                 'hasornot': has_tone}
-
+        has_gender = has_key(gender_diff)
+        has_tone = has_key(tone_diff)
+        line1 = get_line(i, 'gender', genders, mediane)
+        line2 = get_line(i, 'tons', tones, mediane)
         lines.append(line1)
         lines.append(line2)
     return pd.DataFrame(lines)
@@ -106,7 +102,7 @@ if __name__ == '__main__':
     cc = ['gender/tone', 'hasornot', 'langue', 'k.occu', 'median_occurence', 'difference']
     df.sort_values(by=['gender/tone', 'difference'])
     df = df.loc[:, cc]
-    df.reset_index().to_feather('out.feather')
+    df.reset_index().to_feather('out2.feather')
     print(df)
 
 

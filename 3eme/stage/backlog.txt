@@ -1,14 +1,13 @@
 Todo
 ====
-- make to csv
 - rename variables
-- make function for line1 and line2
-- make function for True, False, None: has_key
 
 Done
 ====
+- make function for line1 and line2
+- make to csv
+- make function for True, False, None: has_key
 - sort dataframe
 - make feather
 - go from Gy, Gf, Ty, Tf to Gy, Gf, G?, Ty, Tf, T? 
-
   - identify langs with T? and G?
