@@ -4,83 +4,92 @@ Mes travaux de NLP
 Programme
 ----------
 
-- Lundi Matin
+- **Lundi Matin**
 
-Présentation du laboratoire.
-Rapide discussion avec les collègues/autres chercheurs et avec quelques stagiaires.
-Présentation des locaux de mon maitre de stage.
+   - Présentation du laboratoire
 
-- Lundi après-midi :
+   - Rapide discussion avec les collègues/autres chercheurs et avec quelques
+     autres stagiaires.
 
-  Marc
-  MManuel VALENTIN, ethnologue MNHN Responsable scientifique des collections
-  d'ethnologie au Musée de l'Homme
-  visite des collections des objets du monde entier contemporain
+   - Présentation des locaux de mon maitre de stage.
 
-- Mardi matin
-  discussion avec marc sur ce qu'on allait faire pendant le stage.
-  
+- **Lundi après-midi** :
 
-  Trier les documents
-    A. Bon de commande
-    B. Ordre de mission
+    - Discussion avec marc sur ce qu'on allait faire pendant le stage.
 
-- Mardi après-midi
+    - Manuel VALENTIN, ethnologue MNHN Responsable scientifique des collections
+      d'ethnologie au Musée de l'Homme.
 
-  - Soutenance de stage
+        - Visite des collections des objets du monde entier contemporain
 
-  - Trier les documents:
+- **Mardi matin**
 
-    A. Bon de commande
-    B. Ordre de mission
+   - Début du tri de document avec Taoues
 
-  - Code
+- **Mardi après-midi**
 
-- Mercredi matin
-  - Trier les documents
-  - Soutenance de stage
+   - Soutenance de thèse de Margaux BIEUVILLE, doctorante Université Paris Cité en
+     Biodemographie, sur la biologie évolutive et le developpement.
 
-- Mercredi après midi
-  - Trier les documents
+   - Trier les documents
 
-- Jeudi matin
-  - Trier les documents
-  - Boxe
+   - Début du code avec Marc
 
-- Jeudi après midi
-  - Marie Claude
-  - Séminaire
-  - Visite des collections d'ossements humains non présenté lors des expositions
+- **Mercredi matin**
 
-- Vendredi matin
+   - Trier les documents
 
-  - Régis: caractérisation d'ADN ancien 100% paléogénéticien travail sur la
-    compréhension de l'évolution des éléphants il analyse donc les ancetres des
-    éléphants(mamouth)
+   - Soutenance de thèse de Caroline GERARD, doctorante MNHN en primatologie sur la
+     prise alimentaire des bonobos en RDC.
 
-  - Etude:
-    1. fac de biologie de l'évolution
+- **Mercredi après midi**
 
-    2. doctorat histoire de l'évolution de éléphants
+   - Trier les documents
 
-  - travail au mnhn pour extraire informations génétiques des collections du musé
+- **Jeudi matin**
 
-  - Travail fait:
-    - dillution d'adn d'un échantillon de vertèbre de poisson
-    - but -> que mangait les homme pré. le long de la Loire?
+   - Trier les documents
 
-  1. Dillution de l'adn grace a une micro-pipette
+- **Jeudi après midi**
 
-     - déposer diluant
-     - déposer adn dans le diluant
+   - Marie-Claude Kergoat, Généticienne (Paléogénomique) CEA
 
-  2. Electrophorèse cappilaire
+   - Seminaire de recherche d'Aline THOMAS sur Momies et Insecte
 
-    Ajout de liquide fluoerescent pour la machine
-    --> bande d'ADN
+   - Liliana HUET, gestionnaire MNHN des collections d'anthropologies et biologiques
 
-- Vendredi après-midi
+       - Visite des collection anthropologique, cranes, squelettes, momies
+         (collection jamais exposés) etc..
 
+- **Vendredi matin**
+
+   - Régis Regis DEBRUYNE, Anthropologue MNHN, paléogénéticien. Travaille sur la
+     compréhension de l'évolution des éléphants il analyse donc les ancetres des
+     éléphants(mamouth)
+
+     1. travaille au mnhn pour extraire informations génétiques des collections du 
+        musé
+
+     2. Activitée faite: Dillution d'adn d'un échantillon de vertèbre de poisson 
+
+        A. dillution d'adn d'un échantillon de vertèbre de poisson a l'aide d'un
+           micro-pippette
+
+           1. déposer diluant
+           2. déposer adn dans le diluant
+           3. but -> que mangait les homme pré. le long de la Loire?
+
+        B. Electrophorèse cappilaire
+
+           1. Ajout de liquide fluoerescent pour la machine
+           2. resultat: bande d'ADN
+
+- **Vendredi après-midi**
+
+  - Nicolas CESARD, ethno-entomologue MNHN
+
+  - Paul VERDU, chercheur en génétique des populations CNRS, soutenance HDR sur
+    "Histoires de Métissages"
 
 Objectif
 --------
@@ -309,7 +318,7 @@ En Bref il faudra:
 
      def medianne(liste1):
 
-* Comparer la médianne avec les occurrences et
+Comparer la médianne avec les occurrences et
 
 
          .. mermaid::
@@ -334,46 +343,44 @@ En Bref il faudra:
              B -->|No| n(None)
              end
 
-* Produire un tableau avec toutes les données
+Produire un tableau avec toutes les données
      Pour produire un tableau j'utilise une autre librairie appelé pandas.
-     ---
-     title:      ---
 
-.. list-table:: tableau final d'extraction de typologies(ton et genre)
-   :widths: 50 50 50 50 50 50
-   :header-rows: 1
-   :stub-columns: 0
+         .. list-table:: tableau final d'extraction de typologies(ton et genre)
+            :widths: 50 50 50 50 50 50
+            :header-rows: 1
+            :stub-columns: 0
 
-   * - Langue/grammaires
-     - gender/tone
-     - k.occu
-     - median_occurence
-     - difference
-     - hasornot
-   * - ani_2000_o
-     - genders
-     - 16
-     - 1
-     - 15
-     - True
-   * - ani_2000_o
-     - tones
-     - 7
-     - 1
-     - 6
-     - True
-   * - aari_1994_o
-     - genders
-     - 6
-     - 1
-     - 5
-     - True
-   * - aari_1994_o
-     - tones
-     - 0
-     - 1
-     - -1
-     - None
+            * - Langue/grammaires
+              - gender/tone
+              - k.occu
+              - median-occurence
+              - difference
+              - hasornot
+            * - ani_2000_o
+              - genders
+              - 16
+              - 1
+              - 15
+              - True
+            * - ani_2000_o
+              - tones
+              - 7
+              - 1
+              - 6
+              - True
+            * - aari_1994_o
+              - genders
+              - 6
+              - 1
+              - 5
+              - True
+            * - aari_1994_o
+              - tones
+              - 0
+              - 1
+              - -1
+              - None
 
 - **Fichier/grammaires** : fichier analysé
 - **gender/tone** : typologie recherché

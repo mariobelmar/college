@@ -61,11 +61,11 @@ Les différents métiers
    * - Métier
      - études requises
    * - Ingénieur
-     -
+     - Très variables en fonctions du type de support
    * - Chercheur
-     - Doctorat + concours du CNRS pour etre embauché avec un CDI
-   * - enseignant chercheur
-     - Doctorat
+     - Doctorat et il faut passé un concours du CNRS pour etre embauché avec un CDI
+   * - Enseignant chercheur
+     - Doctorat et concours
 
 
 
@@ -76,15 +76,19 @@ Les différents métiers
 
    * - Exemple de Métier
      - Exemple de étude
-   * - enseignant chercheur, responsable scientifiques des collections,
+
+   * - Enseignant chercheur, responsable scientifiques des collections,
      - Histoire de l'art : Louvre,
        Lettre moderne : Paris 4,
        ethnologie : école pratique des hautes études,
        Histoire : Paris Sorbonne.
-   * - ingénieur/administratif
+
+   * - Responsable administratif et financier (RAF)
      - Master en droit.
-   * - Régis, ingénieur
-     - dfsdf
+
+   * - Ingénieur/Paléogénéticien
+     - 1. Faculté de biologie de l'évolution
+       2. doctorat sur l'histoire de l'évolution de éléphants
 
 
 
@@ -201,27 +205,26 @@ Interview d’un professionnel
 
 Question 1 : En quoi consiste votre travail ?
 
-Réponse 1 : Le thème principal de recherche porte sur l'interaction entre le language et
-le système cognitif humain.
+  Le thème principal de recherche porte sur l'interaction entre le language et
+  le système cognitif humain.
 
 Question 2 : Avant de commencer à travailler, avez-vous fait des études ? Lesquelles ?
 
-Réponse 2 : J'ai fait une licence en littérature arabe et science politiques, un Master en linguistique,
-et un doctorat en linguistique et traitement automatique des langues.
+  J'ai fait une licence en littérature arabe et science politiques, un Master en linguistique,
+  et un doctorat en linguistique et traitement automatique des langues.
 
 Question 3 : Quel est votre parcours avant de travailler dans cette entreprise ?
 
-Réponse 3 : ASUS chef de produit concoir un produit mais je devais aussi gérer sa vente et son marketing
+  ASUS chef de produit concoir un produit mais je devais aussi gérer sa vente et son marketing
 
-Question 4 : Comment s’est déroulé le processus de votre recrutement dans l’entreprise ou la
-création de votre entreprise ?
+Question 4 : Comment s’est déroulé le processus de votre recrutement dans l’entreprise ou la création
+de votre entreprise ?
 
-Réponse 4 : Grace au concours du CNRS qui a lieu tous les ans, J'ai postulé puis été séléctioné et
-après un entretien d'embauche j'ai été pris
+  Grace au concours du CNRS qui a lieu tous les ans, J'ai postulé puis été séléctioné et
+  après un entretien d'embauche j'ai été pris
 
 Question 5 : Qu’est ce qui vous plaît le plus dans votre travail ?  création de votre entreprise ?
 
-Réponse 5 :
   - Il y a plus de flexibilité par rapport au privé en terme d'horaires
   - plus de liberté de gestion de ses objectifs
   - moins de compétion.
@@ -231,16 +234,17 @@ Réponse 5 :
 
 Question 6 : Que produisez-vous dans l'entreprise (dans le passé comme dans le passé) ?
 
-Réponse 6 : Mon travail consiste faire des recherches afin de produire des articles.
-J'ai aussi des projets avec des équipes d'autres pays sur le domaine de la linguistique. L'un
-d'entre eux consiste a automatiser la lecture des grammaires c'est à dire des livres qui
-décrivent la langue d'autre pays.
+  Mon travail consiste faire des recherches afin de produire des articles.
+  J'ai aussi des projets avec des équipes d'autres pays sur le domaine de la linguistique.
+
+  L'un d'entre eux consiste a automatiser la lecture des grammaires c'est à dire des
+  livres qui décrivent la langue d'autre pays.
 
 Question 7 : Quels outils utilisez-vous ?
 
-Réponse 7 : Personellement je n'utilise qu'un ordinateur et quelques fois un
-enregistreur. Mais si on parle pour toute le laboratoire, on peut avoir besoin du
-laboratoire de génétique pour analysé de l'adn qu'on a trouvé sur le terrain.
+  Personellement je n'utilise qu'un ordinateur et quelques fois un
+  enregistreur. Mais si on parle pour toute le laboratoire, on peut avoir besoin du
+  laboratoire de génétique pour analysé de l'adn qu'on a trouvé sur le terrain.
 
 Question 8 :
 
