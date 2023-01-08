@@ -66,3 +66,19 @@ html_static_path = ['_static']
 html_css_files = [
     'css/custom.css'
 ]
+
+
+# %% RO, LE will not work for 'oneside' layout.
+# %% Change oneside to twoside in document class
+
+# \usepackage{fancyhdr}
+# \pagestyle{fancy}
+# \fancyhf{}
+# %% % Alternating Header for two side
+# % \fancyhead[RO]{\small \nouppercase{\rightmark}}
+# %\fancyhead[LE]{\small \nouppercase{\leftmark}}
+
+# \pagestyle{fancy}
+# \fancyfoot{}
+# \renewcommand{\footrulewidth}{0.4pt}
+# \fancyfoot[RO,LE]{\thepage}

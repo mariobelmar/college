@@ -5,7 +5,7 @@ Rapport de stage au Laboratoire CNRS du musé de l'homme
 Introduction
 =============
 
-- J'ai rencontré mon maitre de stage dans mon "club" de stage. Suite a cela il m'a
+- J'ai rencontré mon maitre de stage dans mon "club" de boxe. Suite a cela il m'a
   proposé avec mon frère de faire une visite son laboratoire. Grace a cela j'ai eu
   l'idée de faire mon stage avec lui si je ne trouvais pas d'autre stage intéressant.
 
@@ -19,20 +19,20 @@ Carte d’identité de l’entreprise
 - date de création, bref historique type d’entreprise, secteur d’activité (primaire,
   secondaire, tertiaire).
 
-     Adresse : 57 rue Cuvier 75005 Paris
-     Secteur d'activité : Recherche, Enseignement, Collections, Diffusion, Valorisation
-     J'étais dans le laboratoire d'eco-anthropologie umr 7206. Elle se situe dans le
-     musée de l'homme. C'est une unité mixte de recherche du Centre national de la
-     recherche scientiifque (CNRS), du Muséum nationnal d'hisoitre naturelle(MNHN) et de
-     l'Université de Paris. C'est un laboratoire public.
+     - Adresse : 57 rue Cuvier 75005 Paris
+     - Secteur d'activité : Recherche, Enseignement, Collections, Diffusion, Valorisation
+     - J'étais dans le laboratoire d'eco-anthropologie umr 7206. Elle se situe dans le
+       musée de l'homme. C'est une unité mixte de recherche du Centre national de la
+       recherche scientiifque (CNRS), du Muséum nationnal d'hisoitre naturelle(MNHN) et de
+       l'Université de Paris. C'est un laboratoire public.
 - Produit-elle des biens ou des services ? Lesquels ?
 
-    Production : connaissances, collections Elle produit 1 500 publications
-    scientifiques par an.
-    Le laboratoire UMR 7206 developpe des recherches interdisciplinaire sur l'Homme,
-    individuellement ou collectivement, et leur interactions avec l'environnement
-    Et le Muséum se consacre depuis des siècles à l’étude de la diversité biologique, géologique et
-    culturelle, et aux relations entre les humains et la nature.
+    - Production : connaissances, collections Elle produit 1 500 publications
+      scientifiques par an.
+    - Le laboratoire UMR 7206 developpe des recherches interdisciplinaire sur l'Homme,
+      individuellement ou collectivement, et leur interactions avec l'environnement
+      Et le Muséum se consacre depuis des siècles à l’étude de la diversité biologique, géologique et
+      culturelle, et aux relations entre les humains et la nature.
 - Quelle est sa clientèle ?
 
     Pas de clientèle car pas de but lucratif. Peut-etre académique ou chercheurs qui
@@ -53,7 +53,7 @@ Les différents métiers
   type de diplôme nécessaire pour l’exercer ainsi que le nombre d’années d’étude
   nécessaire.
 
-.. list-table::
+.. list-table:: métiers exercés
    :widths: 100 100
    :header-rows: 1
    :stub-columns: 0
@@ -69,7 +69,7 @@ Les différents métiers
 
 
 
-.. list-table::
+.. list-table:: exemple métiers exercés
    :widths: 100 100
    :header-rows: 1
    :stub-columns: 0
@@ -123,8 +123,10 @@ Décrire le service dans lequel tu effectues ton stage :
 
 .. mermaid::
 
+  ---
+  title: ornigramme du fonctionnement du laboratoire
+  ---
   flowchart LR
-
    cnrs(CNRS)
    mnhn("Museum National
          d'Histoire Naturelle")

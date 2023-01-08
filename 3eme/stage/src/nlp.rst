@@ -271,22 +271,17 @@ Elle récupère les mots 'tone' et 'tones'
 
 Si on schématise cette fonction cela donnerait
 
-
-illustration de la fonctiono
-
 .. mermaid::
 
   ---
   title: fonction test_all_files
   ---
-
   flowchart LR
   a[(test_all_files)]
-  file(fichier texte / grammaire)
+  file(fichier texte  grammaire)
   return(toutes les fois qu'apparait les mots tone et gender)
   classDef red fill:#ff4040
   file ==> a:::red ==> return
-
 
 A partir de la je vais vous expliquer d'abord le fonctionnement de la suite du
 programme.
@@ -318,33 +313,32 @@ En Bref il faudra:
 
      def medianne(liste1):
 
-Comparer la médianne avec les occurrences et
+Puis, il faut comparer la médianne avec les occurrences et produire un tableau avec
+toutes les données.
 
+.. mermaid::
 
-         .. mermaid::
+  ---
+  title : fonction qui compare la difference a la médiane
+  ---
 
-           ---
-           title: à trouver
-           ---
+  flowchart TB
+  nb("difference")
+  ex("égale a mediane - nombre d'occurence")
+  nb -.- ex
+  t -.-  T("possède cette typologie")
+  f -.- F("ne possède pas cette typologie")
+  n -.- N("écart trop petit")
+  N === i(incertitude)
+  subgraph Ornigramme
+    nb -->A{"> 1"}
+    A -->|Yes| t(True)
+    A -->|No| B{"< -1"}
+    B -->|Yes| f(False)
+    B -->|No| n(None)
+    end
 
-           flowchart TB
-           nb("difference")
-           ex("égale a mediane - nombre d'occurence")
-           nb -.- ex
-           t -.-  T("possède cette typologie")
-           f -.- F("ne possède pas cette typologie")
-           n -.- N("écart trop petit")
-           N === i(incertitude)
-           subgraph Ornigramme
-             nb -->A{"> 1"}
-             A -->|Yes| t(True)
-             A -->|No| B{"< -1"}
-             B -->|Yes| f(False)
-             B -->|No| n(None)
-             end
-
-Produire un tableau avec toutes les données
-     Pour produire un tableau j'utilise une autre librairie appelé pandas.
+Pour produire un tableau j'utilise une autre librairie appelé pandas.
 
          .. list-table:: tableau final d'extraction de typologies(ton et genre)
             :widths: 50 50 50 50 50 50

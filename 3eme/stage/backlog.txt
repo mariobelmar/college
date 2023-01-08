@@ -1,9 +1,11 @@
 Todo
 ====
+- improve and add questions/answer
 - rename variables
 
 Done
 ====
+- rename table and schem
 - make function for line1 and line2
 - make to csv
 - make function for True, False, None: has_key
