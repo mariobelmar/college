@@ -1,10 +1,13 @@
 Todo
 ====
-- improve and add questions/answer
+- add questions/answer
 - rename variables
+- add image
 
 Done
 ====
+- improve and questions/answer
+- rename variables
 - rename table and schem
 - make function for line1 and line2
 - make to csv

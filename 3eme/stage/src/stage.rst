@@ -109,16 +109,21 @@ Décrire le service dans lequel tu effectues ton stage :
     - équipe de mon maitre de stage: 25
 
 - liaison avec les autres services de l’entreprise :
-    Les Ingénieurs sont aussi appellés 'personnel de support' leur role est d'aider les
-    chercheurs dans leur domaine. C'est pourquoi il existe plein d'Ingénieurs spécialisés
-    dans differents domaines. Certains sont dans l'administration d'autre s'occupe de la
-    génétique, si un chercheur a besoin d'une analyse adn d'un échantillon de salive,
-    l'ingénieur en génétique s'en occupera
+    - Les Ingénieurs sont aussi appellés 'personnel de support' leur role est d'aider
+      les chercheurs dans leur domaine. C'est pourquoi il existe plein d'Ingénieurs
+      spécialisés dans differents domaines. Certains sont dans l'administration d'autre
+      s'occupe de la génétique, si un chercheur a besoin d'une analyse adn d'un
+      échantillon de salive, l'ingénieur en génétique s'en occupera
+    - A l'UMR 7206 les domaines d'études des chercheurs étaient tous differents mais
+      mais ils entrenaient tous une bonne relation
+    - Les enseignants-chercheurs, quant a eux était surtout
+      dans les universités(80% du temps).
 
 - horaire de travail du service :
     Dans le public il y a une énorme liberté de travail, il est demandé de faire 35
     heure par semaine mais en réalité le chercheur peut commencé de travailler et finir
-    de travailler quand il veut. On lui demande simplement de produire des recherches.
+    de travailler quand il veut. On lui demande simplement de produire des
+    publier 2 a 3 recherches par an.
 
 
 .. mermaid::
@@ -129,7 +134,7 @@ Décrire le service dans lequel tu effectues ton stage :
   flowchart LR
    cnrs(CNRS)
    mnhn("Museum National
-         d'Histoire Naturelle")
+         d')Histoire Naturelle")
    univ(Paris Université)
    inge("Ingénieur
          soutient les chercheur")
@@ -205,27 +210,29 @@ Interview d’un professionnel
 ----------------------------
 
 
-Question 1 : En quoi consiste votre travail ?
+**En quoi consiste votre travail ?**
 
-  Le thème principal de recherche porte sur l'interaction entre le language et
+  Le thème principal de mes recherches portent sur l'interaction entre le language et
   le système cognitif humain.
 
-Question 2 : Avant de commencer à travailler, avez-vous fait des études ? Lesquelles ?
+**Avant de commencer à travailler, avez-vous fait des études ? Lesquelles ?**
 
-  J'ai fait une licence en littérature arabe et science politiques, un Master en linguistique,
-  et un doctorat en linguistique et traitement automatique des langues.
+  J'ai fait une licence en littérature arabe ,en science politiques et un Master en
+  linguistique.
+  Un doctorat en linguistique et traitement automatique des langues.
 
-Question 3 : Quel est votre parcours avant de travailler dans cette entreprise ?
+**Quel est votre parcours avant de travailler dans cette entreprise ?**
 
-  ASUS chef de produit concoir un produit mais je devais aussi gérer sa vente et son marketing
+  J'ai travaillé a ASUS en tant que chef de produit. Je devais concevoir les produits
+  mais aussi gérer leurs ventes et leurs marketing.
 
-Question 4 : Comment s’est déroulé le processus de votre recrutement dans l’entreprise ou la création
-de votre entreprise ?
+**Comment s’est déroulé le processus de votre recrutement dans l’entreprise ou la
+création de votre entreprise ?**
 
-  Grace au concours du CNRS qui a lieu tous les ans, J'ai postulé puis été séléctioné et
-  après un entretien d'embauche j'ai été pris
+  Grace au concours du CNRS qui a lieu tous les ans. J'ai postulé puis été séléctioné et
+  après un entretien d'embauche,  j'ai été pris.
 
-Question 5 : Qu’est ce qui vous plaît le plus dans votre travail ?  création de votre entreprise ?
+**Qu’est ce qui vous plaît le plus dans votre travail ?  création de votre entreprise ?**
 
   - Il y a plus de flexibilité par rapport au privé en terme d'horaires
   - plus de liberté de gestion de ses objectifs
@@ -234,26 +241,22 @@ Question 5 : Qu’est ce qui vous plaît le plus dans votre travail ?  création
   - Il y a cependant une forte baisse au niveau du salaire. Il est possible que je gagne
     deux fois plus en étant dans le privé.
 
-Question 6 : Que produisez-vous dans l'entreprise (dans le passé comme dans le passé) ?
+**Que produisez-vous dans l'entreprise (dans le passé comme dans le passé) ?**
 
   Mon travail consiste faire des recherches afin de produire des articles.
   J'ai aussi des projets avec des équipes d'autres pays sur le domaine de la linguistique.
 
-  L'un d'entre eux consiste a automatiser la lecture des grammaires c'est à dire des
+  L'un de mes projets intenationals consiste a automatiser la lecture des grammaires c'est à dire des
   livres qui décrivent la langue d'autre pays.
 
-Question 7 : Quels outils utilisez-vous ?
+**Quels outils utilisez-vous ?**
 
   Personellement je n'utilise qu'un ordinateur et quelques fois un
-  enregistreur. Mais si on parle pour toute le laboratoire, on peut avoir besoin du
-  laboratoire de génétique pour analysé de l'adn qu'on a trouvé sur le terrain.
+  enregistreur. Mais si on parle pour tout les personnes du laboratoire, on peut
+  avoir besoin du laboratoire de génétique pour analysé de l'adn qu'on a trouvé sur le:
+  terrain.
 
 Question 8 :
 
 Réponse 8 :
-
-
-
-Pour la rédaction du rapport, tu devras écrire les 8 questions et les 8 réponses.
-
 
