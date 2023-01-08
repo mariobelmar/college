@@ -10,7 +10,6 @@ Programme
 
    - Rapide discussion avec les collègues/autres chercheurs et avec quelques
      autres stagiaires.
-
    - Présentation des locaux de mon maitre de stage.
 
 - **Lundi après-midi** :

@@ -125,11 +125,72 @@ Décrire le service dans lequel tu effectues ton stage :
     de travailler quand il veut. On lui demande simplement de produire des
     publier 2 a 3 recherches par an.
 
+.. mermaid::
+
+  ---
+  title: ornigramme total des départements et des laboratoire
+  ---
+  flowchart LR
+
+  D-HE([Département homme et environnement"])
+  D-OE("Origines et évolution")
+  D-AV("Département adaptation du vivant")
+  L-AASPE("Archéozologie, archéobotanique: sociétés, pratiques et environnements")
+  L-CAK("Centre Alexandere Koyré")
+  L-CESCO("Centre d'écologie et des sciences de la conservation")
+  L-EA(["Eco-anthropologie"])
+  L-HNHP("Histoire naturelle de l'homme préhistorique")
+  L-PALOC("Patrimoines locaux, environnement et globalisation")
+  E-ABBA("Anthropologie biologique et bio-archéologie")
+  E-AG("Anthropologie génétique")
+  E-E("Ethnoécologie: savoirs, pratiques, pouvoirs")
+  E-IPE("Interacions primates et environnement")
+  E-DV(["Diversité et évolution culturelles"])
+  E-BD("Biodémographie humaine")
+
+  classDef red fill:#ff4040
+
+
+  D-HE:::red ===> L-EA:::red ===> E-DV:::red
+
+  D-HE:::red --> L-AASPE
+  D-HE:::red --> L-CAK
+  D-HE:::red --> L-CESCO
+  D-HE:::red --> L-HNHP
+  D-HE:::red --> L-PALOC
+  L-EA:::red --> E-ABBA
+  L-EA:::red --> E-E
+  L-EA:::red --> E-AG
+  L-EA:::red --> E-BD
+  L-EA:::red --> E-IPE
+
+  subgraph Departement
+  D-OE
+  D-HE
+  D-AV
+  end
+  subgraph Laboratoire
+  L-AASPE
+  L-CAK
+  L-CESCO
+  L-EA
+  L-HNHP
+  L-PALOC
+  end
+  subgraph Equipe
+  E-ABBA
+  E-AG
+  E-E
+  E-IPE
+  E-DV
+  E-BD
+  end
+
 
 .. mermaid::
 
   ---
-  title: ornigramme du fonctionnement du laboratoire
+  title: ornigramme du fonctionnement général du service
   ---
   flowchart LR
    cnrs(CNRS)
@@ -160,6 +221,7 @@ Décrire le service dans lequel tu effectues ton stage :
          exposition
       end
    end
+
 
 
 Evolution de l'entreprise
