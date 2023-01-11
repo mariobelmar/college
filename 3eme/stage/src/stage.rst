@@ -125,16 +125,61 @@ Décrire le service dans lequel tu effectues ton stage :
     de travailler quand il veut. On lui demande simplement de produire des
     publier 2 a 3 recherches par an.
 
+
+
+
+
 .. mermaid::
 
   ---
   title: ornigramme total des départements et des laboratoire
   ---
+
   flowchart LR
 
-  D-HE([Département homme et environnement"])
+  D-HE(["Département homme et environnement"])
   D-OE("Origines et évolution")
   D-AV("Département adaptation du vivant")
+  L-AASPE("Archéozologie, archéobotanique: sociétés, pratiques et environnements")
+  L-CAK("Centre Alexandere Koyré")
+  L-CESCO("Centre d'écologie et des sciences de la conservation")
+  L-EA(["Eco-anthropologie"])
+  L-HNHP("Histoire naturelle de l'homme préhistorique")
+  L-PALOC("Patrimoines locaux, environnement et globalisation")
+
+  classDef red fill:#ff4040
+
+
+  D-HE:::red ===> L-EA:::red
+
+  D-HE:::red --> L-AASPE
+  D-HE:::red --> L-CAK
+  D-HE:::red --> L-CESCO
+  D-HE:::red --> L-HNHP
+  D-HE:::red --> L-PALOC
+
+  subgraph Departement
+  D-OE
+  D-HE
+  D-AV
+  end
+  subgraph Laboratoire
+  L-AASPE
+  L-CAK
+  L-CESCO
+  L-EA
+  L-HNHP
+  L-PALOC
+  end
+
+.. mermaid::
+
+  ---
+  title: ornigramme total des départements et des laboratoire
+  ---
+
+  flowchart LR
+
   L-AASPE("Archéozologie, archéobotanique: sociétés, pratiques et environnements")
   L-CAK("Centre Alexandere Koyré")
   L-CESCO("Centre d'écologie et des sciences de la conservation")
@@ -150,25 +195,13 @@ Décrire le service dans lequel tu effectues ton stage :
 
   classDef red fill:#ff4040
 
-
-  D-HE:::red ===> L-EA:::red ===> E-DV:::red
-
-  D-HE:::red --> L-AASPE
-  D-HE:::red --> L-CAK
-  D-HE:::red --> L-CESCO
-  D-HE:::red --> L-HNHP
-  D-HE:::red --> L-PALOC
+  L-EA:::red ===> E-DV:::red
   L-EA:::red --> E-ABBA
   L-EA:::red --> E-E
   L-EA:::red --> E-AG
   L-EA:::red --> E-BD
   L-EA:::red --> E-IPE
 
-  subgraph Departement
-  D-OE
-  D-HE
-  D-AV
-  end
   subgraph Laboratoire
   L-AASPE
   L-CAK
@@ -185,7 +218,6 @@ Décrire le service dans lequel tu effectues ton stage :
   E-DV
   E-BD
   end
-
 
 .. mermaid::
 

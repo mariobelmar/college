@@ -10,6 +10,7 @@ Programme
 
    - Rapide discussion avec les collègues/autres chercheurs et avec quelques
      autres stagiaires.
+
    - Présentation des locaux de mon maitre de stage.
 
 - **Lundi après-midi** :
@@ -32,7 +33,7 @@ Programme
 
    - Trier les documents
 
-   - Début du code avec Marc
+   - Début du code avec Marc(Maitre de stage)
 
 - **Mercredi matin**
 
@@ -43,10 +44,12 @@ Programme
 
 - **Mercredi après midi**
 
+   - Avancement sur le code 
    - Trier les documents
 
 - **Jeudi matin**
 
+   - Avancement sur le code 
    - Trier les documents
 
 - **Jeudi après midi**
@@ -66,17 +69,17 @@ Programme
      compréhension de l'évolution des éléphants il analyse donc les ancetres des
      éléphants(mamouth)
 
-     1. travaille au mnhn pour extraire informations génétiques des collections du 
-        musé
+     1. Travaille au Musée national d'histoire naturelle pour extraire informations 
+        génétiques des collections du musé
 
      2. Activitée faite: Dillution d'adn d'un échantillon de vertèbre de poisson 
+       - but: que mangait les homme pré. le long de la Loire?
 
         A. dillution d'adn d'un échantillon de vertèbre de poisson a l'aide d'un
            micro-pippette
 
            1. déposer diluant
            2. déposer adn dans le diluant
-           3. but -> que mangait les homme pré. le long de la Loire?
 
         B. Electrophorèse cappilaire
 
