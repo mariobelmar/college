@@ -271,20 +271,6 @@ Elle récupère les mots 'tone' et 'tones'
 
     tones = [token for token in doc if token.text in ['tone', 'tones']]
 
-Si on schématise cette fonction cela donnerait
-
-.. mermaid::
-
-  ---
-  title: fonction test_all_files
-  ---
-  flowchart LR
-  a[(test_all_files)]
-  file(fichier texte  grammaire)
-  return(toutes les fois qu'apparait les mots tone et gender)
-  classDef red fill:#ff4040
-  file ==> a:::red ==> return
-
 A partir de la je vais vous expliquer d'abord le fonctionnement de la suite du
 programme.
 Après avoir récupéré le nombre d'occurences de mes mots clés, je vais pouvoir savoir si
@@ -328,16 +314,13 @@ toutes les données.
   nb("difference")
   ex("égale a mediane - nombre d'occurence")
   nb -.- ex
-  t -.-  T("possède cette typologie")
-  f -.- F("ne possède pas cette typologie")
-  n -.- N("écart trop petit")
   N === i(incertitude)
   subgraph Ornigramme
     nb -->A{"> 1"}
-    A -->|Yes| t(True)
+    A -->|Yes| T("possède cette typologie")
     A -->|No| B{"< -1"}
-    B -->|Yes| f(False)
-    B -->|No| n(None)
+    B -->|Yes| F("ne possède pas cette typologie")
+    B -->|No| N("écart trop petit")
     end
 
 Pour produire un tableau j'utilise une autre librairie appelé pandas.
@@ -359,24 +342,12 @@ Pour produire un tableau j'utilise une autre librairie appelé pandas.
               - 1
               - 15
               - True
-            * - ani_2000_o
-              - tones
-              - 7
-              - 1
-              - 6
-              - True
             * - aari_1994_o
               - genders
               - 6
               - 1
               - 5
               - True
-            * - aari_1994_o
-              - tones
-              - 0
-              - 1
-              - -1
-              - None
 
 - **Fichier/grammaires** : fichier analysé
 - **gender/tone** : typologie recherché

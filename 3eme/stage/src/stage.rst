@@ -125,10 +125,6 @@ Décrire le service dans lequel tu effectues ton stage :
     de travailler quand il veut. On lui demande simplement de produire des
     publier 2 a 3 recherches par an.
 
-
-
-
-
 .. mermaid::
 
   ---
@@ -136,7 +132,6 @@ Décrire le service dans lequel tu effectues ton stage :
   ---
 
   flowchart LR
-
   D-HE(["Département homme et environnement"])
   D-OE("Origines et évolution")
   D-AV("Département adaptation du vivant")
@@ -148,10 +143,7 @@ Décrire le service dans lequel tu effectues ton stage :
   L-PALOC("Patrimoines locaux, environnement et globalisation")
 
   classDef red fill:#ff4040
-
-
   D-HE:::red ===> L-EA:::red
-
   D-HE:::red --> L-AASPE
   D-HE:::red --> L-CAK
   D-HE:::red --> L-CESCO
@@ -179,7 +171,6 @@ Décrire le service dans lequel tu effectues ton stage :
   ---
 
   flowchart LR
-
   L-AASPE("Archéozologie, archéobotanique: sociétés, pratiques et environnements")
   L-CAK("Centre Alexandere Koyré")
   L-CESCO("Centre d'écologie et des sciences de la conservation")
@@ -194,7 +185,6 @@ Décrire le service dans lequel tu effectues ton stage :
   E-BD("Biodémographie humaine")
 
   classDef red fill:#ff4040
-
   L-EA:::red ===> E-DV:::red
   L-EA:::red --> E-ABBA
   L-EA:::red --> E-E
