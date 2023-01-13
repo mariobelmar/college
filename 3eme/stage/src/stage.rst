@@ -1,3 +1,4 @@
+
 ========================================================
 Rapport de stage au Laboratoire CNRS du musé de l'homme
 ========================================================
@@ -60,7 +61,7 @@ Les différents métiers
 
    * - Métier
      - études requises
-   * - Ingénieur
+   * - Personnel de support
      - Très variables en fonctions du type de support
    * - Chercheur
      - Doctorat et il faut passé un concours du CNRS pour etre embauché avec un CDI
@@ -132,15 +133,15 @@ Décrire le service dans lequel tu effectues ton stage :
   ---
 
   flowchart LR
-  D-HE(["Département homme et environnement"])
+  D-HE(["Département homme <br> et environnement"])
   D-OE("Origines et évolution")
-  D-AV("Département adaptation du vivant")
-  L-AASPE("Archéozologie, archéobotanique: sociétés, pratiques et environnements")
+  D-AV("Département <br> adaptation du vivant")
+  L-AASPE("Archéozologie, archéobotanique: <br> sociétés, pratiques et environnements")
   L-CAK("Centre Alexandere Koyré")
-  L-CESCO("Centre d'écologie et des sciences de la conservation")
+  L-CESCO("Centre d'écologie et <br> des sciences de la conservation")
   L-EA(["Eco-anthropologie"])
-  L-HNHP("Histoire naturelle de l'homme préhistorique")
-  L-PALOC("Patrimoines locaux, environnement et globalisation")
+  L-HNHP("Histoire naturelle <br> de l'homme préhistorique")
+  L-PALOC("Patrimoines locaux, <br> environnement et globalisation")
 
   classDef red fill:#ff4040
   D-HE:::red ===> L-EA:::red
@@ -171,17 +172,17 @@ Décrire le service dans lequel tu effectues ton stage :
   ---
 
   flowchart LR
-  L-AASPE("Archéozologie, archéobotanique: sociétés, pratiques et environnements")
+  L-AASPE("Archéozologie, archéobotanique: <br> sociétés, pratiques et environnements")
   L-CAK("Centre Alexandere Koyré")
   L-CESCO("Centre d'écologie et des sciences de la conservation")
   L-EA(["Eco-anthropologie"])
-  L-HNHP("Histoire naturelle de l'homme préhistorique")
-  L-PALOC("Patrimoines locaux, environnement et globalisation")
-  E-ABBA("Anthropologie biologique et bio-archéologie")
+  L-HNHP("Histoire naturelle de <br> l'homme préhistorique")
+  L-PALOC("Patrimoines locaux, <br> environnement et globalisation")
+  E-ABBA("Anthropologie biologique <br> et bio-archéologie")
   E-AG("Anthropologie génétique")
-  E-E("Ethnoécologie: savoirs, pratiques, pouvoirs")
-  E-IPE("Interacions primates et environnement")
-  E-DV(["Diversité et évolution culturelles"])
+  E-E("Ethnoécologie: savoirs, <br> pratiques, pouvoirs")
+  E-IPE("Interacions primates <br> et environnement")
+  E-DV(["Diversité et <br> évolution culturelles"])
   E-BD("Biodémographie humaine")
 
   classDef red fill:#ff4040
