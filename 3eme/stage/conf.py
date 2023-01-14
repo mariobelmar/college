@@ -67,18 +67,24 @@ html_css_files = [
     'css/custom.css'
 ]
 
+# -- Options for LaTeX output --------------------------------
+# title = "Python trainning for LDC \\newline\\newline\\large Some subtitle possible here"
+title = "Rapport de stage"
+# latex_theme = 'manual'  # 'manual' to make a book, 'howto' to make an article
+latex_documents = [('index', 'mario_rapport_stage_umr7206.tex', title, author, 'howto')]
+latex_engine = 'xelatex'
+# latex_logo = './_static/logo_mazars.png'
 
-# %% RO, LE will not work for 'oneside' layout.
-# %% Change oneside to twoside in document class
+latex_elements = {
+  'papersize': 'a4paper',  # 'letterpaper' or 'a4paper'
+  'pointsize': '10pt',     # global fontsize, possible values are 10pt, 11pt and 12pt
+  'sphinxsetup': 'hmargin={1.5cm,1.5cm}, vmargin={2cm,2cm}',
+  # 'classoptions': ',twocolumn',    # to have two columns
+  # 'tableofcontents': '',           # To remove the TOC
+  # 'babel' : '\\usepackage[english]{babel}',
+  'preamble': r"""
+     \usepackage{etoc}
+  """,
+     # \setcounter{tocdepth}{5}  # in preamble
+  }
 
-# \usepackage{fancyhdr}
-# \pagestyle{fancy}
-# \fancyhf{}
-# %% % Alternating Header for two side
-# % \fancyhead[RO]{\small \nouppercase{\rightmark}}
-# %\fancyhead[LE]{\small \nouppercase{\leftmark}}
-
-# \pagestyle{fancy}
-# \fancyfoot{}
-# \renewcommand{\footrulewidth}{0.4pt}
-# \fancyfoot[RO,LE]{\thepage}
