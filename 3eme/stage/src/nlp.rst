@@ -73,15 +73,15 @@ Programme
         génétiques des collections du musé
 
      2. Activitée faite: Dillution d'adn d'un échantillon de vertèbre de poisson 
-       - but: que mangait les homme pré. le long de la Loire?
+        - but: que mangait les homme pré. le long de la Loire?
 
-        A. dillution d'adn d'un échantillon de vertèbre de poisson a l'aide d'un
+         A. dillution d'adn d'un échantillon de vertèbre de poisson a l'aide d'un
            micro-pippette
 
            1. déposer diluant
            2. déposer adn dans le diluant
 
-        B. Electrophorèse cappilaire
+         B. Electrophorèse cappilaire
 
            1. Ajout de liquide fluoerescent pour la machine
            2. resultat: bande d'ADN
