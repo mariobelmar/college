@@ -97,14 +97,12 @@ Objectif
 --------
 
 - Mon premier objectif a été de produire un programme capable de donner les verbes et leur
-  nombres dans un texte
+  nombres de fois qu'ils apparaissent dans un texte.
 
 - Mon deuxieme a été de produire un programme capable de révéler la présence de typologies
   dans certaines langues a partir de mots clés.
-  Je cherche dans une 'grammaire'(petit livre contenant l'intégralité de la grammaire d'une
-  langue)sous forme numérique la présence de typologie par mots clés.
 
-  Ex: On a une grammaire sur l'abun (langue de nouvelle guinée) et je veux savoir si
+  Ex: On a un livre sur l'abun (langue de nouvelle guinée) et je veux savoir si
   cette langue contient un système de ton, je vais donc chercher le nombre de fois
   qu'apparait le mot 'ton', et en fonction de cela je vais décider si la langue contient
   oui ou non un système de ton.
@@ -145,14 +143,14 @@ Librairies et capacités
 J'utilise la librairie nlp appelés Spacy, qui est assez récente mais plus rapide.
 Voici ce dont est capable Spacy:
 
-  1. La tokenisation ou word segmentation: découpé une phrase en plusieurs pièces, token
+  1. La **tokenisation** ou **word segmentation**: découpé une phrase en plusieurs pièces, token
      Ex: 'bonjour les amis' -> 'bonjour', 'les', 'amis'
-  2. lemmatization: donner la forme canonique du mot, celle de base.
+  2. **lemmatization**: donner la forme canonique du mot, celle de base.
      Ex: 'trouvaient' -> 'trouver'
-  3. P.O.S tagging: a partir de l'endroit ou se trouve le verbe
+  3. **P.O.S tagging**: a partir de l'endroit ou se trouve le verbe
      dans la phrase on assigne au mot(token) sa nature.
      Ex: 'l'enfant mange une pomme' -> l'enfant : sujet | mange : verbe | etc..
-  4. dependency parsing: dépendance a d'autre mots dans la phrase, c'est aussi le
+  4. **dependency parsing**: dépendance a d'autre mots dans la phrase, c'est aussi le
      contexte.
      Ex: un mot peut changer le sens d'un autre mot
 
@@ -182,31 +180,25 @@ Exctraction de verbe
 ++++++++++++++++++++
 
 
-On appelle la librairie spacy, c'est une sorte d'extension qui me permet de faire
+On appelle la librairie spacy, c'est donc l'extension qui me permet de faire
 plus de chose, ici de traiter des textes
 
 .. code ::
 
   import spacy
 
-On définit la langue(ici anglais)
+Je cré une **fonction** a qui je donne le fichier qu'il va **tokeniser** donc rendre
+lisible afin de l'analyser.
 
 .. code ::
 
-  nlp = spacy.load("en_core_web_sm")
-
-Je cré une **fonction** a qui je donne le fichier qu'il va**tokenisé** donc rendre
-lisible afin de l'analyser
-
-.. code ::
-
-  def get_text_from_file(file: str) -> str:
+  def get_text_from_file:
 
 Je cré une autre boucle qui trouve et ne renvoit que les verbes
 
 .. code ::
 
-    def get_only_verbs(ltext: str) -> list[str]:
+    def get_only_verbs:
 
 Voila comment elle fonctionne:
 
@@ -232,19 +224,13 @@ Voila comment elle fonctionne:
 
             verbs.append(token.lemma_)
 
-Version plus compact qu'on appelle une **liste compréhensive** (qui fait la meme chose)
-
-.. code ::
-
-      verbs = [token.lemma_ for token in doc if token.pos_ == "VERB"]
-
 C'etait le premier code que j'ai pu faire. L'intétralité du code se trouve dans 'Mes
 codes' a la fin du chapitre 3, conclusion.
 
 Exctraction de typologies
 ++++++++++++++++++++++++++
 
-Comme expliqué dans 'Objectifs' je vais rechercher certaines typologies de certaines
+Comme expliqué dans 'Objectifs' je vais 'extraire' certaines typologies de certaines
 langues. Je vais donc me concentrer sur la présence de Tons(en chinois mais aussi en
 espagnol), et la présence de genre(masc / fem / neut / etc...).
 Pour cela je vais choisir des mots clés, ici ce sera très facile, qui seront 'tone' et
@@ -258,12 +244,6 @@ verbes.
 .. code ::
 
   def test_all_files(text):
-
-Elle récupère les mots 'gender' et 'genders'
-
-.. code ::
-
-    genders = [token for token in doc if token.text in ['gender', 'genders']]
 
 Elle récupère les mots 'tone' et 'tones'
 

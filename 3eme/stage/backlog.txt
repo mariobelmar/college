@@ -7,6 +7,7 @@ Todo
   · Ce qui t’a déçu
   · Ce que tu as particulièrement apprécié
 - Décrire un métier -> mettre en forme
+- refaire 'extraction de typlogie'
 
 
 Done
@@ -22,3 +23,10 @@ Done
 - make feather
 - go from Gy, Gf, Ty, Tf to Gy, Gf, G?, Ty, Tf, T? 
   - identify langs with T? and G?
+
+Je garde ?
+==========
+
+- Méthodes d'apprentissage
+- ornigramme diff 
+- explication
