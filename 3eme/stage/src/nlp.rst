@@ -72,11 +72,11 @@ Programme
      1. Travaille au Musée national d'histoire naturelle pour extraire informations 
         génétiques des collections du musé
 
-     2. Activitée faite: Dillution d'adn d'un échantillon de vertèbre de poisson 
-        - but: que mangait les homme pré. le long de la Loire?
+     2. Activitée faite: Dillution d'adn d'un échantillon de vertèbre de poisson.
+         a. but: que mangait les homme pré. le long de la Loire?
 
          A. dillution d'adn d'un échantillon de vertèbre de poisson a l'aide d'un
-           micro-pippette
+            micro-pippette
 
            1. déposer diluant
            2. déposer adn dans le diluant
