@@ -12,3 +12,4 @@ Rapport de stage
 
    src/stage.rst
    src/nlp.rst
+   src/conclusion.rst

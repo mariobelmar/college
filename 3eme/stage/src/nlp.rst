@@ -239,7 +239,7 @@ Version plus compact qu'on appelle une **liste compréhensive** (qui fait la mem
       verbs = [token.lemma_ for token in doc if token.pos_ == "VERB"]
 
 C'etait le premier code que j'ai pu faire. L'intétralité du code se trouve dans 'Mes
-codes'
+codes' a la fin du chapitre 3, conclusion.
 
 Exctraction de typologies
 ++++++++++++++++++++++++++
@@ -303,26 +303,6 @@ En Bref il faudra:
 
 Puis, il faut comparer la médianne avec les occurrences et produire un tableau avec
 toutes les données.
-
-.. mermaid::
-
-  ---
-  title : fonction qui compare la difference a la médiane
-  ---
-
-  flowchart TB
-  nb("difference")
-  ex("égale a mediane - nombre d'occurence")
-  nb -.- ex
-  N === i(incertitude)
-  subgraph Ornigramme
-    nb -->A{"> 1"}
-    A -->|Yes| T("possède cette typologie")
-    A -->|No| B{"< -1"}
-    B -->|Yes| F("ne possède pas cette typologie")
-    B -->|No| N("écart trop petit")
-    end
-
 Pour produire un tableau j'utilise une autre librairie appelé pandas.
 
          .. list-table:: tableau final d'extraction de typologies(ton et genre)
@@ -355,59 +335,22 @@ Pour produire un tableau j'utilise une autre librairie appelé pandas.
 - **median_occurrence** : mediane du texte
 - **difference** : comme dans l'ornigramme, k.occu - median_occurrence
 - **hasornot** : existence de la typologie recherchée
+.. mermaid::
 
+  ---
+  title : fonction qui compare la difference a la médiane
+  ---
 
-Mes codes
-~~~~~~~~~
-
-
-Premier code:
-
-.. code ::
-
-  import spacy
-  nlp = spacy.load("en_core_web_sm")
-  NOVEL = '../../snt/ndm/alice.txt'
-
-  def get_text_from_file(file: str) -> str:
-      with open(file, 'r') as myfile:
-          text = myfile.read()
-      return text
-
-
-  def get_only_verbs(ltext: str) -> list[str]:
-      doc = nlp(ltext)
-      verbs = []
-      for token in doc:
-          if token.pos_ == "VERB":
-              verbs.append(token.lemma_)
-      return verbs
-
-  text = get_text_from_file(NOVEL)
-  verbs = sorted(get_only_verbs(ltext))
-  verbs_set = sorted(list(set(verbs)))
-  print(f'==> only verbs there are {len(verbs)}: {verbs}')
-  print(f'==> only verbs without repetition there are {len(verbs_set)}: {verbs_set}')
-
-
-
-Conclusion
-==========
-
-
-Bibliography
-=============
-
-Article de Marc:
-    - :cite:p:`her2022defining`
-    - :cite:p:`ulrich2021identifying`
-    - :cite:p:`hammarstrom2020term`
-
-Test de citation d'un article sur les nuages de mots :cite:p:`d2014recueils` pour le
-voir dans la Bibliography de la fin du document.
-Puis un test de citation en note de bas de page ici :footcite:p:`d2014recueils`
-
-.. bibliography::
-
-.. footbibliography::
+  flowchart TB
+  nb("difference")
+  ex("égale a mediane - nombre d'occurence")
+  nb -.- ex
+  N === i(incertitude)
+  subgraph Ornigramme
+    nb -->A{"> 1"}
+    A -->|Yes| T("possède cette typologie")
+    A -->|No| B{"< -1"}
+    B -->|Yes| F("ne possède pas cette typologie")
+    B -->|No| N("écart trop petit")
+    end
 

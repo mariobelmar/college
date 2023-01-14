@@ -1,11 +1,17 @@
 Todo
 ====
-- add questions/answer
-- rename variables
-- add image
+- experience: **experience vécue**
+  · Ce que tu as découvert
+  · Ce qui t’a surpris
+  · Ce que tu as appris
+  · Ce qui t’a déçu
+  · Ce que tu as particulièrement apprécié
+- Décrire un métier -> mettre en forme
+
 
 Done
 ====
+- add questions/answer
 - improve and questions/answer
 - rename variables
 - rename table and schem

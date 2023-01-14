@@ -9,8 +9,9 @@ Introduction
 - Mon maitre de stage était une personne que je connaissais bien.
   Nous pratiquions la meme activitée physique depuis une année.
   Et lorsque qu'il a entendu que je devais faire un stage, il m'a proposé faire une
-  visite de son laboratoire. Cette visite m'a beaucoup plu et j'ai eu l'idée de 
-  faire mon stage dans son laboratoire.
+  visite de son laboratoire. Cette visite m'a beaucoup plu et j'ai eu l'idée de
+  faire mon stage dans son laboratoire, c'était aussi car je voulais rencontrer les
+  différents métiers qui y étaient exercés
 
 Présentation de l’entreprise
 =================================
@@ -18,47 +19,48 @@ Présentation de l’entreprise
 Carte d’identité de l’entreprise
 --------------------------------
 
-  - J'ai donc fait mon stage dans le laboratoire UMR 7206, situé dans le muséum national
-    histoire naturelle, 57 rue Cuvier a Paris dans le 5eme
-    Le laboratoire a 4 secteure d'activitées :
-      - Recherche
-      - Enseignement: Donner des cours dans les universités, c'est essentiellement le
-        travail des enseignants chercheurs
-      - Collections: Restaurer, entrenir, repertorier les collections du muséum
-      - Diffusion: Rendre le travail des chercheurs "publiques", l'expliquer, par exemple,
-        a la télé pour informer des découvertes, par exemple.
-      - Valorisation: Plus sérieux que la Diffusion, c'est publier ses recherches dans
-        une revue scientifique.
+- J'ai donc fait mon stage dans le laboratoire UMR 7206, situé dans le muséum national
+  histoire naturelle, 57 rue Cuvier a Paris dans le 5eme
+  Le laboratoire a 4 secteure d'activitées :
+    - Recherche
+    - Enseignement: Donner des cours dans les universités, c'est essentiellement le
+      travail des enseignants chercheurs
+    - Collections: Restaurer, entrenir, repertorier les collections du muséum
+    - Diffusion: Rendre le travail des chercheurs "publiques", l'expliquer, par exemple,
+      a la télé pour informer des découvertes, par exemple.
+    - Valorisation: Plus sérieux que la Diffusion, c'est publier ses recherches dans
+      une revue scientifique.
 
-  - Le laboratoire Eco-anthropologie UMR 7206 est une unité mixte de recherche du
-    centre national de la recherche scientiifque (cnrs), du muséum nationnal d'hisoitre
-    naturelle(mnhn) et de l'université de paris.  C'est donc un laboratoire public.
+- Le laboratoire Eco-anthropologie UMR 7206 est une unité mixte de recherche du
+  centre national de la recherche scientiifque (cnrs), du muséum nationnal d'hisoitre
+  naturelle(mnhn) et de l'université de paris.  C'est donc un laboratoire public.
 
-  - Le laboratoire produit des connaissances et des collections
-      - plus de 1500 de plublication scientifiques par an.
-      - 68 millions de spécimens au sein des collections
-      - plus de 10 millions de spécimens ou lots informatisés ou numérisés
-      - Plus de 2 millions de documents, livres, périodiques, ressources électroniques, archives,
-        dessins, objets scientifiques ou artistiques dans les bibliothèques.
+- Le laboratoire produit des connaissances et des collections
 
-  - Le laboratoire UMR 7206 developpe des recherches interdisciplinaire sur l'Homme,
-    individuellement ou collectivement, et leur interactions avec l'environnement
-    Et le Muséum se consacre depuis des siècles à l’étude de la diversité biologique, géologique et
-    culturelle, et aux relations entre les humains et la nature.
+    - plus de 1500 de plublication scientifiques par an.
+    - 68 millions de spécimens au sein des collections
+    - plus de 10 millions de spécimens ou lots informatisés ou numérisés
+    - Plus de 2 millions de documents, livres, périodiques, ressources électroniques, archives,
+      dessins, objets scientifiques ou artistiques dans les bibliothèques.
 
-  - Le laboratoire lui meme n'a pas de client car ce n'est pas un entreprise a but lucrative
-    Il y a des chercheurs ou des étudiants qui viennent voir les collections mais ce n'est pas
-    payant et il leur faut une autorisation.
-    Si l'on parle du muséum il compte plus de 6 millions de personnes accueillies
-    sur les 13 sites du Muséum, dont plus de 3 millions de visiteurs payants.Plus de 6
-    millions de visiteurs sur les sites Internet.
+- Le laboratoire UMR 7206 developpe des recherches interdisciplinaire sur l'Homme,
+  individuellement ou collectivement, et leur interactions avec l'environnement
+  Et le Muséum se consacre depuis des siècles à l’étude de la diversité biologique, géologique et
+  culturelle, et aux relations entre les humains et la nature.
 
-  - En terme de salarié le muséum compte Environ 2 512 agents dont 622 agents dits
-    hébergés, rattachés à d'autres établissements ou organismes de recherche (comme le CNRS,
-    Université Paris Cité) et près de 177 conventions de bénévolat
+- Le laboratoire lui meme n'a pas de client car ce n'est pas un entreprise a but lucrative
+  Il y a des chercheurs ou des étudiants qui viennent voir les collections mais ce n'est pas
+  payant et il leur faut une autorisation.
+  Si l'on parle du muséum il compte plus de 6 millions de personnes accueillies
+  sur les 13 sites du Muséum, dont plus de 3 millions de visiteurs payants.Plus de 6
+  millions de visiteurs sur les sites Internet.
 
-  - Le laboratoire agit au niveau international, par exemple mon maitre de stage a un projet
-    avec des équipes de pays différents.
+- En terme de salarié le muséum compte Environ 2 512 agents dont 622 agents dits
+  hébergés, rattachés à d'autres établissements ou organismes de recherche (comme le CNRS,
+  Université Paris Cité) et près de 177 conventions de bénévolat
+
+- Le laboratoire agit au niveau international, par exemple mon maitre de stage a un projet
+  avec des équipes de pays différents.
 
 Les différents métiers
 ----------------------
@@ -82,32 +84,32 @@ Description d’un service
 ------------------------
 
 
-  Diversité et évolution culturelle (laboratoire) était l'équipe de
+- Diversité et évolution culturelle (laboratoire) était l'équipe de
   mon maitre de stage. Le laboratoire tout entier s'appelle Laboratoire
   d'eco-anthropologie umr 7206 affilier au CNRS et au Musé de l'homme ainsi qu'a Paris
   Université
 
-- nombre de salariés :
-    - tout les personnes(aussi celles qui s'occupent du musée): 1200 personnes
-    - laboratoire tout entier : 104 pers
-    - équipe de mon maitre de stage: 25
+- Il y a plus de 1200 persones qui travaille dans le MNHN, dans le laboratoire UMR 7206,
+  104 personnes (50 chercheurs, 15 personnels support, 30 doctorants, associés et
+  collaborateurs). Et dans le l'équipe de mon maitre de stage, diversité et évolution
+  culturelles, 26 personnes.
 
-- liaison avec les autres services de l’entreprise :
-    - Les Ingénieurs sont aussi appellés 'personnel de support' leur role est d'aider
+- Concernant les relations entre différents corps de métiers
+
+    - **Les Ingénieurs** sont aussi appellés 'personnel de support' leur role est d'aider
       les chercheurs dans leur domaine. C'est pourquoi il existe plein d'Ingénieurs
       spécialisés dans differents domaines. Certains sont dans l'administration d'autre
       s'occupe de la génétique, si un chercheur a besoin d'une analyse adn d'un
       échantillon de salive, l'ingénieur en génétique s'en occupera
-    - A l'UMR 7206 les domaines d'études des chercheurs étaient tous differents mais
+    - A l'UMR 7206 les domaines d'études **des chercheurs** étaient tous differents mais
       mais ils entrenaient tous une bonne relation
-    - Les enseignants-chercheurs, quant a eux était surtout
+    - Les **enseignants-chercheurs**, quant a eux était surtout
       dans les universités(80% du temps).
 
-- horaire de travail du service :
-    Dans le public il y a une énorme liberté de travail, il est demandé de faire 35
-    heure par semaine mais en réalité le chercheur peut commencé de travailler et finir
-    de travailler quand il veut. On lui demande simplement de produire des
-    publier 2 a 3 recherches par an.
+- Dans le public il y a une énorme liberté de travail, il est demandé de faire 35
+  heure par semaine mais en réalité le chercheur peut commencé de travailler et finir
+  de travailler quand il veut. On lui demande simplement de produire des
+  publier 2 a 3 recherches par an.
 
 .. mermaid::
 
@@ -136,7 +138,7 @@ Description d’un service
   E-DV(["Diversité et <br> évolution culturelles"])
   E-BD("Biodémographie humaine")
 
-  classDef red fill:#ff4040
+  classDef red fill:#ACACFF
   D-HE:::red ===> L-EA:::red
   D-HE --> L-AASPE
   D-HE --> L-CAK
@@ -303,7 +305,10 @@ création de votre entreprise ?**
   avoir besoin du laboratoire de génétique pour analysé de l'adn qu'on a trouvé sur le:
   terrain.
 
-Question 8 :
+**A votre avis, quelles sont les qualités qui sont nécessaires pour pouvoir
+faire ce métier ?**
 
-Réponse 8 :
-
+  Je pense que, dans ce laboratoire, le plus important est bien entendu le niveau de
+  compétence, c'est la contrepartie a notre liberté de travail. Mais il y a aussi
+  l'intégration qui est très importante surtout dans notre laboratoire, et c'est un aspect
+  de notre travail qui ne convient pas a tous.
