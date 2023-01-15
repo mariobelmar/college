@@ -285,16 +285,16 @@ toutes les données.
 Pour produire un tableau j'utilise une autre librairie appelé pandas.
 
          .. list-table:: tableau final d'extraction de typologies(ton et genre)
-            :widths: 50 50 50 50 50 50
+            :widths: 100 100 100 100 100 100
             :header-rows: 1
             :stub-columns: 0
 
-            * - Langue/grammaires
-              - gender/tone
-              - k.occu
-              - median-occurence
+            * - fichier analysé
+              - typologie recherché
+              - nombre de fois qu'apparait le mots clé
+              - mediane du texte
               - difference
-              - hasornot
+              - existence de la typologie recherchée
             * - ani_2000_o
               - genders
               - 16
@@ -308,12 +308,8 @@ Pour produire un tableau j'utilise une autre librairie appelé pandas.
               - 5
               - True
 
-- **Fichier/grammaires** : fichier analysé
-- **gender/tone** : typologie recherché
-- **k.occu** : nombre de fois qu'apparait le mots clé
-- **median_occurrence** : mediane du texte
 - **difference** : comme dans l'ornigramme, k.occu - median_occurrence
-- **hasornot** : existence de la typologie recherchée
+
 .. mermaid::
 
   ---

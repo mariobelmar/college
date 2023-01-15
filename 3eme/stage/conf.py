@@ -68,8 +68,9 @@ html_css_files = [
 ]
 
 # -- Options for LaTeX output --------------------------------
-# title = "Rapport de stage\\newline\\newline\\large Some subtitle possible here"
-title = "Rapport de stage"
+title = """Rapport de stage\\newline\\newline\\large au muséum national d'histoire
+naturelle\\newline\\ du 12 au 16 décembre"""
+# title = "Rapport de stage\\newline\\ au muséum national d'histoire naturelle"
 # latex_theme = 'manual'  # 'manual' to make a book, 'howto' to make an article
 latex_documents = [('index', 'mario_rapport_stage_umr7206.tex', title, author,
                     'report')]
@@ -77,7 +78,7 @@ latex_engine = 'lualatex'
 
 latex_elements = {
   'papersize': 'a4paper',  # 'letterpaper' or 'a4paper'
-  'pointsize': '10pt',     # global fontsize, possible values are 10pt, 11pt and 12pt
+  'pointsize': '12pt',     # global fontsize, possible values are 10pt, 11pt and 12pt
   'sphinxsetup': 'hmargin={1.5cm,1.5cm}, vmargin={2cm,2cm}',
   'extraclassoptions': 'openany'
   # 'classoptions': ',twocolumn',    # to have two columns

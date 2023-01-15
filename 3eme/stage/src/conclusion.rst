@@ -1,9 +1,20 @@
-
-
-
 Conclusion
 ==========
 
+- points positifs
+
+  - Liberté de travail
+  - Liberté d'horaires
+  - Atmoshpère général du laboratoire
+  - fonctionnaire donc si le laboratoire ferme, ils ont la garantie de
+    trouver du travail dans une autre société
+
+- point négatif
+
+  - salaire peu élevé
+  - infrastructure interne (internet, cable) baclée
+
+Après avoir parlé avec
 
 Mes codes
 ~~~~~~~~~
