@@ -84,8 +84,11 @@ Puis un test de citation en note de bas de page ici :footcite:p:`d2014recueils`
 Annexe
 ======
 
-Annexe 1. Recherche, enseignement, collections, diffusion, valorisation
------------------------------------------------------------------------
+Annexe 1. 
+----------
+
+Recherche, enseignement, collections, diffusion, valorisation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     - Recherche:
     - Enseignement: Donner des cours dans les universités, c'est essentiellement le
@@ -97,15 +100,21 @@ Annexe 1. Recherche, enseignement, collections, diffusion, valorisation
       une revue scientifique.
 
 
-Annexe 2. Trie des documents avec Taoues
-----------------------------------------
+Annexe 2.
+---------
 
-Taoues s'occupe de ... elle est la ...
-J'ai du séparer ... des ...
-Avec ...(personnes)...
+Trie des documents avec Taoues
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Annexe 3. Dillution d'adn d'un échantillon de vertèbre de poisson.
-------------------------------------------------------------------
+- Taoues s'occupe de ... elle est la ...
+- J'ai du séparer ... des ...
+- Avec ...(personnes)...
+
+Annexe 3.
+---------
+
+Dillution d'adn d'un échantillon de vertèbre de poisson.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  but: que mangait les homme pré. le long de la Loire?
 
@@ -119,3 +128,26 @@ Annexe 3. Dillution d'adn d'un échantillon de vertèbre de poisson.
 
      A. Ajout de liquide fluoerescent pour la machine
      B. resultat: bande d'ADN
+
+Annexe 4.
+---------
+
+Méthode d'apprentissage de NLP
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  - Méthodes basées sur des règles
+
+      - résout des problèmes spécifiques (suprimer les spam des boites mail a l'aide de
+        mot clés 'promo')
+      - rapidement inefficace face a la complexité du langage
+  - Modèles de Machine Learning
+
+      - compréhension du langage
+      - utilise des données pré-traités
+      - utilise d'autre procédés matématique et statistiques(longueur des phrases,
+        occurrence de mots spécifiques)
+  - Modèles de Deep Learning
+
+      - Beaucoup plus complexes
+      - intègre une énorme quantités de données pour essayer de créer un système proche
+        de notre système neuronale

@@ -70,10 +70,10 @@ Programme
      éléphants(mamouth)
 
      - Travaille au Musée national d'histoire naturelle pour extraire informations
-        génétiques des collections du musé
+       génétiques des collections du musé
 
      - Activitée faite: Dillution d'adn d'un échantillon de vertèbre de poisson.(annexe
-        2)
+       2)
 
 - **Vendredi après-midi**
 
@@ -112,24 +112,13 @@ Méthode d'apprentissage
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Il existe pour l'instant 3 grandes familles d'aprentissages utilisées pour les
-librairies de nlp:
+librairies de nlp(annexe 4):
 
   - Méthodes basées sur des règles
 
-      - résout des problèmes spécifiques (suprimer les spam des boites mail a l'aide de
-        mot clés 'promo')
-      - rapidement inefficace face a la complexité du langage
   - Modèles de Machine Learning
 
-      - compréhension du langage
-      - utilise des données pré-traités
-      - utilise d'autre procédés matématique et statistiques(longueur des phrases,
-        occurrence de mots spécifiques)
   - Modèles de Deep Learning
-
-      - Beaucoup plus complexes
-      - intègre une énorme quantités de données pour essayer de créer un système proche
-        de notre système neuronale
 
 Librairies et capacités
 ~~~~~~~~~~~~~~~~~~~~~~~

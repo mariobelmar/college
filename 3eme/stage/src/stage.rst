@@ -21,15 +21,8 @@ Carte d’identité de l’entreprise
 
 - J'ai donc fait mon stage dans le laboratoire UMR 7206, situé dans le muséum national
   histoire naturelle, 57 rue Cuvier a Paris dans le 5eme
-  Le laboratoire a 4 secteure d'activitées :
-    - Recherche
-    - Enseignement: Donner des cours dans les universités, c'est essentiellement le
-      travail des enseignants chercheurs
-    - Collections: Restaurer, entrenir, repertorier les collections du muséum
-    - Diffusion: Rendre le travail des chercheurs "publiques", l'expliquer, par exemple,
-      a la télé pour informer des découvertes, par exemple.
-    - Valorisation: Plus sérieux que la Diffusion, c'est publier ses recherches dans
-      une revue scientifique.
+  Le laboratoire a 4 secteure d'activitées: Recherche, Enseignement, Collections,
+  Diffusion et Valorisation(annexe 2)
 
 - Le laboratoire Eco-anthropologie UMR 7206 est une unité mixte de recherche du
   centre national de la recherche scientiifque (cnrs), du muséum nationnal d'hisoitre
