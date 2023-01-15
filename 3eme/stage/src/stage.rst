@@ -245,15 +245,21 @@ Exploration d’un métier
 Description d’un métier
 -----------------------
 
-Décrire un métier: chercheur en linguistique
+- Le travail de chercheurs consiste a se documenter et faire des recherches. Pour cela il
+  est parfois nécéssaire de se déplacer sur le lieux d'étude, certains chercheurs partent dans
+  des pays parfois en guerre car ils ont besoin d'échantillons de la population locale,
+  par exemple.  Mais le chercheur peut aussi avoir recourt a des données statistiques déjà
+  colectées sur internet.
 
-- tache : faire des recherches, se documenter, se déplacer si besoin soutien statistique
-- matériel utilisé : ordinateur, livres, enregistreur
-- organisation du travail : en public nous pouvons gérer soi-meme la progression de
-  notre travail tant que l'objetcif final est atteint (publier dans une recherche le
-  contenu de notre travail)
+- Donc le matériel nécéssaire varie selon l'objet d'étude et de la méthode de travail du
+  chercheur, mon maitre de stage, par exemple, n'utilise qu'un ordinateur et un
+  enregistreur, pour étudier des sons.
 
-Justifier le choix du métier décris
+- Le laboratoire de mon maitre de stage et le museum d'histoire naturelle sont des
+  établissement public. Ils peuvent donc gérer soi-meme la progression de
+  leurs travails tant que l'objetcif final est atteint (publier dans une recherche le
+  contenu de notre travail).
+
 
 Interview d’un professionnel
 ----------------------------
