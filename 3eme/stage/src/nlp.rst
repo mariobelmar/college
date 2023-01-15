@@ -253,6 +253,7 @@ Elle récupère les mots 'tone' et 'tones'
 
 A partir de la je vais vous expliquer d'abord le fonctionnement de la suite du
 programme.
+
 Après avoir récupéré le nombre d'occurences de mes mots clés, je vais pouvoir savoir si
 la langue possède bien ces typologies. Pour cela il faudra que je compare ce nombre
 d'occurences par rapport au reste du texte. Il y a plusieurs méthode.
@@ -263,8 +264,6 @@ d'occurences par rapport au reste du texte. Il y a plusieurs méthode.
 
     - **Calculer la médiane**
         C'est la méthode que je vais utiliser
-
-    - Autre méthode de marc
 
 Après cela il faut donc comparer cette médiane obtenue et le nombre d'occurrence des
 mots-clés. Mais si ces deux données sont trop proche on arrive au degré d'incertitude,

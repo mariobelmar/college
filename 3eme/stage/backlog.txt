@@ -7,7 +7,7 @@ Todo
   · Ce qui t’a déçu
   · Ce que tu as particulièrement apprécié
 - Décrire un métier -> mettre en forme
-- refaire 'extraction de typlogie'
+- refaire 'donner verbe' et 'extraction de typlogie'
 
 
 Done
