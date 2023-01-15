@@ -1,6 +1,25 @@
 Conclusion
 ==========
 
+Appréciation personnelle
+------------------------
+
+- Ce stage a été pour moi une belle expérience, très enrichissante qui m'a permis de
+  découvrir l'essentiel du métier. Entouré de toute l'équipe qui m'ont chacun montré
+  leur rôle dans l'entreprise, j'ai pu observer les méthodes de travail et constater les
+  réalités du métier.
+
+- Au delà du fait que ce stage a été pour moi une merveileuse découverte de la vie active,
+  il ne m'a pas permis de confirmer mon choix quand à mes futurs interets professionnels qui
+  seront surement tournés vers la médecine. Le monde l'informatique, et pas de la
+  recherche, quant a lui m'interese énormement.
+
+- J'ai aussi pu atteindre mes deux objectifs de programmations, qui sont tous les deux
+  détaillés dans ce rapport.
+
+Après avoir longuement parlé avec mon maitre de stage, j'ai pu trouvé de nombreux points
+positifs et quelques points négatifs:
+
 - points positifs
 
   - Liberté de travail
@@ -9,12 +28,10 @@ Conclusion
   - fonctionnaire donc si le laboratoire ferme, ils ont la garantie de
     trouver du travail dans une autre société
 
-- point négatif
+- points négatifs
 
   - salaire peu élevé
   - infrastructure interne (internet, cable) baclée
-
-Après avoir parlé avec
 
 Mes codes
 ~~~~~~~~~

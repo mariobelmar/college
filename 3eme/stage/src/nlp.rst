@@ -96,16 +96,21 @@ Programme
 Objectif
 --------
 
-- Mon premier objectif a été de produire un programme capable de donner les verbes et leur
-  nombres de fois qu'ils apparaissent dans un texte.
+- Avant le début du stage, avec mes parents et mon maitre de stage, nous nous étions mis
+  d'accord pour qu'a la fin du stage j'ai appris a codé et a mettre en application la
+  théorie, voici donc mes deux objectifs de programmations qui découlent de cette
+  application:
 
-- Mon deuxieme a été de produire un programme capable de révéler la présence de typologies
-  dans certaines langues a partir de mots clés.
+  1. Mon premier objectif a été de produire un programme capable de donner les verbes et leur
+     nombres de fois qu'ils apparaissent dans un texte.
 
-  Ex: On a un livre sur l'abun (langue de nouvelle guinée) et je veux savoir si
-  cette langue contient un système de ton, je vais donc chercher le nombre de fois
-  qu'apparait le mot 'ton', et en fonction de cela je vais décider si la langue contient
-  oui ou non un système de ton.
+  2. Mon deuxieme objectif a été de produire un programme capable de révéler la présence de typologies
+     dans certaines langues a partir de mots clés.
+
+     Ex: On a un livre sur l'abun (langue de nouvelle guinée) et je veux savoir si
+     cette langue contient un système de ton, je vais donc chercher le nombre de fois
+     qu'apparait le mot 'ton', et en fonction de cela je vais décider si la langue contient
+     oui ou non un système de ton.
 
 Théories
 --------
@@ -294,7 +299,7 @@ Pour produire un tableau j'utilise une autre librairie appelé pandas.
               - nombre de fois qu'apparait le mots clé
               - mediane du texte
               - difference
-              - existence de la typologie recherchée
+              - hasornot
             * - ani_2000_o
               - genders
               - 16
@@ -309,7 +314,7 @@ Pour produire un tableau j'utilise une autre librairie appelé pandas.
               - True
 
 - **difference** : comme dans l'ornigramme, k.occu - median_occurrence
-
+- **hasornot**:existence de la typologie recherchée
 .. mermaid::
 
   ---

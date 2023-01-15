@@ -6,12 +6,14 @@ Todo
   · Ce que tu as appris
   · Ce qui t’a déçu
   · Ce que tu as particulièrement apprécié
-- Décrire un métier -> mettre en forme
 - refaire 'donner verbe' et 'extraction de typlogie'
+- programme
+- tableau 
 
 
 Done
 ====
+- Décrire un métier -> mettre en forme
 - add questions/answer
 - improve and questions/answer
 - rename variables
@@ -30,3 +32,11 @@ Je garde ?
 - Méthodes d'apprentissage
 - ornigramme diff 
 - explication
+
+En annexe
+---------
+
+- expertise, valoriser etc..
+- dillution adn 
+- méthode d'apprentissage
+- 
