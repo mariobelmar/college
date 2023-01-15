@@ -45,7 +45,7 @@ Programme du 12 au 16 décembre
 - **Mercredi après midi**
 
    - Avancement sur le code
-   - Trier les documents(annexe 1)
+   - Trier les documents :ref:`src/conclusion:Annexe: soutien administratif`
 
 - **Jeudi matin**
 
@@ -72,8 +72,9 @@ Programme du 12 au 16 décembre
      - Travaille au Musée national d'histoire naturelle pour extraire informations
        génétiques des collections du musé
 
-     - Activitée faite: Dillution d'adn d'un échantillon de vertèbre de poisson.(annexe
-       2)
+     - Activitée faite: Dillution d'ADN d'un échantillon de vertèbre de poisson Cf. (annexe
+       2) 
+
 
 - **Vendredi après-midi**
 
@@ -84,41 +85,35 @@ Programme du 12 au 16 décembre
 
 Objectif
 --------
+- Avant le début du stage, avec mon maitre de stage, nous nous étions mis
+  d'accord pour qu'a la fin du stage j'ai appris a coder et à mettre en application la
+  théorie et les techniques du NLP, voici donc mes deux objectifs de programmations qui
+  découlent de cette application:
 
-- Avant le début du stage, avec mes parents et mon maitre de stage, nous nous étions mis
-  d'accord pour qu'a la fin du stage j'ai appris a codé et a mettre en application la
-  théorie du NLP , voici donc mes deux objectifs de programmations qui découlent de cette
-  application:
+  - Mon premier objectif a été de produire un programme capable **d'extraire les verbes** et
+    leur nombres de fois qu'ils apparaissent dans un texte.
 
-  1. Mon premier objectif a été de produire un programme capable de donner les verbes et leur
-     nombres de fois qu'ils apparaissent dans un texte.
+  - Mon deuxième objectif a été de produire un programme capable de révéler la **présence
+    de typologies** dans certaines langues a partir de mots clés. Un exemple de
+    typologies peut être l'utilisation de **ton** dans certaine langue e.g. le Chinois
+    ou un autre exemple la présence de **genre** dans certaine langues e.g. les langues
+    européennes.
 
-  2. Mon deuxieme objectif a été de produire un programme capable de révéler la présence de typologies
-     dans certaines langues a partir de mots clés.
-
-     Ex: On a un livre sur l'abun (langue de nouvelle guinée) et je veux savoir si
-     cette langue contient un système de ton, je vais donc chercher le nombre de fois
-     qu'apparait le mot 'ton', et en fonction de cela je vais décider si la langue contient
-     oui ou non un système de ton.
-
-Théories
---------
+Prise en main du NLP
+---------------------
 
 Le nlp est une branche de la programmation qui s'est développée il y a une dizaine
 d'années. Son but est que les ordinateurs puissent comprendre les langues humaines mais
 surtout qu'ils puissent les analysées et de traité des textes
 
-Méthode d'apprentissage
-~~~~~~~~~~~~~~~~~~~~~~~
-
+Méthode d'apprentissage, théorie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Il existe pour l'instant 3 grandes familles d'aprentissages utilisées pour les
-librairies de nlp(annexe 4):
+librairies de nlp cf.  :ref:`src/conclusion:Annexe: Evolution des techniques NLP`
 
-  - Méthodes basées sur des règles
-
-  - Modèles de Machine Learning
-
-  - Modèles de Deep Learning
+- Méthodes basées sur des règles
+- Modèles de Machine Learning
+- Modèles de Deep Learning
 
 Librairies et capacités
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,43 +121,42 @@ Librairies et capacités
 J'utilise la librairie nlp appelés Spacy, qui est assez récente mais plus rapide.
 Voici ce dont est capable Spacy:
 
-  1. La **tokenisation** ou **word segmentation**: découpé une phrase en plusieurs pièces, tokens.
-      a. Ex: 'bonjour les amis' -> 'bonjour', 'les', 'amis'
-  2. **lemmatization**: donner la forme canonique du mot, celle de base.
-      b. Ex: 'trouvaient' -> 'trouver'
-  3. **P.O.S tagging**: a partir de l'endroit ou se trouve le verbe
-     dans la phrase on assigne au mot(token) sa nature.
-      c. Ex: 'l'enfant mange une pomme' -> l'enfant : sujet | mange : verbe | etc..
-  4. **dependency parsing**: dépendance a d'autre mots dans la phrase, c'est aussi le
-     contexte, un mot peut changer le sens d'un autre mot.
-      d. Ex: le mot 'que' peut signifier plein de chose
+- La **tokenisation** ou **word segmentation**: découpé une phrase en plusieurs pièces,
+  tokens.
+  - Ex: 'bonjour les amis' -> 'bonjour', 'les', 'amis'
+- **lemmatization**: donner la forme canonique du mot, celle de base.
+
+  - Ex: 'trouvaient' -> 'trouver'
+- **P.O.S tagging**: a partir de l'endroit ou se trouve le verbe dans la phrase on
+  assigne au mot(token) sa nature.
+
+  - Ex: 'l'enfant mange une pomme' -> l'enfant : sujet | mange : verbe | etc..
+- **dependency parsing**: dépendance a d'autre mots dans la phrase, c'est aussi le
+  contexte, un mot peut changer le sens d'un autre mot.
+
+  - Ex: le mot 'que' peut signifier plein de chose
 
 Grace a toutes ces étapes nous serons capable de produire un code qui, par exemple,
 trouve le nombre de fois qu'apparait un mot dans un texte
 
-
-Découverte du NLP
-------------------
-
-Je vais utiliser le langage appelé Python.  Un langage informatique est comme une langue
+Premier code NLP: détection des verbes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+J'ai utilisé le langage appelé Python.  Un langage informatique est comme une langue
 humaine, c'est une langue **compréhensible** par l'ordinateur. Il existe énormement de
-langage different.
+langage diffèrent.
 
 Premier code Python et Spacy
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Mots clés :
 
- - **fonction**: on donne a fonction une ou plusieurs choses et la fonction nous renvoit une
-   version transformé de cette chose. Ex: on donne a la fonction deux chiffre et elle
-   nous renvoit la somme des deux.
-
+- **fonction**: on donne a fonction une ou plusieurs choses et la fonction nous renvoit une
+ version transformé de cette chose. Ex: on donne a la fonction deux chiffre et elle
+ nous renvoit la somme des deux.
 
 Exctraction de verbe
 ++++++++++++++++++++
 
-
-On appelle la librairie spacy, c'est donc l'extension qui me permet de faire
+On utilise la librairie spacy, c'est donc l'extension qui me permet de faire
 plus de chose, ici de traiter des textes
 
 .. code ::
@@ -210,7 +204,14 @@ C'etait le premier code que j'ai pu faire. L'intétralité du code se trouve dan
 codes' a la fin du chapitre 3, conclusion.
 
 Exctraction de typologies
-++++++++++++++++++++++++++
+--------------------------
+Les données d'entrées sont une liste de grammaires, (nous avons travaillé sur 9 grammaires
+mais le code peut être utilisé sur les grammaires de 7000 langues documenté au
+laboratoire)
+
+De tout ce que j'ai fait cette semaine, il s'agit de la partie la plus proche d'un
+travail de recherche, détecter la présence de certaine typologies (genre, ton) dans ces
+grammaires sur lesquelles travail le laboratoire UMR7206.
 
 Comme expliqué dans 'Objectifs' je vais 'extraire' certaines typologies de certaines
 langues. Je vais donc me concentrer sur la présence de Tons(en chinois mais aussi en
@@ -218,6 +219,13 @@ espagnol), et la présence de genre(masc / fem / neut / etc...).
 Pour cela je vais choisir des mots clés, ici ce sera très facile, qui seront 'tone' et
 'gender' (mes pdf sont en anglais), dans certains cas il est plus compliqué de trouvé
 les bons mots clés(pour les système de multplication)
+
+.. note::
+
+  - Compter les mot de chaque typologies
+  - Calculer la médiane d'occurence de chaque mot du texte définissant la grammaire.
+  - Comparer pour chaque typologie son nombre d'occurence à la médiane
+  - Arbitrer si la difference est suffissan pour décider.
 
 J'ai donc une première fonction qui me permet de me donner le nombre de fois qu'apparait les mot
 'tone' et 'tones'. Cette fonction est assez similaire au programme qui me renvoit les
@@ -240,12 +248,12 @@ Après avoir récupéré le nombre d'occurences de mes mots clés, je vais pouvo
 la langue possède bien ces typologies. Pour cela il faudra que je compare ce nombre
 d'occurences par rapport au reste du texte. Il y a plusieurs méthode.
 
-    - Calculer la moyenne
-        Problèmes: les mots appelés fonctions (the, of, etc..) vont réhausser la moyenne.
-        C'est le principe
+- Calculer la moyenne
+    Problèmes: les mots appelés fonctions (the, of, etc..) vont réhausser la moyenne.
+    C'est le principe
 
-    - **Calculer la médiane**
-        C'est la méthode que je vais utiliser
+- **Calculer la médiane**
+    C'est la méthode que je vais utiliser
 
 Après cela il faut donc comparer cette médiane obtenue et le nombre d'occurrence des
 mots-clés. Mais si ces deux données sont trop proche on arrive au degré d'incertitude,
@@ -266,29 +274,29 @@ Puis, il faut comparer la médianne avec les occurrences et produire un tableau 
 toutes les données.
 Pour produire un tableau j'utilise une autre librairie appelé pandas.
 
-         .. list-table:: tableau final d'extraction de typologies(ton et genre)
-            :widths: 100 100 100 100 100 100
-            :header-rows: 1
-            :stub-columns: 0
+.. list-table:: tableau final d'extraction de typologies(ton et genre)
+   :widths: 100 100 100 100 100 100
+   :header-rows: 1
+   :stub-columns: 0
 
-            * - fichier analysé
-              - typologie recherché
-              - nb d'occurence
-              - mediane du texte
-              - difference
-              - hasornot
-            * - ani_2000_o
-              - genders
-              - 16
-              - 1
-              - 15
-              - True
-            * - aari_1994_o
-              - genders
-              - 6
-              - 1
-              - 5
-              - True
+   * - fichier analysé
+     - typologie recherché
+     - nb d'occurence
+     - mediane du texte
+     - difference
+     - hasornot
+   * - ani_2000_o
+     - genders
+     - 16
+     - 1
+     - 15
+     - True
+   * - aari_1994_o
+     - genders
+     - 6
+     - 1
+     - 5
+     - True
 
 - **difference** : comme dans l'ornigramme, k.occu - median_occurrence
 - **hasornot**:existence de la typologie recherchée
