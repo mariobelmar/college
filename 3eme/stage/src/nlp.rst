@@ -44,12 +44,12 @@ Programme
 
 - **Mercredi après midi**
 
-   - Avancement sur le code 
+   - Avancement sur le code
    - Trier les documents
 
 - **Jeudi matin**
 
-   - Avancement sur le code 
+   - Avancement sur le code
    - Trier les documents
 
 - **Jeudi après midi**
@@ -69,10 +69,11 @@ Programme
      compréhension de l'évolution des éléphants il analyse donc les ancetres des
      éléphants(mamouth)
 
-     1. Travaille au Musée national d'histoire naturelle pour extraire informations 
+     1. Travaille au Musée national d'histoire naturelle pour extraire informations
         génétiques des collections du musé
 
-     2. Activitée faite: Dillution d'adn d'un échantillon de vertèbre de poisson.
+     2. Activitée faite: Dillution d'adn d'un échantillon de vertèbre de poisson.(annexe
+        1)
          a. but: que mangait les homme pré. le long de la Loire?
 
          A. dillution d'adn d'un échantillon de vertèbre de poisson a l'aide d'un
@@ -296,7 +297,7 @@ Pour produire un tableau j'utilise une autre librairie appelé pandas.
 
             * - fichier analysé
               - typologie recherché
-              - nombre de fois qu'apparait le mots clé
+              - nb d'occurence
               - mediane du texte
               - difference
               - hasornot
@@ -315,6 +316,7 @@ Pour produire un tableau j'utilise une autre librairie appelé pandas.
 
 - **difference** : comme dans l'ornigramme, k.occu - median_occurrence
 - **hasornot**:existence de la typologie recherchée
+
 .. mermaid::
 
   ---

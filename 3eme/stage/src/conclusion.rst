@@ -17,21 +17,21 @@ Appréciation personnelle
 - J'ai aussi pu atteindre mes deux objectifs de programmations, qui sont tous les deux
   détaillés dans ce rapport.
 
-Après avoir longuement parlé avec mon maitre de stage, j'ai pu trouvé de nombreux points
-positifs et quelques points négatifs:
+- Après avoir longuement parlé avec mon maitre de stage, j'ai pu trouvé de nombreux points
+  positifs et quelques points négatifs:
 
-- points positifs
+  - **points positifs**
 
-  - Liberté de travail
-  - Liberté d'horaires
-  - Atmoshpère général du laboratoire
-  - fonctionnaire donc si le laboratoire ferme, ils ont la garantie de
-    trouver du travail dans une autre société
+     - Liberté de travail
+     - Liberté d'horaires
+     - Atmoshpère général du laboratoire
+     - fonctionnaire donc si le laboratoire ferme, ils ont la garantie de
+       trouver du travail dans une autre société
 
-- points négatifs
+  - **points négatifs**
 
-  - salaire peu élevé
-  - infrastructure interne (internet, cable) baclée
+     - salaire peu élevé
+     - infrastructure interne (internet, cable) baclée
 
 Mes codes
 ~~~~~~~~~
@@ -80,3 +80,22 @@ Puis un test de citation en note de bas de page ici :footcite:p:`d2014recueils`
 
 .. footbibliography::
 
+
+Annexe
+======
+
+Annexe 1. Dillution d'adn d'un échantillon de vertèbre de poisson.
+------------------------------------------------------------------
+
+ but: que mangait les homme pré. le long de la Loire?
+
+   1. dillution d'adn d'un échantillon de vertèbre de poisson a l'aide d'un
+     micro-pippette
+
+     A. déposer diluant
+     B. déposer adn dans le diluant
+
+   2. Electrophorèse cappilaire
+
+     A. Ajout de liquide fluoerescent pour la machine
+     B. resultat: bande d'ADN
