@@ -1,6 +1,6 @@
 Todo
 ====
-
+- remove unneeded bullet points
 - annexe 1 taoues
 - refaire 'donner verbe' et 'extraction de typlogie'
 - réoganiser ordre annexe 1, 2etcc
@@ -8,8 +8,9 @@ Todo
 Done
 ====
 - programme
-- tableau 
+- tableau
 - experience: **experience vécue**
+
   · Ce que tu as découvert
   · Ce qui t’a surpris
   · Ce que tu as appris
@@ -25,19 +26,18 @@ Done
 - make function for True, False, None: has_key
 - sort dataframe
 - make feather
-- go from Gy, Gf, Ty, Tf to Gy, Gf, G?, Ty, Tf, T? 
+- go from Gy, Gf, Ty, Tf to Gy, Gf, G?, Ty, Tf, T?
   - identify langs with T? and G?
 
 Je garde ?
 ==========
 
 - Méthodes d'apprentissage
-- ornigramme diff 
+- ornigramme diff
 - explication
 
 En annexe
 ---------
 
 - expertise, valoriser etc..
-- dillution adn 
-- 
+- dillution adn
