@@ -6,12 +6,12 @@ Rapport de stage au Laboratoire CNRS du musé de l'homme
 Introduction
 =============
 
-- Mon maitre de stage était une personne que je connaissais bien.
-  Nous pratiquions la meme activitée physique depuis une année.
-  Et lorsque qu'il a entendu que je devais faire un stage, il m'a proposé faire une
-  visite de son laboratoire. Cette visite m'a beaucoup plu et j'ai eu l'idée de
-  faire mon stage dans son laboratoire, c'était aussi car je voulais rencontrer les
-  différents métiers qui y étaient exercés
+Mon maitre de stage était une personne que je connaissais bien ; nous pratiquions la
+meme activitée physique depuis une année. Lorsque qu'il a entendu que je devais faire un
+stage, il m'a proposé faire une visite de son laboratoire.
+
+Cette visite m'a beaucoup plu et j'ai eu l'idée de faire mon stage dans son laboratoire,
+c'était aussi car je voulais rencontrer les différents métiers qui y étaient exercés
 
 Présentation de l’entreprise
 =================================
@@ -22,7 +22,7 @@ Carte d’identité de l’entreprise
 - J'ai donc fait mon stage dans le laboratoire UMR 7206, situé dans le muséum national
   histoire naturelle, 57 rue Cuvier a Paris dans le 5eme
   Le laboratoire a 4 secteure d'activitées: Recherche, Enseignement, Collections,
-  Diffusion et Valorisation(annexe 2)
+  Diffusion et Valorisation :ref:`src/conclusion:Annexe: activité du laboratoire`
 
 - Le laboratoire Eco-anthropologie UMR 7206 est une unité mixte de recherche du
   centre national de la recherche scientiifque (cnrs), du muséum nationnal d'hisoitre
@@ -33,17 +33,18 @@ Carte d’identité de l’entreprise
     - plus de 1500 de plublication scientifiques par an.
     - 68 millions de spécimens au sein des collections
     - plus de 10 millions de spécimens ou lots informatisés ou numérisés
-    - Plus de 2 millions de documents, livres, périodiques, ressources électroniques, archives,
-      dessins, objets scientifiques ou artistiques dans les bibliothèques.
+    - Plus de 2 millions de documents, livres, périodiques, ressources électroniques,
+      archives, dessins, objets scientifiques ou artistiques dans les bibliothèques.
 
 - Le laboratoire UMR 7206 developpe des recherches interdisciplinaire sur l'Homme,
-  individuellement ou collectivement, et leur interactions avec l'environnement
-  Et le Muséum se consacre depuis des siècles à l’étude de la diversité biologique, géologique et
-  culturelle, et aux relations entre les humains et la nature.
+  individuellement ou collectivement, et leur interactions avec l'environnement Et le
+  Muséum se consacre depuis des siècles à l’étude de la diversité biologique, géologique
+  et culturelle, et aux relations entre les humains et la nature.
 
-- Le laboratoire lui meme n'a pas de client car ce n'est pas un entreprise a but lucrative
-  Il y a des chercheurs ou des étudiants qui viennent voir les collections mais ce n'est pas
-  payant et il leur faut une autorisation.
+- Le laboratoire lui meme n'a pas de client car ce n'est pas un entreprise a but
+  lucrative Il y a des chercheurs ou des étudiants qui viennent voir les collections
+  mais ce n'est pas payant et il leur faut une autorisation.
+
   Si l'on parle du muséum il compte plus de 6 millions de personnes accueillies
   sur les 13 sites du Muséum, dont plus de 3 millions de visiteurs payants.Plus de 6
   millions de visiteurs sur les sites Internet.
