@@ -45,7 +45,7 @@ Programme
 - **Mercredi après midi**
 
    - Avancement sur le code
-   - Trier les documents
+   - Trier les documents(annexe 1)
 
 - **Jeudi matin**
 
@@ -69,23 +69,11 @@ Programme
      compréhension de l'évolution des éléphants il analyse donc les ancetres des
      éléphants(mamouth)
 
-     1. Travaille au Musée national d'histoire naturelle pour extraire informations
+     - Travaille au Musée national d'histoire naturelle pour extraire informations
         génétiques des collections du musé
 
-     2. Activitée faite: Dillution d'adn d'un échantillon de vertèbre de poisson.(annexe
-        1)
-         a. but: que mangait les homme pré. le long de la Loire?
-
-         A. dillution d'adn d'un échantillon de vertèbre de poisson a l'aide d'un
-            micro-pippette
-
-           1. déposer diluant
-           2. déposer adn dans le diluant
-
-         B. Electrophorèse cappilaire
-
-           1. Ajout de liquide fluoerescent pour la machine
-           2. resultat: bande d'ADN
+     - Activitée faite: Dillution d'adn d'un échantillon de vertèbre de poisson.(annexe
+        2)
 
 - **Vendredi après-midi**
 

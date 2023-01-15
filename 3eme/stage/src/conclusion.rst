@@ -84,7 +84,27 @@ Puis un test de citation en note de bas de page ici :footcite:p:`d2014recueils`
 Annexe
 ======
 
-Annexe 1. Dillution d'adn d'un échantillon de vertèbre de poisson.
+Annexe 1. Recherche, enseignement, collections, diffusion, valorisation
+-----------------------------------------------------------------------
+
+    - Recherche:
+    - Enseignement: Donner des cours dans les universités, c'est essentiellement le
+      travail des enseignants chercheurs
+    - Collections: Restaurer, entrenir, repertorier les collections du muséum
+    - Diffusion: Rendre le travail des chercheurs "publiques", l'expliquer, par exemple,
+      a la télé pour informer des découvertes, par exemple.
+    - Valorisation: Plus sérieux que la Diffusion, c'est publier ses recherches dans
+      une revue scientifique.
+
+
+Annexe 2. Trie des documents avec Taoues
+----------------------------------------
+
+Taoues s'occupe de ... elle est la ...
+J'ai du séparer ... des ...
+Avec ...(personnes)...
+
+Annexe 3. Dillution d'adn d'un échantillon de vertèbre de poisson.
 ------------------------------------------------------------------
 
  but: que mangait les homme pré. le long de la Loire?
