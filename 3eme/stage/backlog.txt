@@ -1,18 +1,20 @@
 Todo
 ====
+
+- annexe 1 taoues
+- refaire 'donner verbe' et 'extraction de typlogie'
+- réoganiser ordre annexe 1, 2etcc
+
+Done
+====
+- programme
+- tableau 
 - experience: **experience vécue**
   · Ce que tu as découvert
   · Ce qui t’a surpris
   · Ce que tu as appris
   · Ce qui t’a déçu
   · Ce que tu as particulièrement apprécié
-- refaire 'donner verbe' et 'extraction de typlogie'
-- programme
-- tableau 
-
-
-Done
-====
 - Décrire un métier -> mettre en forme
 - add questions/answer
 - improve and questions/answer
@@ -38,5 +40,4 @@ En annexe
 
 - expertise, valoriser etc..
 - dillution adn 
-- méthode d'apprentissage
 - 

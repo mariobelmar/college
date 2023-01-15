@@ -3,27 +3,21 @@ Conclusion
 
 Appréciation personnelle
 ------------------------
-
 - Ce stage a été pour moi une belle expérience, très enrichissante qui m'a permis de
   découvrir l'essentiel du métier. Entouré de toute l'équipe qui m'ont chacun montré
   leur rôle dans l'entreprise, j'ai pu observer les méthodes de travail et constater les
-  réalités du métier.
 
 - Au delà du fait que ce stage a été pour moi une merveileuse découverte de la vie active,
   il ne m'a pas permis de confirmer mon choix quand à mes futurs interets professionnels qui
-  seront surement tournés vers la médecine. Le monde l'informatique, et pas de la
   recherche, quant a lui m'interese énormement.
 
 - J'ai aussi pu atteindre mes deux objectifs de programmations, qui sont tous les deux
-  détaillés dans ce rapport.
 
 - Après avoir longuement parlé avec mon maitre de stage, j'ai pu trouvé de nombreux points
   positifs et quelques points négatifs:
-
   - **points positifs**
 
      - Liberté de travail
-     - Liberté d'horaires
      - Atmoshpère général du laboratoire
      - fonctionnaire donc si le laboratoire ferme, ils ont la garantie de
        trouver du travail dans une autre société
@@ -40,29 +34,7 @@ Premier code:
 
 .. code ::
 
-  import spacy
-  nlp = spacy.load("en_core_web_sm")
-  NOVEL = '../../snt/ndm/alice.txt'
 
-  def get_text_from_file(file: str) -> str:
-      with open(file, 'r') as myfile:
-          text = myfile.read()
-      return text
-
-
-  def get_only_verbs(ltext: str) -> list[str]:
-      doc = nlp(ltext)
-      verbs = []
-      for token in doc:
-          if token.pos_ == "VERB":
-              verbs.append(token.lemma_)
-      return verbs
-
-  text = get_text_from_file(NOVEL)
-  verbs = sorted(get_only_verbs(ltext))
-  verbs_set = sorted(list(set(verbs)))
-  print(f'==> only verbs there are {len(verbs)}: {verbs}')
-  print(f'==> only verbs without repetition there are {len(verbs_set)}: {verbs_set}')
 
 Bibliography
 =============
