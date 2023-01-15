@@ -30,10 +30,9 @@ Appréciation personnelle
 Mes codes
 ~~~~~~~~~
 
-Premier code:
+Premier code::
 
-.. code ::
-
+  $ ndm.py
 
 
 Bibliography
@@ -53,31 +52,32 @@ Puis un test de citation en note de bas de page ici :footcite:p:`d2014recueils`
 .. footbibliography::
 
 
+
 Annexe
 ======
 
-Annexe 1. 
-----------
+.. https://www.sphinx-doc.org/en/master/usage/restructuredtext/roles.html#cross-referencing-arbitrary-locations
 
-Recherche, enseignement, collections, diffusion, valorisation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Annexe: activité du laboratoire
+-------------------------------
 
-    - Recherche: Découvrir, apprendre pour ensuite faire de la diffusion et de la
-      valorisation.
-    - Enseignement: Donner des cours dans les universités, c'est essentiellement le
-      travail des enseignants chercheurs
-    - Collections: Restaurer, entrenir, repertorier les collections du muséum
-    - Diffusion: Rendre le travail des chercheurs "publiques", l'expliquer a la télé
-      pour informer des découvertes, par exemple.
-    - Valorisation: Plus sérieux que la Diffusion, c'est publier ses recherches dans
-      une revue scientifique.
+Les secteurs d'activité du laboratoire UMR7206 sont la Recherche, l'enseignement,
+la gestion des collections, la diffusion et la valorisations de la recherche.
 
+- Recherche: Découvrir, apprendre pour ensuite faire de la diffusion et de la
+  valorisation.
+- Enseignement: Donner des cours dans les universités, c'est essentiellement le
+  travail des enseignants chercheurs
+- Collections: Restaurer, entrenir, repertorier les collections du muséum
+- Diffusion: Rendre le travail des chercheurs "publiques", l'expliquer a la télé
+  pour informer des découvertes, par exemple.
+- Valorisation: Plus sérieux que la Diffusion, c'est publier ses recherches dans
+  une revue scientifique.
 
-Annexe 2.
----------
+Annexe: soutien administratif
+------------------------------
 
 Trie des documents avec Taoues
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Taoues s'occupe de toute l'administration du laboratoire EA UMR 7206,
   elle est la Responsable administrative et la secrétaire générale.
@@ -97,44 +97,38 @@ Trie des documents avec Taoues
 
 - Cette tache nous a pris plus de 10h tout le long de la semaine de stage.
 
-Annexe 3.
----------
+Annexe: Dillution d'ADN
+------------------------
 
-Dillution d'adn d'un échantillon de vertèbre de poisson.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Objectif: Que mangait les hommes préhistoriques le long de la Loire ?
 
- but: que mangait les hommes préhistoriques le long de la Loire?
+- dillution d'adn d'un échantillon de vertèbre de poisson a l'aide d'un
+  micro-pippette
 
-   1. dillution d'adn d'un échantillon de vertèbre de poisson a l'aide d'un
-     micro-pippette
+ - déposer diluant
+ - déposer adn dans le diluant
 
-     A. déposer diluant
-     B. déposer adn dans le diluant
+- Electrophorèse cappilaire
 
-   2. Electrophorèse cappilaire
+ - Ajout de liquide fluoerescent pour la machine
+ - resultat: bande d'ADN
 
-     A. Ajout de liquide fluoerescent pour la machine
-     B. resultat: bande d'ADN
+Annexe: Evolution des techniques NLP
+-------------------------------------
 
-Annexe 4.
----------
+- Méthodes basées sur des règles
 
-Méthode d'apprentissage de NLP
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    - résout des problèmes spécifiques (suprimer les spam des boites mail a l'aide de
+      mot clés 'promo')
+    - rapidement inefficace face a la complexité du langage humain.
+- Modèles de Machine Learning
 
-  - Méthodes basées sur des règles
+    - compréhension avancée du langage
+    - utilise des données pré-traités
+    - utilise d'autre procédés matématique et statistiques(longueur des phrases,
+      occurrence de mots spécifiques)
+- Modèles de Deep Learning
 
-      - résout des problèmes spécifiques (suprimer les spam des boites mail a l'aide de
-        mot clés 'promo')
-      - rapidement inefficace face a la complexité du langage humain.
-  - Modèles de Machine Learning
-
-      - compréhension avancée du langage
-      - utilise des données pré-traités
-      - utilise d'autre procédés matématique et statistiques(longueur des phrases,
-        occurrence de mots spécifiques)
-  - Modèles de Deep Learning
-
-      - Beaucoup plus complexes
-      - intègre une énorme quantités de données pour essayer de créer un système proche
-        de notre système neuronale
+    - Beaucoup plus complexes
+    - intègre une énorme quantités de données pour essayer de créer un système proche
+      de notre système neuronale
