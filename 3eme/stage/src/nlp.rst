@@ -1,8 +1,8 @@
 Mes travaux de NLP
 ==================
 
-Programme
-----------
+Programme du 12 au 16 décembre
+------------------------------
 
 - **Lundi Matin**
 
@@ -87,7 +87,7 @@ Objectif
 
 - Avant le début du stage, avec mes parents et mon maitre de stage, nous nous étions mis
   d'accord pour qu'a la fin du stage j'ai appris a codé et a mettre en application la
-  théorie, voici donc mes deux objectifs de programmations qui découlent de cette
+  théorie du NLP , voici donc mes deux objectifs de programmations qui découlent de cette
   application:
 
   1. Mon premier objectif a été de produire un programme capable de donner les verbes et leur
@@ -126,16 +126,16 @@ Librairies et capacités
 J'utilise la librairie nlp appelés Spacy, qui est assez récente mais plus rapide.
 Voici ce dont est capable Spacy:
 
-  1. La **tokenisation** ou **word segmentation**: découpé une phrase en plusieurs pièces, token
-     Ex: 'bonjour les amis' -> 'bonjour', 'les', 'amis'
+  1. La **tokenisation** ou **word segmentation**: découpé une phrase en plusieurs pièces, tokens.
+      a. Ex: 'bonjour les amis' -> 'bonjour', 'les', 'amis'
   2. **lemmatization**: donner la forme canonique du mot, celle de base.
-     Ex: 'trouvaient' -> 'trouver'
+      b. Ex: 'trouvaient' -> 'trouver'
   3. **P.O.S tagging**: a partir de l'endroit ou se trouve le verbe
      dans la phrase on assigne au mot(token) sa nature.
-     Ex: 'l'enfant mange une pomme' -> l'enfant : sujet | mange : verbe | etc..
+      c. Ex: 'l'enfant mange une pomme' -> l'enfant : sujet | mange : verbe | etc..
   4. **dependency parsing**: dépendance a d'autre mots dans la phrase, c'est aussi le
-     contexte.
-     Ex: un mot peut changer le sens d'un autre mot
+     contexte, un mot peut changer le sens d'un autre mot.
+      d. Ex: le mot 'que' peut signifier plein de chose
 
 Grace a toutes ces étapes nous serons capable de produire un code qui, par exemple,
 trouve le nombre de fois qu'apparait un mot dans un texte
@@ -144,10 +144,9 @@ trouve le nombre de fois qu'apparait un mot dans un texte
 Découverte du NLP
 ------------------
 
-Je vais commencer par vous expliquer le langage que je vais utiliser. C'est un langage
-appelé Python.
-Un langage informatique est comme une langue humaine, c'est une langue
-**compréhensible** par l'ordinateur. Il existe énormement de langage different.
+Je vais utiliser le langage appelé Python.  Un langage informatique est comme une langue
+humaine, c'est une langue **compréhensible** par l'ordinateur. Il existe énormement de
+langage different.
 
 Premier code Python et Spacy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~

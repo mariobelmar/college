@@ -90,12 +90,13 @@ Annexe 1.
 Recherche, enseignement, collections, diffusion, valorisation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    - Recherche:
+    - Recherche: Découvrir, apprendre pour ensuite faire de la diffusion et de la
+      valorisation.
     - Enseignement: Donner des cours dans les universités, c'est essentiellement le
       travail des enseignants chercheurs
     - Collections: Restaurer, entrenir, repertorier les collections du muséum
-    - Diffusion: Rendre le travail des chercheurs "publiques", l'expliquer, par exemple,
-      a la télé pour informer des découvertes, par exemple.
+    - Diffusion: Rendre le travail des chercheurs "publiques", l'expliquer a la télé
+      pour informer des découvertes, par exemple.
     - Valorisation: Plus sérieux que la Diffusion, c'est publier ses recherches dans
       une revue scientifique.
 
@@ -106,9 +107,23 @@ Annexe 2.
 Trie des documents avec Taoues
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Taoues s'occupe de ... elle est la ...
-- J'ai du séparer ... des ...
-- Avec ...(personnes)...
+- Taoues s'occupe de toute l'administration du laboratoire EA UMR 7206,
+  elle est la Responsable administrative et la secrétaire générale.
+
+- Elle nous, moi et d'autres stagiaires, a donc donner pour taches de trier les
+  documents du laboratoire.
+
+- Nous devions séparer ces documents d'abord par établissement (CNRS et MNHN),
+  puis encore les séparer en bon de commande et  ordre de mission.
+
+  - Bon de commande: le muséum(MNHN) ou le CNRS a besoin d'un nouvel objet, il doit donc
+    expliquer a la direction pourquoi il en a besoin et combien il en veut.
+
+  - Ordre de mission: Lorsqu'un chercheur, enseignant-chercheur ou support doit partir
+    quelque part il doit laisser une trace et dire a la direction ou il part cela
+    justifie qu'il ne soit pas au 'bureau'.
+
+- Cette tache nous a pris plus de 10h tout le long de la semaine de stage.
 
 Annexe 3.
 ---------
@@ -116,7 +131,7 @@ Annexe 3.
 Dillution d'adn d'un échantillon de vertèbre de poisson.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- but: que mangait les homme pré. le long de la Loire?
+ but: que mangait les hommes préhistoriques le long de la Loire?
 
    1. dillution d'adn d'un échantillon de vertèbre de poisson a l'aide d'un
      micro-pippette
@@ -139,10 +154,10 @@ Méthode d'apprentissage de NLP
 
       - résout des problèmes spécifiques (suprimer les spam des boites mail a l'aide de
         mot clés 'promo')
-      - rapidement inefficace face a la complexité du langage
+      - rapidement inefficace face a la complexité du langage humain.
   - Modèles de Machine Learning
 
-      - compréhension du langage
+      - compréhension avancée du langage
       - utilise des données pré-traités
       - utilise d'autre procédés matématique et statistiques(longueur des phrases,
         occurrence de mots spécifiques)
